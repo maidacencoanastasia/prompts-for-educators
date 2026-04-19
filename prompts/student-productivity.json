@@ -1,0 +1,42 @@
+﻿[
+    {
+        "id":  "u05",
+        "category":  "Student Productivity",
+        "tags":  [
+                     "time management",
+                     "study plan",
+                     "exams",
+                     "productivity"
+                 ],
+        "title":  {
+                      "en":  "Semester Study System Generator",
+                      "ro":  "Generator de sistem de studiu pe semestru",
+                      "ru":  "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹ ÑƒÑ‡ÐµÐ±Ñ‹ Ð½Ð° ÑÐµÐ¼ÐµÑÑ‚Ñ€"
+                  },
+        "content":  {
+                        "en":  "Design a realistic semester study system for a university student with these courses: [course list], weekly availability [hours], and exam dates [dates].\n\nInclude:\n- Weekly timetable blocks (deep study, revision, admin tasks)\n- Priority rule for difficult courses\n- A 2-week exam sprint strategy\n- A catch-up protocol for missed sessions\n- Progress tracking template (weekly review)\n\nMake it sustainable and suitable for part-time working students.",
+                        "ro":  "ConstruieÈ™te un sistem realist de studiu pentru un student universitar cu disciplinele [lista], disponibilitate sÄƒptÄƒmÃ¢nalÄƒ [ore], È™i datele examenelor [date].\n\nInclude:\n- Blocuri sÄƒptÄƒmÃ¢nale (studiu profund, recapitulare, sarcini administrative)\n- RegulÄƒ de prioritizare pentru materiile dificile\n- Strategie de 2 sÄƒptÄƒmÃ¢ni Ã®nainte de examene\n- Protocol de recuperare cÃ¢nd pierd sesiuni de studiu\n- È˜ablon de monitorizare a progresului (review sÄƒptÄƒmÃ¢nal)\n\nSÄƒ fie sustenabil pentru studenÈ›i care È™i lucreazÄƒ part-time.",
+                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ñ€ÐµÐ°Ð»Ð¸ÑÑ‚Ð¸Ñ‡Ð½ÑƒÑŽ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ ÑƒÑ‡ÐµÐ±Ñ‹ Ð½Ð° ÑÐµÐ¼ÐµÑÑ‚Ñ€ Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð° Ð²ÑƒÐ·Ð° Ñ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð°Ð¼Ð¸ [ÑÐ¿Ð¸ÑÐ¾Ðº], Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ð¼ Ð²Ñ€ÐµÐ¼ÐµÐ½ÐµÐ¼ [Ñ‡Ð°ÑÑ‹/Ð½ÐµÐ´ÐµÐ»Ñ] Ð¸ Ð´Ð°Ñ‚Ð°Ð¼Ð¸ ÑÐºÐ·Ð°Ð¼ÐµÐ½Ð¾Ð² [Ð´Ð°Ñ‚Ñ‹].\n\nÐ’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ðµ:\n- ÐÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸ (Ð³Ð»ÑƒÐ±Ð¾ÐºÐ°Ñ ÑƒÑ‡ÐµÐ±Ð°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ðµ, Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ Ð·Ð°Ð´Ð°Ñ‡Ð¸)\n- ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾ Ð¿Ñ€Ð¸Ð¾Ñ€Ð¸Ñ‚Ð¸Ð·Ð°Ñ†Ð¸Ð¸ ÑÐ»Ð¾Ð¶Ð½Ñ‹Ñ… Ð´Ð¸ÑÑ†Ð¸Ð¿Ð»Ð¸Ð½\n- Ð¡Ñ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸ÑŽ Ð´Ð²ÑƒÑ…Ð½ÐµÐ´ÐµÐ»ÑŒÐ½Ð¾Ð³Ð¾ Â«ÑÐºÐ·Ð°Ð¼ÐµÐ½Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ ÑÐ¿Ñ€Ð¸Ð½Ñ‚Ð°Â»\n- ÐŸÑ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð» Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ñ€Ð¾Ð¿ÑƒÑ‰ÐµÐ½Ð½Ñ‹Ñ… ÑÐµÑÑÐ¸Ð¹\n- Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¾Ñ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ð½Ð¸Ñ Ð¿Ñ€Ð¾Ð³Ñ€ÐµÑÑÐ° (ÐµÐ¶ÐµÐ½ÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¾Ð±Ð·Ð¾Ñ€)\n\nÐ¡Ð´ÐµÐ»Ð°Ð¹Ñ‚Ðµ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ ÑƒÑÑ‚Ð¾Ð¹Ñ‡Ð¸Ð²Ð¾Ð¹ Ð¸ Ð¿Ð¾Ð´Ñ…Ð¾Ð´ÑÑ‰ÐµÐ¹ Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð¾Ð² Ñ Ð¿Ð¾Ð´Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¾Ð¹."
+                    }
+    },
+    {
+        "id":  "u06",
+        "category":  "Student Productivity",
+        "tags":  [
+                     "work-study balance",
+                     "routine",
+                     "burnout prevention",
+                     "planning"
+                 ],
+        "title":  {
+                      "en":  "Work-Study-Life Balance Planner",
+                      "ro":  "Planificator echilibru muncÄƒ-studiu-viaÈ›Äƒ",
+                      "ru":  "ÐŸÐ»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ñ‰Ð¸Ðº Ð±Ð°Ð»Ð°Ð½ÑÐ° ÑƒÑ‡ÐµÐ±Ð°-Ñ€Ð°Ð±Ð¾Ñ‚Ð°-Ð¶Ð¸Ð·Ð½ÑŒ"
+                  },
+        "content":  {
+                        "en":  "Create a weekly balance plan for a university student who studies [program], works [hours/week], and wants to avoid burnout.\n\nBuild:\n- Core fixed schedule (classes, job, commuting)\n- Protected study windows\n- Recovery blocks (sleep, movement, social time)\n- Minimum viable routine for stressful weeks\n- Warning signs checklist and corrective actions\n\nOutput as a practical weekly template with clear time blocks.",
+                        "ro":  "CreeazÄƒ un plan sÄƒptÄƒmÃ¢nal de echilibru pentru un student care studiazÄƒ [program], lucreazÄƒ [ore/sÄƒptÄƒmÃ¢nÄƒ] È™i vrea sÄƒ evite burnout-ul.\n\nConstruieÈ™te:\n- Program fix de bazÄƒ (cursuri, job, deplasare)\n- Ferestre protejate pentru studiu\n- Blocuri de recuperare (somn, miÈ™care, timp social)\n- Rutina minimÄƒ pentru sÄƒptÄƒmÃ¢ni stresante\n- Checklist cu semne de avertizare È™i acÈ›iuni corective\n\nOutput-ul sÄƒ fie un È™ablon sÄƒptÄƒmÃ¢nal practic, cu blocuri clare de timp.",
+                        "ru":  "Ð¡Ð¾Ð·Ð´Ð°Ð¹Ñ‚Ðµ Ð½ÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð»Ð°Ð½ Ð±Ð°Ð»Ð°Ð½ÑÐ° Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð°, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ ÑƒÑ‡Ð¸Ñ‚ÑÑ Ð½Ð° [Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°], Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚ [Ñ‡Ð°ÑÐ¾Ð²/Ð½ÐµÐ´ÐµÐ»ÑŽ] Ð¸ Ñ…Ð¾Ñ‡ÐµÑ‚ Ð¸Ð·Ð±ÐµÐ¶Ð°Ñ‚ÑŒ Ð²Ñ‹Ð³Ð¾Ñ€Ð°Ð½Ð¸Ñ.\n\nÐ¡Ñ„Ð¾Ñ€Ð¼Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ:\n- Ð‘Ð°Ð·Ð¾Ð²Ñ‹Ð¹ Ñ„Ð¸ÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð³Ñ€Ð°Ñ„Ð¸Ðº (Ð¿Ð°Ñ€Ñ‹, Ñ€Ð°Ð±Ð¾Ñ‚Ð°, Ð´Ð¾Ñ€Ð¾Ð³Ð°)\n- Ð—Ð°Ñ‰Ð¸Ñ‰ÐµÐ½Ð½Ñ‹Ðµ ÑƒÑ‡ÐµÐ±Ð½Ñ‹Ðµ Ð¾ÐºÐ½Ð°\n- Ð‘Ð»Ð¾ÐºÐ¸ Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ (ÑÐ¾Ð½, Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ðµ, ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ)\n- ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð¾ Ð¶Ð¸Ð·Ð½ÐµÑÐ¿Ð¾ÑÐ¾Ð±Ð½ÑƒÑŽ Ñ€ÑƒÑ‚Ð¸Ð½Ñƒ Ð½Ð° ÑÑ‚Ñ€ÐµÑÑÐ¾Ð²Ñ‹Ðµ Ð½ÐµÐ´ÐµÐ»Ð¸\n- Ð§ÐµÐºÐ»Ð¸ÑÑ‚ Ñ‚Ñ€ÐµÐ²Ð¾Ð¶Ð½Ñ‹Ñ… ÑÐ¸Ð³Ð½Ð°Ð»Ð¾Ð² Ð¸ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð¸Ñ€ÑƒÑŽÑ‰Ð¸Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ\n\nÐžÑ„Ð¾Ñ€Ð¼Ð¸Ñ‚Ðµ ÐºÐ°Ðº Ð¿Ñ€Ð°ÐºÑ‚Ð¸Ñ‡Ð½Ñ‹Ð¹ Ð½ÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ñ Ñ‡ÐµÑ‚ÐºÐ¸Ð¼Ð¸ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ð¼Ð¸ Ð±Ð»Ð¾ÐºÐ°Ð¼Ð¸."
+                    }
+    }
+]

@@ -1,0 +1,82 @@
+﻿[
+    {
+        "id":  "u01",
+        "category":  "University",
+        "tags":  [
+                     "university",
+                     "lesson planning",
+                     "higher education",
+                     "faculty"
+                 ],
+        "title":  {
+                      "en":  "University Lecture Plan Builder",
+                      "ro":  "Generator plan de lecÈ›ie universitarÄƒ",
+                      "ru":  "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ Ð¿Ð»Ð°Ð½Ð° ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ¸Ñ‚ÐµÑ‚ÑÐºÐ¾Ð³Ð¾ Ð·Ð°Ð½ÑÑ‚Ð¸Ñ"
+                  },
+        "content":  {
+                        "en":  "Create a detailed 90-minute university lesson plan for the course [course name], topic [topic], and student year [year].\n\nInclude:\n- Learning outcomes aligned with course competencies\n- A 10-minute activation activity\n- A core teaching sequence with timing (concept explanation, examples, guided practice)\n- One collaborative task for small groups\n- A quick formative check at the end\n- Suggested homework or follow-up reading\n\nFormat as a practical plan a lecturer can use immediately.",
+                        "ro":  "CreeazÄƒ un plan detaliat de 90 de minute pentru un seminar universitar la disciplina [numele cursului], tema [tema], anul [an].\n\nInclude:\n- Rezultate ale Ã®nvÄƒÈ›Äƒrii aliniate la competenÈ›ele cursului\n- O activitate de activare de 10 minute\n- O secvenÈ›Äƒ principalÄƒ cu timp estimat (explicaÈ›ii, exemple, practicÄƒ ghidatÄƒ)\n- O sarcinÄƒ colaborativÄƒ pentru grupuri mici\n- O verificare formativÄƒ la final\n- TemÄƒ sau lecturÄƒ recomandatÄƒ\n\nFormateazÄƒ rÄƒspunsul ca un plan practic, utilizabil imediat de un cadru didactic.",
+                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½Ñ‹Ð¹ Ð¿Ð»Ð°Ð½ 90-Ð¼Ð¸Ð½ÑƒÑ‚Ð½Ð¾Ð³Ð¾ ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ¸Ñ‚ÐµÑ‚ÑÐºÐ¾Ð³Ð¾ Ð·Ð°Ð½ÑÑ‚Ð¸Ñ Ð¿Ð¾ ÐºÑƒÑ€ÑÑƒ [Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÑƒÑ€ÑÐ°], Ñ‚ÐµÐ¼Ðµ [Ñ‚ÐµÐ¼Ð°] Ð¸ Ð³Ð¾Ð´Ñƒ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ [ÐºÑƒÑ€Ñ/Ð³Ð¾Ð´].\n\nÐ’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ðµ:\n- Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ, ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ðµ Ñ ÐºÐ¾Ð¼Ð¿ÐµÑ‚ÐµÐ½Ñ†Ð¸ÑÐ¼Ð¸ ÐºÑƒÑ€ÑÐ°\n- 10-Ð¼Ð¸Ð½ÑƒÑ‚Ð½ÑƒÑŽ Ð°ÐºÑ‚Ð¸Ð²Ð¸Ñ€ÑƒÑŽÑ‰ÑƒÑŽ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ\n- ÐžÑÐ½Ð¾Ð²Ð½ÑƒÑŽ ÑƒÑ‡ÐµÐ±Ð½ÑƒÑŽ Ð¿Ð¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ñ Ñ‚Ð°Ð¹Ð¼Ð¸Ð½Ð³Ð¾Ð¼ (Ð¾Ð±ÑŠÑÑÐ½ÐµÐ½Ð¸Ðµ, Ð¿Ñ€Ð¸Ð¼ÐµÑ€Ñ‹, ÑƒÐ¿Ñ€Ð°Ð²Ð»ÑÐµÐ¼Ð°Ñ Ð¿Ñ€Ð°ÐºÑ‚Ð¸ÐºÐ°)\n- ÐžÐ´Ð½Ð¾ Ð³Ñ€ÑƒÐ¿Ð¿Ð¾Ð²Ð¾Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ\n- Ð‘Ñ‹ÑÑ‚Ñ€ÑƒÑŽ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð¸Ð²Ð½ÑƒÑŽ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÑƒ Ð² ÐºÐ¾Ð½Ñ†Ðµ\n- Ð”Ð¾Ð¼Ð°ÑˆÐ½ÐµÐµ Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ Ð¸Ð»Ð¸ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ñ‡Ñ‚ÐµÐ½Ð¸Ðµ\n\nÐžÑ„Ð¾Ñ€Ð¼Ð¸Ñ‚Ðµ ÐºÐ°Ðº Ð¿Ñ€Ð°ÐºÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð¿Ð»Ð°Ð½, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ñ€ÐµÐ¿Ð¾Ð´Ð°Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð¼Ð¾Ð¶ÐµÑ‚ ÑÑ€Ð°Ð·Ñƒ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ."
+                    }
+    },
+    {
+        "id":  "u02",
+        "category":  "University",
+        "tags":  [
+                     "electives",
+                     "course planning",
+                     "curriculum",
+                     "degree"
+                 ],
+        "title":  {
+                      "en":  "Elective Course Selection Advisor",
+                      "ro":  "Asistent pentru alegerea disciplinelor opÈ›ionale",
+                      "ru":  "ÐŸÐ¾Ð¼Ð¾Ñ‰Ð½Ð¸Ðº Ð¿Ð¾ Ð²Ñ‹Ð±Ð¾Ñ€Ñƒ ÑÐ»ÐµÐºÑ‚Ð¸Ð²Ð¾Ð²"
+                  },
+        "content":  {
+                        "en":  "Help me choose electives for my program [program name], current semester [semester], and career goal [goal].\n\nUse this decision framework:\n- Relevance to career direction\n- Skill gaps I need to close\n- Workload balance with mandatory courses\n- Prerequisites and scheduling constraints\n- Professor/teaching style fit\n\nOutput:\n1) Ranked elective shortlist (top 5)\n2) Why each one fits\n3) A final recommended combination for this semester.",
+                        "ro":  "AjutÄƒ-mÄƒ sÄƒ aleg discipline opÈ›ionale pentru programul [program], semestrul [semestrul], È™i obiectivul de carierÄƒ [obiectiv].\n\nFoloseÈ™te acest cadru de decizie:\n- RelevanÈ›a pentru direcÈ›ia profesionalÄƒ\n- Lacunele de competenÈ›e pe care trebuie sÄƒ le acopÄƒr\n- Echilibrul de Ã®ncÄƒrcare cu disciplinele obligatorii\n- CondiÈ›iile prerechizite È™i constrÃ¢ngerile de orar\n- Potrivirea cu stilul profesorului\n\nOutput:\n1) ListÄƒ ierarhizatÄƒ cu cele mai bune 5 opÈ›ionale\n2) Motivare pentru fiecare\n3) Recomandare finalÄƒ de combinaÈ›ie pentru semestru.",
+                        "ru":  "ÐŸÐ¾Ð¼Ð¾Ð³Ð¸Ñ‚Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ ÑÐ»ÐµÐºÑ‚Ð¸Ð²Ñ‹ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ñ‹ [Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°], Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ ÑÐµÐ¼ÐµÑÑ‚Ñ€Ð° [ÑÐµÐ¼ÐµÑÑ‚Ñ€] Ð¸ ÐºÐ°Ñ€ÑŒÐµÑ€Ð½Ð¾Ð¹ Ñ†ÐµÐ»Ð¸ [Ñ†ÐµÐ»ÑŒ].\n\nÐ˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚Ðµ Ñ‚Ð°ÐºÑƒÑŽ Ñ€Ð°Ð¼ÐºÑƒ:\n- Ð¡Ð¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ðµ ÐºÐ°Ñ€ÑŒÐµÑ€Ð½Ð¾Ð¼Ñƒ Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸ÑŽ\n- ÐÐ°Ð²Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ð¿Ñ€Ð¾Ð±ÐµÐ»Ñ‹, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð½ÑƒÐ¶Ð½Ð¾ Ð·Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ\n- Ð‘Ð°Ð»Ð°Ð½Ñ Ð½Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ñ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼Ð¸ Ð´Ð¸ÑÑ†Ð¸Ð¿Ð»Ð¸Ð½Ð°Ð¼Ð¸\n- ÐŸÑ€ÐµÑ€ÐµÐºÐ²Ð¸Ð·Ð¸Ñ‚Ñ‹ Ð¸ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ Ñ€Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ñ\n- Ð¡Ð¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ðµ ÑÑ‚Ð¸Ð»ÑŽ Ð¿Ñ€ÐµÐ¿Ð¾Ð´Ð°Ð²Ð°Ð½Ð¸Ñ\n\nÐ’Ñ‹Ð²Ð¾Ð´:\n1) Ð Ð°Ð½Ð¶Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ ÑˆÐ¾Ñ€Ñ‚Ð»Ð¸ÑÑ‚ (Ñ‚Ð¾Ð¿-5)\n2) ÐŸÐ¾Ñ‡ÐµÐ¼Ñƒ ÐºÐ°Ð¶Ð´Ñ‹Ð¹ Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚ Ð¿Ð¾Ð´Ñ…Ð¾Ð´Ð¸Ñ‚\n3) Ð˜Ñ‚Ð¾Ð³Ð¾Ð²Ð°Ñ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼Ð°Ñ ÐºÐ¾Ð¼Ð±Ð¸Ð½Ð°Ñ†Ð¸Ñ Ð½Ð° ÑÐµÐ¼ÐµÑÑ‚Ñ€."
+                    }
+    },
+    {
+        "id":  "u07",
+        "category":  "University",
+        "tags":  [
+                     "student projects",
+                     "collaboration",
+                     "teamwork",
+                     "innovation"
+                 ],
+        "title":  {
+                      "en":  "University Collaboration Project Ideas",
+                      "ro":  "Idei de proiecte colaborative universitare",
+                      "ru":  "Ð˜Ð´ÐµÐ¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð¾Ð² ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‡ÐµÑÐºÐ¾Ð³Ð¾ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸Ñ‡ÐµÑÑ‚Ð²Ð°"
+                  },
+        "content":  {
+                        "en":  "Generate 12 project ideas for university students to collaborate across faculties (e.g., business + IT + design + social sciences).\n\nFor each idea include:\n- Project title\n- Problem being solved\n- Target users\n- Team roles by discipline\n- Expected deliverable in 4-6 weeks\n- Evaluation criteria\n\nPrioritize ideas that are feasible with low budget and have social or campus impact.",
+                        "ro":  "GenereazÄƒ 12 idei de proiecte pentru colaborare Ã®ntre studenÈ›i din facultÄƒÈ›i diferite (ex. business + IT + design + È™tiinÈ›e sociale).\n\nPentru fiecare idee include:\n- Titlul proiectului\n- Problema rezolvatÄƒ\n- Utilizatorii È›intÄƒ\n- Roluri pe discipline\n- Livrabilul Ã®n 4-6 sÄƒptÄƒmÃ¢ni\n- Criterii de evaluare\n\nPrioritizeazÄƒ idei realizabile cu buget redus È™i impact social sau Ã®n campus.",
+                        "ru":  "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ 12 Ð¸Ð´ÐµÐ¹ ÑÐ¾Ð²Ð¼ÐµÑÑ‚Ð½Ñ‹Ñ… Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð¾Ð² Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð¾Ð² Ñ€Ð°Ð·Ð½Ñ‹Ñ… Ñ„Ð°ÐºÑƒÐ»ÑŒÑ‚ÐµÑ‚Ð¾Ð² (Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€, Ð±Ð¸Ð·Ð½ÐµÑ + IT + Ð´Ð¸Ð·Ð°Ð¹Ð½ + ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ð½Ð°ÑƒÐºÐ¸).\n\nÐ”Ð»Ñ ÐºÐ°Ð¶Ð´Ð¾Ð¹ Ð¸Ð´ÐµÐ¸ ÑƒÐºÐ°Ð¶Ð¸Ñ‚Ðµ:\n- ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°\n- ÐšÐ°ÐºÑƒÑŽ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ñƒ Ñ€ÐµÑˆÐ°ÐµÑ‚\n- Ð¦ÐµÐ»ÐµÐ²Ñ‹Ñ… Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹\n- ÐšÐ¾Ð¼Ð°Ð½Ð´Ð½Ñ‹Ðµ Ñ€Ð¾Ð»Ð¸ Ð¿Ð¾ Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸ÑÐ¼\n- ÐžÐ¶Ð¸Ð´Ð°ÐµÐ¼Ñ‹Ð¹ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð·Ð° 4-6 Ð½ÐµÐ´ÐµÐ»ÑŒ\n- ÐšÑ€Ð¸Ñ‚ÐµÑ€Ð¸Ð¸ Ð¾Ñ†ÐµÐ½ÐºÐ¸\n\nÐŸÑ€Ð¸Ð¾Ñ€Ð¸Ñ‚ÐµÑ‚: Ð¸Ð´ÐµÐ¸ Ñ Ð½Ð¸Ð·ÐºÐ¸Ð¼ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð¾Ð¼ Ð¸ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¼/ÐºÐ°Ð¼Ð¿ÑƒÑÐ½Ñ‹Ð¼ ÑÑ„Ñ„ÐµÐºÑ‚Ð¾Ð¼."
+                    }
+    },
+    {
+        "id":  "u08",
+        "category":  "University",
+        "tags":  [
+                     "student finance",
+                     "budget",
+                     "financial literacy",
+                     "university life"
+                 ],
+        "title":  {
+                      "en":  "Student Budget Strategy Builder",
+                      "ro":  "Constructor de strategie de buget pentru student",
+                      "ru":  "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸Ð¸ Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð°"
+                  },
+        "content":  {
+                        "en":  "Create a monthly budget strategy for a university student with income [income], fixed costs [rent, transport, utilities], and variable costs [food, study materials, social life].\n\nInclude:\n- Budget allocation by category with percentages\n- Cost-cut options that do not harm academic performance\n- Emergency fund mini-plan\n- Weekly spending limits\n- A simple tracking table template\n\nKeep recommendations realistic for student life.",
+                        "ro":  "CreeazÄƒ o strategie lunarÄƒ de buget pentru un student cu venit [venit], costuri fixe [chirie, transport, utilitÄƒÈ›i], È™i costuri variabile [mÃ¢ncare, materiale, viaÈ›Äƒ socialÄƒ].\n\nInclude:\n- Alocare pe categorii cu procente\n- OpÈ›iuni de reducere a costurilor fÄƒrÄƒ impact negativ asupra studiului\n- Mini-plan pentru fond de urgenÈ›Äƒ\n- Limite de cheltuieli sÄƒptÄƒmÃ¢nale\n- È˜ablon simplu de monitorizare\n\nRecomandÄƒrile sÄƒ fie realiste pentru viaÈ›a de student.",
+                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð¼ÐµÑÑÑ‡Ð½ÑƒÑŽ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð½ÑƒÑŽ ÑÑ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸ÑŽ Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð° Ñ Ð´Ð¾Ñ…Ð¾Ð´Ð¾Ð¼ [Ð´Ð¾Ñ…Ð¾Ð´], Ñ„Ð¸ÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼Ð¸ Ñ€Ð°ÑÑ…Ð¾Ð´Ð°Ð¼Ð¸ [Ð°Ñ€ÐµÐ½Ð´Ð°, Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚, ÐºÐ¾Ð¼Ð¼ÑƒÐ½Ð°Ð»ÑŒÐ½Ñ‹Ðµ] Ð¸ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ð¼Ð¸ Ñ€Ð°ÑÑ…Ð¾Ð´Ð°Ð¼Ð¸ [ÐµÐ´Ð°, ÑƒÑ‡ÐµÐ±Ð½Ñ‹Ðµ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ñ‹, ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ Ð¶Ð¸Ð·Ð½ÑŒ].\n\nÐ’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ðµ:\n- Ð Ð°ÑÐ¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¸Ðµ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð° Ð¿Ð¾ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸ÑÐ¼ Ð² Ð¿Ñ€Ð¾Ñ†ÐµÐ½Ñ‚Ð°Ñ…\n- Ð¡Ð¿Ð¾ÑÐ¾Ð±Ñ‹ ÑÐºÐ¾Ð½Ð¾Ð¼Ð¸Ð¸ Ð±ÐµÐ· ÑƒÑ‰ÐµÑ€Ð±Ð° ÑƒÑ‡ÐµÐ±Ðµ\n- ÐœÐ¸Ð½Ð¸-Ð¿Ð»Ð°Ð½ Ð°Ð²Ð°Ñ€Ð¸Ð¹Ð½Ð¾Ð³Ð¾ Ñ„Ð¾Ð½Ð´Ð°\n- ÐÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð»Ð¸Ð¼Ð¸Ñ‚Ñ‹ Ñ€Ð°ÑÑ…Ð¾Ð´Ð¾Ð²\n- ÐŸÑ€Ð¾ÑÑ‚Ð¾Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ‹ ÑƒÑ‡ÐµÑ‚Ð°\n\nÐ ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°Ñ†Ð¸Ð¸ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð±Ñ‹Ñ‚ÑŒ Ñ€ÐµÐ°Ð»Ð¸ÑÑ‚Ð¸Ñ‡Ð½Ñ‹ Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‡ÐµÑÐºÐ¾Ð¹ Ð¶Ð¸Ð·Ð½Ð¸."
+                    }
+    }
+]

@@ -1,0 +1,402 @@
+﻿[
+    {
+        "id":  "ue01",
+        "category":  "University Educators",
+        "tags":  [
+                     "syllabus",
+                     "course design",
+                     "learning outcomes",
+                     "higher education"
+                 ],
+        "title":  {
+                      "en":  "Outcome-Aligned Syllabus Builder",
+                      "ro":  "Generator de syllabus aliniat pe rezultate",
+                      "ru":  "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ ÑÐ¸Ð»Ð»Ð°Ð±ÑƒÑÐ° Ð¿Ð¾ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°Ð¼ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ"
+                  },
+        "content":  {
+                        "en":  "Design a 14-week university syllabus for [course] with measurable outcomes, weekly topics, assessments, and reading-load balance. Include workload estimates and assessment alignment.",
+                        "ro":  "Proiecteaza un syllabus universitar de 14 saptamani pentru [curs], cu rezultate masurabile, teme saptamanale, evaluari si echilibru al lecturilor. Include estimari de lucru si alinierea evaluarilor.",
+                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ 14-Ð½ÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÑÐ¸Ð»Ð»Ð°Ð±ÑƒÑ Ð¿Ð¾ [ÐºÑƒÑ€Ñ] Ñ Ð¸Ð·Ð¼ÐµÑ€Ð¸Ð¼Ñ‹Ð¼Ð¸ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°Ð¼Ð¸, Ð½ÐµÐ´ÐµÐ»ÑŒÐ½Ñ‹Ð¼Ð¸ Ñ‚ÐµÐ¼Ð°Ð¼Ð¸, Ð¾Ñ†ÐµÐ½Ð¸Ð²Ð°Ð½Ð¸ÐµÐ¼ Ð¸ ÑÐ±Ð°Ð»Ð°Ð½ÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð½Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¾Ð¹ Ð¿Ð¾ Ñ‡Ñ‚ÐµÐ½Ð¸ÑŽ. Ð”Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ Ð¾Ñ†ÐµÐ½ÐºÑƒ Ñ‚Ñ€ÑƒÐ´Ð¾Ð·Ð°Ñ‚Ñ€Ð°Ñ‚ Ð¸ Ð²Ñ‹Ñ€Ð°Ð²Ð½Ð¸Ð²Ð°Ð½Ð¸Ðµ Ð¾Ñ†ÐµÐ½Ð¸Ð²Ð°Ð½Ð¸Ñ."
+                    }
+    },
+    {
+        "id":  "ue02",
+        "category":  "University Educators",
+        "tags":  [
+                     "lecture",
+                     "active learning",
+                     "engagement",
+                     "higher education"
+                 ],
+        "title":  {
+                      "en":  "Interactive Lecture Segment Planner",
+                      "ro":  "Planificator de segmente interactive pentru prelegere",
+                      "ru":  "ÐŸÐ»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ñ‰Ð¸Ðº Ð¸Ð½Ñ‚ÐµÑ€Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ñ… ÑÐµÐ³Ð¼ÐµÐ½Ñ‚Ð¾Ð² Ð»ÐµÐºÑ†Ð¸Ð¸"
+                  },
+        "content":  {
+                        "en":  "Convert a 90-minute lecture on [topic] into active-learning blocks: mini-lecture, think-pair-share, poll, misconception check, and synthesis. Provide minute-by-minute flow.",
+                        "ro":  "Transforma o prelegere de 90 de minute despre [tema] in blocuri active: mini-prelegere, think-pair-share, poll, verificare conceptii gresite si sinteza. Ofera flux minut cu minut.",
+                        "ru":  "ÐŸÑ€ÐµÐ¾Ð±Ñ€Ð°Ð·ÑƒÐ¹Ñ‚Ðµ 90-Ð¼Ð¸Ð½ÑƒÑ‚Ð½ÑƒÑŽ Ð»ÐµÐºÑ†Ð¸ÑŽ Ð¿Ð¾ [Ñ‚ÐµÐ¼Ð°] Ð² Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸: Ð¼Ð¸Ð½Ð¸-Ð»ÐµÐºÑ†Ð¸Ñ, think-pair-share, Ð¾Ð¿Ñ€Ð¾Ñ, Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð·Ð°Ð±Ð»ÑƒÐ¶Ð´ÐµÐ½Ð¸Ð¹ Ð¸ ÑÐ¸Ð½Ñ‚ÐµÐ·. Ð”Ð°Ð¹Ñ‚Ðµ Ð¿Ð¾Ð¼Ð¸Ð½ÑƒÑ‚Ð½Ñ‹Ð¹ Ð¿Ð»Ð°Ð½."
+                    }
+    },
+    {
+        "id":  "ue03",
+        "category":  "University Educators",
+        "tags":  [
+                     "discussion",
+                     "Bloom taxonomy",
+                     "seminar",
+                     "critical thinking"
+                 ],
+        "title":  {
+                      "en":  "Seminar Discussion Question Generator",
+                      "ro":  "Generator de intrebari pentru seminar",
+                      "ru":  "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð´Ð»Ñ ÑÐµÐ¼Ð¸Ð½Ð°Ñ€ÑÐºÐ¾Ð¹ Ð´Ð¸ÑÐºÑƒÑÑÐ¸Ð¸"
+                  },
+        "content":  {
+                        "en":  "Generate 12 seminar questions on [text/topic], distributed across Bloom levels (understand, apply, analyze, evaluate, create). Include 3 follow-up probes.",
+                        "ro":  "Genereaza 12 intrebari de seminar pentru [text/tema], distribuite pe niveluri Bloom (intelegere, aplicare, analiza, evaluare, creare). Include 3 intrebari de aprofundare.",
+                        "ru":  "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ 12 ÑÐµÐ¼Ð¸Ð½Ð°Ñ€ÑÐºÐ¸Ñ… Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð¿Ð¾ [Ñ‚ÐµÐºÑÑ‚/Ñ‚ÐµÐ¼Ð°] Ð¿Ð¾ ÑƒÑ€Ð¾Ð²Ð½ÑÐ¼ Ð‘Ð»ÑƒÐ¼Ð° (Ð¿Ð¾Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ, Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ, Ð°Ð½Ð°Ð»Ð¸Ð·, Ð¾Ñ†ÐµÐ½ÐºÐ°, ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ). Ð”Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ 3 Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ° Ð´Ð»Ñ ÑƒÐ³Ð»ÑƒÐ±Ð»ÐµÐ½Ð¸Ñ."
+                    }
+    },
+    {
+        "id":  "ue04",
+        "category":  "University Educators",
+        "tags":  [
+                     "assessment",
+                     "authentic assignment",
+                     "academic integrity",
+                     "AI"
+                 ],
+        "title":  {
+                      "en":  "Authentic Assignment Redesign Prompt",
+                      "ro":  "Prompt pentru redesign de sarcina autentica",
+                      "ru":  "ÐŸÑ€Ð¾Ð¼Ð¿Ñ‚ Ð´Ð»Ñ Ñ€ÐµÐ´Ð¸Ð·Ð°Ð¹Ð½Ð° Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ‡Ð½Ð¾Ð³Ð¾ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ"
+                  },
+        "content":  {
+                        "en":  "Redesign my assignment [description] into an authentic, AI-aware task requiring local data, personal reflection, process checkpoints, and oral defense.",
+                        "ro":  "Reproiecteaza sarcina [descriere] intr-o activitate autentica, AI-aware, cu date locale, reflectie personala, etape de proces si aparare orala.",
+                        "ru":  "ÐŸÐµÑ€ÐµÑ€Ð°Ð±Ð¾Ñ‚Ð°Ð¹Ñ‚Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ [Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ] Ð² Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ‡Ð½ÑƒÑŽ AI-Ð¾Ñ€Ð¸ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½ÑƒÑŽ Ð·Ð°Ð´Ð°Ñ‡Ñƒ Ñ Ð»Ð¾ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¼Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ð¼Ð¸, Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ€ÐµÑ„Ð»ÐµÐºÑÐ¸ÐµÐ¹, ÑÑ‚Ð°Ð¿Ð°Ð¼Ð¸ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ° Ð¸ ÑƒÑÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ñ‰Ð¸Ñ‚Ð¾Ð¹."
+                    }
+    },
+    {
+        "id":  "ue05",
+        "category":  "University Educators",
+        "tags":  [
+                     "rubric",
+                     "grading",
+                     "assessment",
+                     "criteria"
+                 ],
+        "title":  {
+                      "en":  "Analytic Rubric Creator",
+                      "ro":  "Creator de rubrica analitica",
+                      "ru":  "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÐµÐ»ÑŒ Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ Ñ€ÑƒÐ±Ñ€Ð¸ÐºÐ¸"
+                  },
+        "content":  {
+                        "en":  "Create a 5-criterion analytic rubric for [assignment], with 4 performance levels, weighted percentages, and observable descriptors.",
+                        "ro":  "Creeaza o rubrica analitica cu 5 criterii pentru [sarcina], 4 niveluri de performanta, ponderi procentuale si descriptori observabili.",
+                        "ru":  "Ð¡Ð¾Ð·Ð´Ð°Ð¹Ñ‚Ðµ Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸Ñ‡ÐµÑÐºÑƒÑŽ Ñ€ÑƒÐ±Ñ€Ð¸ÐºÑƒ Ð¸Ð· 5 ÐºÑ€Ð¸Ñ‚ÐµÑ€Ð¸ÐµÐ² Ð´Ð»Ñ [Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ] Ñ 4 ÑƒÑ€Ð¾Ð²Ð½ÑÐ¼Ð¸, Ð²ÐµÑÐ°Ð¼Ð¸ Ð¸ Ð½Ð°Ð±Ð»ÑŽÐ´Ð°ÐµÐ¼Ñ‹Ð¼Ð¸ Ð´ÐµÑÐºÑ€Ð¸Ð¿Ñ‚Ð¾Ñ€Ð°Ð¼Ð¸."
+                    }
+    },
+    {
+        "id":  "ue06",
+        "category":  "University Educators",
+        "tags":  [
+                     "quiz",
+                     "exam prep",
+                     "multiple choice",
+                     "diagnostic"
+                 ],
+        "title":  {
+                      "en":  "Higher-Ed Quiz Bank Generator",
+                      "ro":  "Generator de banca de quiz universitar",
+                      "ru":  "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð±Ð°Ð½ÐºÐ° Ñ‚ÐµÑÑ‚Ð¾Ð² Ð´Ð»Ñ Ð²ÑƒÐ·Ð°"
+                  },
+        "content":  {
+                        "en":  "Build a 20-item mixed quiz on [topic] with 10 recall and 10 application questions, four options each, and answer rationale.",
+                        "ro":  "Construieste un quiz mixt de 20 de itemi pe [tema], cu 10 itemi de reamintire si 10 de aplicare, 4 optiuni fiecare si justificarea raspunsului.",
+                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ ÑÐ¼ÐµÑˆÐ°Ð½Ð½Ñ‹Ð¹ Ñ‚ÐµÑÑ‚ Ð¸Ð· 20 Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð¿Ð¾ [Ñ‚ÐµÐ¼Ð°]: 10 Ð½Ð° Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ Ð¸ 10 Ð½Ð° Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ, 4 Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ð° ÐºÐ°Ð¶Ð´Ñ‹Ð¹, Ñ Ð¾Ð±Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð¸ÐµÐ¼ Ð¾Ñ‚Ð²ÐµÑ‚Ð°."
+                    }
+    },
+    {
+        "id":  "ue07",
+        "category":  "University Educators",
+        "tags":  [
+                     "case study",
+                     "problem based learning",
+                     "discipline context",
+                     "higher education"
+                 ],
+        "title":  {
+                      "en":  "Case Study Scenario Designer",
+                      "ro":  "Designer de scenarii tip studiu de caz",
+                      "ru":  "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸ÐµÐ² ÐºÐµÐ¹Ñ-ÑÑ‚Ð°Ð´Ð¸"
+                  },
+        "content":  {
+                        "en":  "Generate 3 realistic case-study scenarios for [discipline] including background, data points, stakeholder perspectives, and guiding questions.",
+                        "ro":  "Genereaza 3 scenarii realiste de studiu de caz pentru [disciplina], cu context, date, perspective ale actorilor si intrebari ghid.",
+                        "ru":  "Ð¡Ð¾Ð·Ð´Ð°Ð¹Ñ‚Ðµ 3 Ñ€ÐµÐ°Ð»Ð¸ÑÑ‚Ð¸Ñ‡Ð½Ñ‹Ñ… ÐºÐµÐ¹ÑÐ° Ð´Ð»Ñ [Ð´Ð¸ÑÑ†Ð¸Ð¿Ð»Ð¸Ð½Ð°] Ñ ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼, Ð´Ð°Ð½Ð½Ñ‹Ð¼Ð¸, Ð¿Ð¾Ð·Ð¸Ñ†Ð¸ÑÐ¼Ð¸ ÑÑ‚ÐµÐ¹ÐºÑ…Ð¾Ð»Ð´ÐµÑ€Ð¾Ð² Ð¸ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ°Ð¼Ð¸ Ð´Ð»Ñ Ð°Ð½Ð°Ð»Ð¸Ð·Ð°."
+                    }
+    },
+    {
+        "id":  "ue08",
+        "category":  "University Educators",
+        "tags":  [
+                     "primary sources",
+                     "research skills",
+                     "source analysis",
+                     "humanities"
+                 ],
+        "title":  {
+                      "en":  "Primary Source Analysis Worksheet Builder",
+                      "ro":  "Generator de fisa pentru analiza surselor primare",
+                      "ru":  "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ Ð»Ð¸ÑÑ‚Ð° Ð°Ð½Ð°Ð»Ð¸Ð·Ð° Ð¿ÐµÑ€Ð²Ð¾Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¾Ð²"
+                  },
+        "content":  {
+                        "en":  "Create a worksheet for analyzing primary sources in [course], including reliability, context, bias, evidence extraction, and synthesis prompts.",
+                        "ro":  "Creeaza o fisa pentru analiza surselor primare la [curs], incluzand fiabilitate, context, bias, extragere de dovezi si prompturi de sinteza.",
+                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð»Ð¸ÑÑ‚ Ð°Ð½Ð°Ð»Ð¸Ð·Ð° Ð¿ÐµÑ€Ð²Ð¾Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¾Ð² Ð´Ð»Ñ [ÐºÑƒÑ€Ñ]: Ð½Ð°Ð´ÐµÐ¶Ð½Ð¾ÑÑ‚ÑŒ, ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚, Ð¿Ñ€ÐµÐ´Ð²Ð·ÑÑ‚Ð¾ÑÑ‚ÑŒ, Ð¸Ð·Ð²Ð»ÐµÑ‡ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÑŒÑÑ‚Ð² Ð¸ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹ Ð´Ð»Ñ ÑÐ¸Ð½Ñ‚ÐµÐ·Ð°."
+                    }
+    },
+    {
+        "id":  "ue09",
+        "category":  "University Educators",
+        "tags":  [
+                     "research mentoring",
+                     "research question",
+                     "thesis",
+                     "methods"
+                 ],
+        "title":  {
+                      "en":  "Research Question Refinement Coach",
+                      "ro":  "Coach pentru rafinarea intrebarilor de cercetare",
+                      "ru":  "ÐšÐ¾ÑƒÑ‡ Ð¿Ð¾ ÑƒÑ‚Ð¾Ñ‡Ð½ÐµÐ½Ð¸ÑŽ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ñ… Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²"
+                  },
+        "content":  {
+                        "en":  "Help refine a student\u0027s topic [topic] into 3 feasible research questions, each with scope boundaries, method suggestion, and potential data sources.",
+                        "ro":  "Ajuta la rafinarea temei [tema] in 3 intrebari de cercetare fezabile, fiecare cu limite de scope, sugestie metodologica si surse potentiale de date.",
+                        "ru":  "ÐŸÐ¾Ð¼Ð¾Ð³Ð¸Ñ‚Ðµ ÑƒÑ‚Ð¾Ñ‡Ð½Ð¸Ñ‚ÑŒ Ñ‚ÐµÐ¼Ñƒ [Ñ‚ÐµÐ¼Ð°] Ð´Ð¾ 3 Ñ€ÐµÐ°Ð»Ð¸Ð·ÑƒÐµÐ¼Ñ‹Ñ… Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ñ… Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð² Ñ Ð³Ñ€Ð°Ð½Ð¸Ñ†Ð°Ð¼Ð¸ Ð¾Ð±ÑŠÐµÐ¼Ð°, Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸ÐµÐ¼ Ð¼ÐµÑ‚Ð¾Ð´Ð° Ð¸ Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ñ‹Ð¼Ð¸ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ°Ð¼Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…."
+                    }
+    },
+    {
+        "id":  "ue10",
+        "category":  "University Educators",
+        "tags":  [
+                     "literature review",
+                     "evidence synthesis",
+                     "thesis",
+                     "academic writing"
+                 ],
+        "title":  {
+                      "en":  "Literature Matrix and Gap Finder",
+                      "ro":  "Matrice de literatura si identificare de gap",
+                      "ru":  "ÐœÐ°Ñ‚Ñ€Ð¸Ñ†Ð° Ð»Ð¸Ñ‚ÐµÑ€Ð°Ñ‚ÑƒÑ€Ñ‹ Ð¸ Ð¿Ð¾Ð¸ÑÐº Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ð³Ð¾ Ð¿Ñ€Ð¾Ð±ÐµÐ»Ð°"
+                  },
+        "content":  {
+                        "en":  "Build a literature matrix template for [topic] and propose prompts to identify contradictions, consensus, and unexplored gaps.",
+                        "ro":  "Construieste un sablon de matrice a literaturii pentru [tema] si prompturi pentru identificarea contradictiilor, consensului si lacunelor.",
+                        "ru":  "Ð¡Ð¾Ð·Ð´Ð°Ð¹Ñ‚Ðµ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð¼Ð°Ñ‚Ñ€Ð¸Ñ†Ñ‹ Ð»Ð¸Ñ‚ÐµÑ€Ð°Ñ‚ÑƒÑ€Ñ‹ Ð¿Ð¾ [Ñ‚ÐµÐ¼Ð°] Ð¸ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹ Ð´Ð»Ñ Ð²Ñ‹ÑÐ²Ð»ÐµÐ½Ð¸Ñ Ð¿Ñ€Ð¾Ñ‚Ð¸Ð²Ð¾Ñ€ÐµÑ‡Ð¸Ð¹, ÐºÐ¾Ð½ÑÐµÐ½ÑÑƒÑÐ° Ð¸ Ð½ÐµÐ¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ… Ð¿Ñ€Ð¾Ð±ÐµÐ»Ð¾Ð²."
+                    }
+    },
+    {
+        "id":  "ue11",
+        "category":  "University Educators",
+        "tags":  [
+                     "coding education",
+                     "scaffolding",
+                     "feedback",
+                     "computer science"
+                 ],
+        "title":  {
+                      "en":  "Coding Lab Scaffolding Assistant",
+                      "ro":  "Asistent pentru scaffold in laboratoare de programare",
+                      "ru":  "ÐÑÑÐ¸ÑÑ‚ÐµÐ½Ñ‚ Ð¿Ð¾ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐµ coding-Ð»Ð°Ð±Ð¾Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸Ð¹"
+                  },
+        "content":  {
+                        "en":  "Design scaffolded hints for a coding lab on [topic], with 3 support levels (nudge, structured hint, worked example) and bug diagnosis steps.",
+                        "ro":  "Proiecteaza indicii gradate pentru laboratorul de programare pe [tema], cu 3 niveluri de suport (nudge, hint structurat, exemplu rezolvat) si pasi de diagnostic.",
+                        "ru":  "Ð Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð¹Ñ‚Ðµ Ð¿Ð¾ÑÑ‚Ð°Ð¿Ð½Ñ‹Ðµ Ð¿Ð¾Ð´ÑÐºÐ°Ð·ÐºÐ¸ Ð´Ð»Ñ coding-Ð»Ð°Ð±Ð° Ð¿Ð¾ [Ñ‚ÐµÐ¼Ð°] Ñ 3 ÑƒÑ€Ð¾Ð²Ð½ÑÐ¼Ð¸ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ (Ð½Ð°Ð¼ÐµÐº, ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð°Ñ Ð¿Ð¾Ð´ÑÐºÐ°Ð·ÐºÐ°, Ñ€Ð°Ð·Ð¾Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¸Ð¼ÐµÑ€)."
+                    }
+    },
+    {
+        "id":  "ue12",
+        "category":  "University Educators",
+        "tags":  [
+                     "language learning",
+                     "practice",
+                     "feedback",
+                     "higher education"
+                 ],
+        "title":  {
+                      "en":  "Target-Language Practice Dialogue Builder",
+                      "ro":  "Generator de dialoguri pentru practica limbii tinta",
+                      "ru":  "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð´Ð¸Ð°Ð»Ð¾Ð³Ð¾Ð² Ð´Ð»Ñ Ð¿Ñ€Ð°ÐºÑ‚Ð¸ÐºÐ¸ Ñ†ÐµÐ»ÐµÐ²Ð¾Ð³Ð¾ ÑÐ·Ñ‹ÐºÐ°"
+                  },
+        "content":  {
+                        "en":  "Create 5 role-play dialogues in [target language] for university learners at [level], with vocabulary goals, error hotspots, and feedback rubric.",
+                        "ro":  "Creeaza 5 dialoguri role-play in [limba tinta] pentru studenti de nivel [nivel], cu obiective lexicale, erori frecvente si rubrica de feedback.",
+                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ 5 Ñ€Ð¾Ð»ÐµÐ²Ñ‹Ñ… Ð´Ð¸Ð°Ð»Ð¾Ð³Ð¾Ð² Ð½Ð° [Ñ†ÐµÐ»ÐµÐ²Ð¾Ð¹ ÑÐ·Ñ‹Ðº] Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð¾Ð² ÑƒÑ€Ð¾Ð²Ð½Ñ [ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ], Ñ Ñ†ÐµÐ»ÐµÐ²Ð¾Ð¹ Ð»ÐµÐºÑÐ¸ÐºÐ¾Ð¹, Ñ‚Ð¸Ð¿Ð¸Ñ‡Ð½Ñ‹Ð¼Ð¸ Ð¾ÑˆÐ¸Ð±ÐºÐ°Ð¼Ð¸ Ð¸ Ñ€ÑƒÐ±Ñ€Ð¸ÐºÐ¾Ð¹ Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð¹ ÑÐ²ÑÐ·Ð¸."
+                    }
+    },
+    {
+        "id":  "ue13",
+        "category":  "University Educators",
+        "tags":  [
+                     "accessibility",
+                     "inclusive teaching",
+                     "UDL",
+                     "course materials"
+                 ],
+        "title":  {
+                      "en":  "Accessible Material Adaptation Prompt",
+                      "ro":  "Prompt pentru adaptarea materialelor accesibile",
+                      "ru":  "ÐŸÑ€Ð¾Ð¼Ð¿Ñ‚ Ð°Ð´Ð°Ð¿Ñ‚Ð°Ñ†Ð¸Ð¸ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð¾Ð² Ð´Ð»Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚Ð¸"
+                  },
+        "content":  {
+                        "en":  "Adapt this lecture material [text] for accessibility: plain-language version, glossary, chunked structure, alt-format suggestions, and inclusive examples.",
+                        "ro":  "Adapteaza materialul [text] pentru accesibilitate: varianta in limbaj clar, glosar, structura pe segmente, formate alternative si exemple incluzive.",
+                        "ru":  "ÐÐ´Ð°Ð¿Ñ‚Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð» [Ñ‚ÐµÐºÑÑ‚] Ð´Ð»Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚Ð¸: Ð²ÐµÑ€ÑÐ¸Ñ Ð¿Ñ€Ð¾ÑÑ‚Ñ‹Ð¼ ÑÐ·Ñ‹ÐºÐ¾Ð¼, Ð³Ð»Ð¾ÑÑÐ°Ñ€Ð¸Ð¹, ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ð¾ Ð±Ð»Ð¾ÐºÐ°Ð¼, Ð°Ð»ÑŒÑ‚ÐµÑ€Ð½Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ñ‹ Ð¸ Ð¸Ð½ÐºÐ»ÑŽÐ·Ð¸Ð²Ð½Ñ‹Ðµ Ð¿Ñ€Ð¸Ð¼ÐµÑ€Ñ‹."
+                    }
+    },
+    {
+        "id":  "ue14",
+        "category":  "University Educators",
+        "tags":  [
+                     "formative assessment",
+                     "concept checks",
+                     "misconceptions",
+                     "teaching"
+                 ],
+        "title":  {
+                      "en":  "Concept Check and Misconception Probe Generator",
+                      "ro":  "Generator de verificari formative si sonde de conceptii gresite",
+                      "ru":  "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ñ… Ð¿Ñ€Ð¾Ð²ÐµÑ€Ð¾Ðº Ð¸ Ð´Ð¸Ð°Ð³Ð½Ð¾ÑÑ‚Ð¸ÐºÐ¸ Ð·Ð°Ð±Ð»ÑƒÐ¶Ð´ÐµÐ½Ð¸Ð¹"
+                  },
+        "content":  {
+                        "en":  "Generate 8 quick concept checks for [topic], each linked to a likely misconception and an immediate corrective feedback script.",
+                        "ro":  "Genereaza 8 verificari rapide pentru [tema], fiecare legata de o conceptie gresita probabila si un script de feedback corectiv imediat.",
+                        "ru":  "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ 8 Ð±Ñ‹ÑÑ‚Ñ€Ñ‹Ñ… Ð¿Ñ€Ð¾Ð²ÐµÑ€Ð¾Ðº Ð¿Ð¾ [Ñ‚ÐµÐ¼Ð°], ÐºÐ°Ð¶Ð´Ð°Ñ Ñ Ð²ÐµÑ€Ð¾ÑÑ‚Ð½Ñ‹Ð¼ Ð·Ð°Ð±Ð»ÑƒÐ¶Ð´ÐµÐ½Ð¸ÐµÐ¼ Ð¸ ÐºÑ€Ð°Ñ‚ÐºÐ¸Ð¼ ÑÐºÑ€Ð¸Ð¿Ñ‚Ð¾Ð¼ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð¸Ñ€ÑƒÑŽÑ‰ÐµÐ¹ Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð¹ ÑÐ²ÑÐ·Ð¸."
+                    }
+    },
+    {
+        "id":  "ue15",
+        "category":  "University Educators",
+        "tags":  [
+                     "office hours",
+                     "student advising",
+                     "coaching",
+                     "support"
+                 ],
+        "title":  {
+                      "en":  "Office Hours Coaching Script Builder",
+                      "ro":  "Generator de script pentru office hours",
+                      "ru":  "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ ÑÐºÑ€Ð¸Ð¿Ñ‚Ð° ÐºÐ¾Ð½ÑÑƒÐ»ÑŒÑ‚Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ñ… Ñ‡Ð°ÑÐ¾Ð²"
+                  },
+        "content":  {
+                        "en":  "Create a 15-minute office-hours script for students struggling with [issue], including diagnosis questions, support options, and a follow-up plan.",
+                        "ro":  "Creeaza un script de 15 minute pentru office hours cu studenti care au dificultati la [problema], incluzand intrebari de diagnostic, optiuni de suport si plan de follow-up.",
+                        "ru":  "Ð¡Ð¾Ð·Ð´Ð°Ð¹Ñ‚Ðµ 15-Ð¼Ð¸Ð½ÑƒÑ‚Ð½Ñ‹Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹ ÐºÐ¾Ð½ÑÑƒÐ»ÑŒÑ‚Ð°Ñ†Ð¸Ð¸ Ð´Ð»Ñ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð¾Ð² Ñ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ð¾Ð¹ [Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ð°]: Ð´Ð¸Ð°Ð³Ð½Ð¾ÑÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹, Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ñ‹ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¸ Ð¿Ð»Ð°Ð½ Ð¿Ð¾ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ñ… ÑˆÐ°Ð³Ð¾Ð²."
+                    }
+    },
+    {
+        "id":  "ue16",
+        "category":  "University Educators",
+        "tags":  [
+                     "academic integrity",
+                     "AI policy",
+                     "assessment transparency",
+                     "higher ed"
+                 ],
+        "title":  {
+                      "en":  "AI and Academic Integrity Policy Prompt",
+                      "ro":  "Prompt pentru politica de integritate academica si AI",
+                      "ru":  "ÐŸÑ€Ð¾Ð¼Ð¿Ñ‚ Ð¿Ð¾Ð»Ð¸Ñ‚Ð¸ÐºÐ¸ Ð°ÐºÐ°Ð´ÐµÐ¼Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ Ð´Ð¾Ð±Ñ€Ð¾ÑÐ¾Ð²ÐµÑÑ‚Ð½Ð¾ÑÑ‚Ð¸ Ð¸ Ð˜Ð˜"
+                  },
+        "content":  {
+                        "en":  "Draft a clear course policy explaining allowed, restricted, and prohibited AI use, disclosure expectations, citation rules, and consequences for misuse.",
+                        "ro":  "Redacteaza o politica de curs clara privind utilizarea AI: ce este permis, restrictionat si interzis, reguli de declarare, citare si consecinte pentru utilizare abuziva.",
+                        "ru":  "ÐŸÐ¾Ð´Ð³Ð¾Ñ‚Ð¾Ð²ÑŒÑ‚Ðµ ÑÑÐ½ÑƒÑŽ Ð¿Ð¾Ð»Ð¸Ñ‚Ð¸ÐºÑƒ ÐºÑƒÑ€ÑÐ° Ð¿Ð¾ Ð˜Ð˜: Ñ‡Ñ‚Ð¾ Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾, Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¾ Ð¸ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½Ð¾, Ñ‚Ñ€ÐµÐ±Ð¾Ð²Ð°Ð½Ð¸Ñ Ðº Ñ€Ð°ÑÐºÑ€Ñ‹Ñ‚Ð¸ÑŽ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ, Ñ†Ð¸Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸ÑŽ Ð¸ Ð¿Ð¾ÑÐ»ÐµÐ´ÑÑ‚Ð²Ð¸ÑÐ¼ Ð½Ð°Ñ€ÑƒÑˆÐµÐ½Ð¸Ð¹."
+                    }
+    },
+    {
+        "id":  "ue17",
+        "category":  "University Educators",
+        "tags":  [
+                     "feedback",
+                     "comment bank",
+                     "grading efficiency",
+                     "assessment"
+                 ],
+        "title":  {
+                      "en":  "University Feedback Comment Bank Creator",
+                      "ro":  "Creator de banca de comentarii pentru feedback universitar",
+                      "ru":  "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÐµÐ»ÑŒ Ð±Ð°Ð½ÐºÐ° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ² Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð¹ ÑÐ²ÑÐ·Ð¸"
+                  },
+        "content":  {
+                        "en":  "Generate a reusable feedback comment bank for [assignment type] with tone variants (supportive/direct), linked to rubric criteria and action steps.",
+                        "ro":  "Genereaza o banca reutilizabila de comentarii pentru [tip sarcina], cu variante de ton (suportiv/direct), legate de criterii de rubrica si pasi urmatori clari.",
+                        "ru":  "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ Ð¿ÐµÑ€ÐµÐ¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ñ‹Ð¹ Ð±Ð°Ð½Ðº ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ² Ð´Ð»Ñ [Ñ‚Ð¸Ð¿ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ] Ñ Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ð°Ð¼Ð¸ Ñ‚Ð¾Ð½Ð° (Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÑŽÑ‰Ð¸Ð¹/Ð¿Ñ€ÑÐ¼Ð¾Ð¹), Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð½Ñ‹Ð¹ Ðº ÐºÑ€Ð¸Ñ‚ÐµÑ€Ð¸ÑÐ¼ Ñ€ÑƒÐ±Ñ€Ð¸ÐºÐ¸ Ð¸ ÑˆÐ°Ð³Ð°Ð¼."
+                    }
+    },
+    {
+        "id":  "ue18",
+        "category":  "University Educators",
+        "tags":  [
+                     "capstone",
+                     "project supervision",
+                     "milestones",
+                     "assessment"
+                 ],
+        "title":  {
+                      "en":  "Capstone Milestone Planner",
+                      "ro":  "Planificator de milestone-uri pentru capstone",
+                      "ru":  "ÐŸÐ»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ñ‰Ð¸Ðº ÑÑ‚Ð°Ð¿Ð¾Ð² capstone-Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°"
+                  },
+        "content":  {
+                        "en":  "Create a semester capstone timeline for [program], including milestone deliverables, supervision checkpoints, peer feedback moments, and risk triggers.",
+                        "ro":  "Creeaza o cronologie semestriala pentru proiectul capstone la [program], cu livrabile pe etape, checkpoint-uri de supervizare, feedback intre colegi si trigger-e de risc.",
+                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ ÑÐµÐ¼ÐµÑÑ‚Ñ€Ð¾Ð²Ñ‹Ð¹ Ñ‚Ð°Ð¹Ð¼Ð»Ð°Ð¹Ð½ capstone-Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð° Ð´Ð»Ñ [Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°] Ñ ÑÑ‚Ð°Ð¿Ð½Ñ‹Ð¼Ð¸ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°Ð¼Ð¸, ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ñ‹Ð¼Ð¸ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð°Ð¼Ð¸, peer-feedback Ð¸ Ñ‚Ñ€Ð¸Ð³Ð³ÐµÑ€Ð°Ð¼Ð¸ Ñ€Ð¸ÑÐºÐ¾Ð²."
+                    }
+    },
+    {
+        "id":  "ue19",
+        "category":  "University Educators",
+        "tags":  [
+                     "peer review",
+                     "writing",
+                     "seminar",
+                     "quality criteria"
+                 ],
+        "title":  {
+                      "en":  "Peer Review Protocol Designer",
+                      "ro":  "Designer de protocol pentru peer review",
+                      "ru":  "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð»Ð° peer-review"
+                  },
+        "content":  {
+                        "en":  "Design a peer-review protocol for [assignment], including reviewer roles, evidence-based critique prompts, quality checklist, and revision reflection.",
+                        "ro":  "Proiecteaza un protocol de peer review pentru [sarcina], incluzand roluri, prompturi de critica bazata pe dovezi, checklist de calitate si reflectie pentru revizie.",
+                        "ru":  "Ð Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð¹Ñ‚Ðµ Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð» peer-review Ð´Ð»Ñ [Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ]: Ñ€Ð¾Ð»Ð¸ Ñ€ÐµÑ†ÐµÐ½Ð·ÐµÐ½Ñ‚Ð¾Ð², Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹ Ð´Ð»Ñ Ð´Ð¾ÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ ÐºÑ€Ð¸Ñ‚Ð¸ÐºÐ¸, Ñ‡ÐµÐºÐ»Ð¸ÑÑ‚ ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ð° Ð¸ Ñ€ÐµÑ„Ð»ÐµÐºÑÐ¸ÑŽ Ð´Ð»Ñ Ð´Ð¾Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸."
+                    }
+    },
+    {
+        "id":  "ue20",
+        "category":  "University Educators",
+        "tags":  [
+                     "inclusive teaching",
+                     "equity",
+                     "examples",
+                     "participation"
+                 ],
+        "title":  {
+                      "en":  "Inclusive Teaching Scenario Generator",
+                      "ro":  "Generator de scenarii pentru predare incluziva",
+                      "ru":  "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸ÐµÐ² Ð¸Ð½ÐºÐ»ÑŽÐ·Ð¸Ð²Ð½Ð¾Ð³Ð¾ Ð¿Ñ€ÐµÐ¿Ð¾Ð´Ð°Ð²Ð°Ð½Ð¸Ñ"
+                  },
+        "content":  {
+                        "en":  "Generate 6 classroom scenarios where participation barriers appear in university classes, with inclusive instructor responses and alternative engagement strategies.",
+                        "ro":  "Genereaza 6 scenarii de clasa in care apar bariere de participare la nivel universitar, cu raspunsuri incluzive ale profesorului si strategii alternative de implicare.",
+                        "ru":  "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ 6 ÑÑ†ÐµÐ½Ð°Ñ€Ð¸ÐµÐ², Ð³Ð´Ðµ Ð² ÑƒÐ½Ð¸Ð²ÐµÑ€ÑÐ¸Ñ‚ÐµÑ‚ÑÐºÐ¾Ð¹ Ð°ÑƒÐ´Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¸ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ°ÑŽÑ‚ Ð±Ð°Ñ€ÑŒÐµÑ€Ñ‹ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ñ, Ñ Ð¸Ð½ÐºÐ»ÑŽÐ·Ð¸Ð²Ð½Ñ‹Ð¼Ð¸ Ñ€ÐµÐ°ÐºÑ†Ð¸ÑÐ¼Ð¸ Ð¿Ñ€ÐµÐ¿Ð¾Ð´Ð°Ð²Ð°Ñ‚ÐµÐ»Ñ Ð¸ Ð°Ð»ÑŒÑ‚ÐµÑ€Ð½Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¼Ð¸ ÑÑ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸ÑÐ¼Ð¸ Ð²Ð¾Ð²Ð»ÐµÑ‡ÐµÐ½Ð¸Ñ."
+                    }
+    }
+]

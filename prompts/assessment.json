@@ -1,0 +1,62 @@
+﻿[
+    {
+        "id":  "a01",
+        "category":  "Assessment",
+        "tags":  [
+                     "rubric",
+                     "presentations",
+                     "grading",
+                     "criteria"
+                 ],
+        "title":  {
+                      "en":  "Presentation Rubric Generator",
+                      "ro":  "Generator de rubrici pentru prezentÄƒri",
+                      "ru":  "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ñ€ÑƒÐ±Ñ€Ð¸Ðº Ð´Ð»Ñ Ð¿Ñ€ÐµÐ·ÐµÐ½Ñ‚Ð°Ñ†Ð¸Ð¹"
+                  },
+        "content":  {
+                        "en":  "Create a detailed assessment rubric for evaluating student presentations on [topic] for [grade level] students.\n\nInclude four criteria with these weights:\n- Content accuracy and depth (30%)\n- Organization and logical structure (25%)\n- Delivery, clarity, and confidence (25%)\n- Visual aids and supporting materials (20%)\n\nFor each criterion, provide 4 performance levels â€” Excellent (4), Proficient (3), Developing (2), Beginning (1) â€” with specific, observable descriptors for each level. Format the output as a clear, printable table.",
+                        "ro":  "CreeazÄƒ o rubricÄƒ detaliatÄƒ pentru evaluarea prezentÄƒrilor elevilor pe tema [subiect] pentru clasa [nivel].\n\nInclude patru criterii cu urmÄƒtoarele ponderi:\n- AcurateÈ›ea È™i profunzimea conÈ›inutului (30%)\n- Organizare È™i structurÄƒ logicÄƒ (25%)\n- Prezentare, claritate È™i Ã®ncredere (25%)\n- Materiale vizuale È™i suport (20%)\n\nPentru fiecare criteriu, oferÄƒ 4 niveluri de performanÈ›Äƒ â€” Excelent (4), Competent (3), ÃŽn dezvoltare (2), Incipient (1) â€” cu descriptori specifici È™i observabili. FormateazÄƒ rezultatul ca un tabel clar, gata de tipÄƒrit.",
+                        "ru":  "Ð¡Ð¾Ð·Ð´Ð°Ð¹Ñ‚Ðµ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ñ€ÑƒÐ±Ñ€Ð¸ÐºÑƒ Ð´Ð»Ñ Ð¾Ñ†ÐµÐ½ÐºÐ¸ Ð¿Ñ€ÐµÐ·ÐµÐ½Ñ‚Ð°Ñ†Ð¸Ð¹ ÑƒÑ‡Ð°Ñ‰Ð¸Ñ…ÑÑ Ð¿Ð¾ Ñ‚ÐµÐ¼Ðµ [Ñ‚ÐµÐ¼Ð°] Ð´Ð»Ñ [ÐºÐ»Ð°ÑÑ/ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ].\n\nÐ’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ðµ Ñ‡ÐµÑ‚Ñ‹Ñ€Ðµ ÐºÑ€Ð¸Ñ‚ÐµÑ€Ð¸Ñ ÑÐ¾ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¼Ð¸ Ð²ÐµÑÐ°Ð¼Ð¸:\n- Ð¢Ð¾Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¸ Ð³Ð»ÑƒÐ±Ð¸Ð½Ð° ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ñ (30%)\n- ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ†Ð¸Ñ Ð¸ Ð»Ð¾Ð³Ð¸Ñ‡ÐµÑÐºÐ°Ñ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð° (25%)\n- ÐŸÐ¾Ð´Ð°Ñ‡Ð°, ÑÑÐ½Ð¾ÑÑ‚ÑŒ Ð¸ ÑƒÐ²ÐµÑ€ÐµÐ½Ð½Ð¾ÑÑ‚ÑŒ (25%)\n- ÐÐ°Ð³Ð»ÑÐ´Ð½Ñ‹Ðµ Ð¿Ð¾ÑÐ¾Ð±Ð¸Ñ Ð¸ Ð²ÑÐ¿Ð¾Ð¼Ð¾Ð³Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ñ‹ (20%)\n\nÐ”Ð»Ñ ÐºÐ°Ð¶Ð´Ð¾Ð³Ð¾ ÐºÑ€Ð¸Ñ‚ÐµÑ€Ð¸Ñ ÑƒÐºÐ°Ð¶Ð¸Ñ‚Ðµ 4 ÑƒÑ€Ð¾Ð²Ð½Ñ â€” ÐžÑ‚Ð»Ð¸Ñ‡Ð½Ð¾ (4), Ð¥Ð¾Ñ€Ð¾ÑˆÐ¾ (3), Ð Ð°Ð·Ð²Ð¸Ð²Ð°ÐµÑ‚ÑÑ (2), ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ñ‹Ð¹ (1) â€” Ñ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¼Ð¸ Ð½Ð°Ð±Ð»ÑŽÐ´Ð°ÐµÐ¼Ñ‹Ð¼Ð¸ Ð´ÐµÑÐºÑ€Ð¸Ð¿Ñ‚Ð¾Ñ€Ð°Ð¼Ð¸. ÐžÑ„Ð¾Ñ€Ð¼Ð¸Ñ‚Ðµ Ð² Ð²Ð¸Ð´Ðµ Ñ‡Ñ‘Ñ‚ÐºÐ¾Ð¹ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ‹."
+                    }
+    },
+    {
+        "id":  "a02",
+        "category":  "Assessment",
+        "tags":  [
+                     "exit ticket",
+                     "formative",
+                     "check understanding",
+                     "quick"
+                 ],
+        "title":  {
+                      "en":  "Exit Ticket Question Set",
+                      "ro":  "Set de Ã®ntrebÄƒri pentru biletul de ieÈ™ire",
+                      "ru":  "ÐÐ°Ð±Ð¾Ñ€ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð´Ð»Ñ Â«Ð±Ð¸Ð»ÐµÑ‚Ð° Ð½Ð° Ð²Ñ‹Ñ…Ð¾Ð´Â»"
+                  },
+        "content":  {
+                        "en":  "Design 5 exit ticket questions for a lesson on [topic] for [grade level] students. The questions should:\n\n1. One recall question (What did we learn today?)\n2. One comprehension question (Explain in your own wordsâ€¦)\n3. One application question (How would you use this toâ€¦?)\n4. One self-assessment prompt (Rate your understanding 1â€“5 and explain)\n5. One open question (What still confuses you? What do you want to learn next?)\n\nKeep each question to one sentence. The set should take students no more than 5 minutes to complete.",
+                        "ro":  "CreeazÄƒ 5 Ã®ntrebÄƒri pentru biletul de ieÈ™ire dupÄƒ o lecÈ›ie despre [subiect] pentru clasa [nivel]. ÃŽntrebÄƒrile trebuie sÄƒ includÄƒ:\n\n1. O Ã®ntrebare de reamintire (Ce am Ã®nvÄƒÈ›at azi?)\n2. O Ã®ntrebare de Ã®nÈ›elegere (ExplicÄƒ cu propriile cuvinteâ€¦)\n3. O Ã®ntrebare de aplicare (Cum ai folosi asta pentruâ€¦?)\n4. O autoevaluare (ApreciazÄƒ-È›i Ã®nÈ›elegerea de la 1 la 5 È™i explicÄƒ)\n5. O Ã®ntrebare deschisÄƒ (Ce te mai Ã®ncurcÄƒ? Ce vrei sÄƒ Ã®nveÈ›i mai departe?)\n\nFiecare Ã®ntrebare sÄƒ fie o singurÄƒ propoziÈ›ie. Completarea sÄƒ dureze maxim 5 minute.",
+                        "ru":  "Ð Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð¹Ñ‚Ðµ 5 Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð´Ð»Ñ Â«Ð±Ð¸Ð»ÐµÑ‚Ð° Ð½Ð° Ð²Ñ‹Ñ…Ð¾Ð´Â» Ð¿Ð¾ÑÐ»Ðµ ÑƒÑ€Ð¾ÐºÐ° Ð¿Ð¾ Ñ‚ÐµÐ¼Ðµ [Ñ‚ÐµÐ¼Ð°] Ð´Ð»Ñ [ÐºÐ»Ð°ÑÑ/ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ]. Ð’Ð¾Ð¿Ñ€Ð¾ÑÑ‹ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð²ÐºÐ»ÑŽÑ‡Ð°Ñ‚ÑŒ:\n\n1. Ð’Ð¾Ð¿Ñ€Ð¾Ñ Ð½Ð° Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ (Ð§Ñ‚Ð¾ Ð¼Ñ‹ ÑƒÐ·Ð½Ð°Ð»Ð¸ ÑÐµÐ³Ð¾Ð´Ð½Ñ?)\n2. Ð’Ð¾Ð¿Ñ€Ð¾Ñ Ð½Ð° Ð¿Ð¾Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ (ÐžÐ±ÑŠÑÑÐ½Ð¸ ÑÐ²Ð¾Ð¸Ð¼Ð¸ ÑÐ»Ð¾Ð²Ð°Ð¼Ð¸â€¦)\n3. Ð’Ð¾Ð¿Ñ€Ð¾Ñ Ð½Ð° Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ (ÐšÐ°Ðº Ñ‚Ñ‹ Ð±Ñ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð» ÑÑ‚Ð¾ Ð´Ð»Ñâ€¦?)\n4. Ð¡Ð°Ð¼Ð¾Ð¾Ñ†ÐµÐ½ÐºÑƒ (ÐžÑ†ÐµÐ½Ð¸ ÑÐ²Ð¾Ñ‘ Ð¿Ð¾Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ Ð¾Ñ‚ 1 Ð´Ð¾ 5 Ð¸ Ð¾Ð±ÑŠÑÑÐ½Ð¸)\n5. ÐžÑ‚ÐºÑ€Ñ‹Ñ‚Ñ‹Ð¹ Ð²Ð¾Ð¿Ñ€Ð¾Ñ (Ð§Ñ‚Ð¾ Ñ‚ÐµÐ±Ñ ÐµÑ‰Ñ‘ ÑÐ¼ÑƒÑ‰Ð°ÐµÑ‚? Ð§Ñ‚Ð¾ Ñ…Ð¾Ñ‡ÐµÑˆÑŒ ÑƒÐ·Ð½Ð°Ñ‚ÑŒ Ð´Ð°Ð»ÑŒÑˆÐµ?)\n\nÐšÐ°Ð¶Ð´Ñ‹Ð¹ Ð²Ð¾Ð¿Ñ€Ð¾Ñ â€” Ð¾Ð´Ð½Ð¾ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ. Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð±Ð¾Ð»ÐµÐµ 5 Ð¼Ð¸Ð½ÑƒÑ‚."
+                    }
+    },
+    {
+        "id":  "a03",
+        "category":  "Assessment",
+        "tags":  [
+                     "feedback",
+                     "constructive",
+                     "student",
+                     "growth mindset"
+                 ],
+        "title":  {
+                      "en":  "Constructive Student Feedback Writer",
+                      "ro":  "Redactor de feedback constructiv pentru elevi",
+                      "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¸Ð²Ð½Ð¾Ð¹ Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð¹ ÑÐ²ÑÐ·Ð¸ Ð´Ð»Ñ ÑƒÑ‡ÐµÐ½Ð¸ÐºÐ°"
+                  },
+        "content":  {
+                        "en":  "Write personalized, constructive written feedback for a student who [describe the situation, e.g. \u0027submitted a well-structured essay but struggled with citing sources correctly\u0027].\n\nThe feedback should:\n- Start with a genuine, specific strength (not generic praise)\n- Identify one or two clear areas for improvement with concrete suggestions\n- Use growth mindset language (avoid \u0027you can\u0027t\u0027, use \u0027you can improve byâ€¦\u0027)\n- End with an encouraging, forward-looking sentence\n- Be approximately 80â€“120 words, suitable for adding to a grade book or portfolio\n\nTone: warm, honest, and professional.",
+                        "ro":  "Scrie feedback scris personalizat È™i constructiv pentru un elev care [descrie situaÈ›ia, ex. \u0027a trimis un eseu bine structurat, dar a Ã®ntÃ¢mpinat dificultÄƒÈ›i la citarea surselor corect\u0027].\n\nFeedback-ul trebuie sÄƒ:\n- ÃŽnceapÄƒ cu un punct forte specific È™i autentic (nu laudÄƒ genericÄƒ)\n- Identifice una sau douÄƒ zone de Ã®mbunÄƒtÄƒÈ›ire cu sugestii concrete\n- FoloseascÄƒ limbajul mentalitÄƒÈ›ii de creÈ™tere (evitÄƒ \u0027nu poÈ›i\u0027, foloseÈ™te \u0027poÈ›i Ã®mbunÄƒtÄƒÈ›i prinâ€¦\u0027)\n- Se Ã®ncheie cu o propoziÈ›ie Ã®ncurajatoare, orientatÄƒ spre viitor\n- AibÄƒ aproximativ 80â€“120 de cuvinte, potrivit pentru catalog sau portofoliu\n\nTon: cald, sincer È™i profesional.",
+                        "ru":  "ÐÐ°Ð¿Ð¸ÑˆÐ¸Ñ‚Ðµ Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½ÑƒÑŽ ÐºÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¸Ð²Ð½ÑƒÑŽ Ð¾Ð±Ñ€Ð°Ñ‚Ð½ÑƒÑŽ ÑÐ²ÑÐ·ÑŒ Ð´Ð»Ñ ÑƒÑ‡ÐµÐ½Ð¸ÐºÐ°, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ [Ð¾Ð¿Ð¸ÑˆÐ¸Ñ‚Ðµ ÑÐ¸Ñ‚ÑƒÐ°Ñ†Ð¸ÑŽ, Ð½Ð°Ð¿Ñ€. \u0027ÑÐ´Ð°Ð» Ñ…Ð¾Ñ€Ð¾ÑˆÐ¾ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ðµ ÑÑÑÐµ, Ð½Ð¾ Ð¸ÑÐ¿Ñ‹Ñ‚Ñ‹Ð²Ð°Ð» Ñ‚Ñ€ÑƒÐ´Ð½Ð¾ÑÑ‚Ð¸ Ñ Ð¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¼ Ñ†Ð¸Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸ÐµÐ¼ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¾Ð²\u0027].\n\nÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ Ð´Ð¾Ð»Ð¶Ð½Ð°:\n- ÐÐ°Ñ‡Ð¸Ð½Ð°Ñ‚ÑŒÑÑ Ñ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ð¾Ð¹, Ð¸ÑÐºÑ€ÐµÐ½Ð½ÐµÐ¹ ÑÐ¸Ð»ÑŒÐ½Ð¾Ð¹ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ñ‹ (Ð½Ðµ Ð¾Ð±Ñ‰ÐµÐ¹ Ð¿Ð¾Ñ…Ð²Ð°Ð»Ñ‹)\n- ÐžÐ¿Ñ€ÐµÐ´ÐµÐ»ÑÑ‚ÑŒ Ð¾Ð´Ð½Ñƒ-Ð´Ð²Ðµ Ð·Ð¾Ð½Ñ‹ Ñ€Ð¾ÑÑ‚Ð° Ñ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¼Ð¸ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑÐ¼Ð¸\n- Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ·Ñ‹Ðº ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð½Ð° Ñ€Ð¾ÑÑ‚ (Ð½Ðµ \u0027Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑˆÑŒ\u0027, Ð° \u0027Ð¼Ð¾Ð¶ÐµÑˆÑŒ ÑƒÐ»ÑƒÑ‡ÑˆÐ¸Ñ‚ÑŒ, ÐµÑÐ»Ð¸â€¦\u0027)\n- Ð—Ð°ÐºÐ°Ð½Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒÑÑ Ð¾Ð±Ð¾Ð´Ñ€ÑÑŽÑ‰Ð¸Ð¼, Ð¿ÐµÑ€ÑÐ¿ÐµÐºÑ‚Ð¸Ð²Ð½Ñ‹Ð¼ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸ÐµÐ¼\n- Ð‘Ñ‹Ñ‚ÑŒ Ð¾ÐºÐ¾Ð»Ð¾ 80â€“120 ÑÐ»Ð¾Ð², Ð¿Ð¾Ð´Ñ…Ð¾Ð´Ð¸Ñ‚ÑŒ Ð´Ð»Ñ Ð¿Ð¾Ñ€Ñ‚Ñ„Ð¾Ð»Ð¸Ð¾ Ð¸Ð»Ð¸ Ð¶ÑƒÑ€Ð½Ð°Ð»Ð°\n\nÐ¢Ð¾Ð½: Ñ‚Ñ‘Ð¿Ð»Ñ‹Ð¹, Ñ‡ÐµÑÑ‚Ð½Ñ‹Ð¹, Ð¿Ñ€Ð¾Ñ„ÐµÑÑÐ¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹."
+                    }
+    }
+]

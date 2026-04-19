@@ -1,0 +1,62 @@
+﻿[
+    {
+        "id":  "c01",
+        "category":  "Communication",
+        "tags":  [
+                     "newsletter",
+                     "parents",
+                     "writing",
+                     "school communication"
+                 ],
+        "title":  {
+                      "en":  "Parent Newsletter Writer",
+                      "ro":  "Redactor de newsletter pentru pÄƒrinÈ›i",
+                      "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ð³Ð¾ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð¿Ð¸ÑÑŒÐ¼Ð°"
+                  },
+        "content":  {
+                        "en":  "Write a friendly, professional parent newsletter for [month/period] for a [grade level] class at [school name or type].\n\nInclude these sections:\n1. Welcome / opening message (2â€“3 sentences, warm tone)\n2. What we\u0027ve been learning (brief summary of 2â€“3 topics covered)\n3. Upcoming events and dates (at least 3 items in a list)\n4. How parents can help at home (2â€“3 practical, specific tips connected to current learning)\n5. A spotlight moment or class achievement (one genuine positive highlight)\n6. Contact information reminder\n\nTone: warm, inclusive, jargon-free. Length: one A4 page. Add [PHOTO SUGGESTION] where a class photo would fit.",
+                        "ro":  "Scrie un newsletter prietenos È™i profesional pentru pÄƒrinÈ›i pentru [lunÄƒ/perioadÄƒ] pentru o clasÄƒ de [nivel] la [numele sau tipul È™colii].\n\nInclude aceste secÈ›iuni:\n1. Mesaj de bun venit / introducere (2â€“3 propoziÈ›ii, ton cald)\n2. Ce am Ã®nvÄƒÈ›at (rezumat scurt a 2â€“3 subiecte abordate)\n3. Evenimente È™i date viitoare (cel puÈ›in 3 elemente Ã®n listÄƒ)\n4. Cum pot ajuta pÄƒrinÈ›ii acasÄƒ (2â€“3 sfaturi practice, specifice, legate de Ã®nvÄƒÈ›area curentÄƒ)\n5. Un moment special sau realizare a clasei (un aspect pozitiv autentic)\n6. Reamintirea datelor de contact\n\nTon: cald, incluziv, fÄƒrÄƒ jargon. Lungime: o paginÄƒ A4. AdaugÄƒ [SUGESTIE FOTO] unde ar putea fi o pozÄƒ din clasÄƒ.",
+                        "ru":  "ÐÐ°Ð¿Ð¸ÑˆÐ¸Ñ‚Ðµ Ð´Ñ€ÑƒÐ¶ÐµÐ»ÑŽÐ±Ð½Ð¾Ðµ, Ð¿Ñ€Ð¾Ñ„ÐµÑÑÐ¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ Ð¿Ð¸ÑÑŒÐ¼Ð¾ Ð´Ð»Ñ Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÐµÐ¹ Ð·Ð° [Ð¼ÐµÑÑÑ†/Ð¿ÐµÑ€Ð¸Ð¾Ð´] Ð´Ð»Ñ ÐºÐ»Ð°ÑÑÐ° [ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ] Ð² [Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¸Ð»Ð¸ Ñ‚Ð¸Ð¿ ÑˆÐºÐ¾Ð»Ñ‹].\n\nÐ’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ðµ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ñ€Ð°Ð·Ð´ÐµÐ»Ñ‹:\n1. ÐŸÑ€Ð¸Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ðµ / Ð²ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ (2â€“3 Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ, Ñ‚Ñ‘Ð¿Ð»Ñ‹Ð¹ Ñ‚Ð¾Ð½)\n2. Ð§ÐµÐ¼Ñƒ Ð¼Ñ‹ ÑƒÑ‡Ð¸Ð»Ð¸ÑÑŒ (ÐºÑ€Ð°Ñ‚ÐºÐ¾Ðµ Ñ€ÐµÐ·ÑŽÐ¼Ðµ 2â€“3 Ð¿Ñ€Ð¾Ð¹Ð´ÐµÐ½Ð½Ñ‹Ñ… Ñ‚ÐµÐ¼)\n3. ÐŸÑ€ÐµÐ´ÑÑ‚Ð¾ÑÑ‰Ð¸Ðµ Ð¼ÐµÑ€Ð¾Ð¿Ñ€Ð¸ÑÑ‚Ð¸Ñ Ð¸ Ð´Ð°Ñ‚Ñ‹ (Ð½Ðµ Ð¼ÐµÐ½ÐµÐµ 3 Ð¿ÑƒÐ½ÐºÑ‚Ð¾Ð² Ð² Ð²Ð¸Ð´Ðµ ÑÐ¿Ð¸ÑÐºÐ°)\n4. ÐšÐ°Ðº Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»Ð¸ Ð¼Ð¾Ð³ÑƒÑ‚ Ð¿Ð¾Ð¼Ð¾Ñ‡ÑŒ Ð´Ð¾Ð¼Ð° (2â€“3 Ð¿Ñ€Ð°ÐºÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ…, ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ñ‹Ñ… ÑÐ¾Ð²ÐµÑ‚Ð°, ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ñ… Ñ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¼ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸ÐµÐ¼)\n5. ÐžÑÐ¾Ð±Ñ‹Ð¹ Ð¼Ð¾Ð¼ÐµÐ½Ñ‚ Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚Ð¸Ð¶ÐµÐ½Ð¸Ðµ ÐºÐ»Ð°ÑÑÐ° (Ð¾Ð´Ð¸Ð½ Ð¿Ð¾Ð´Ð»Ð¸Ð½Ð½Ñ‹Ð¹ Ð¿Ð¾Ð·Ð¸Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ñ„Ð°ÐºÑ‚)\n6. ÐÐ°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…\n\nÐ¢Ð¾Ð½: Ñ‚Ñ‘Ð¿Ð»Ñ‹Ð¹, Ð¸Ð½ÐºÐ»ÑŽÐ·Ð¸Ð²Ð½Ñ‹Ð¹, Ð±ÐµÐ· Ð¶Ð°Ñ€Ð³Ð¾Ð½Ð°. ÐžÐ±ÑŠÑ‘Ð¼: Ð¾Ð´Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð4. Ð”Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ [ÐŸÐ Ð•Ð”Ð›ÐžÐ–Ð•ÐÐ˜Ð• Ð¤ÐžÐ¢Ðž] Ñ‚Ð°Ð¼, Ð³Ð´Ðµ Ð¿Ð¾Ð´Ð¾Ð¹Ð´Ñ‘Ñ‚ Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ñ."
+                    }
+    },
+    {
+        "id":  "c02",
+        "category":  "Communication",
+        "tags":  [
+                     "parent-teacher conference",
+                     "talking points",
+                     "meeting",
+                     "progress"
+                 ],
+        "title":  {
+                      "en":  "Parentâ€“Teacher Conference Prep",
+                      "ro":  "PregÄƒtire pentru conferinÈ›a pÄƒrinÈ›iâ€“profesori",
+                      "ru":  "ÐŸÐ¾Ð´Ð³Ð¾Ñ‚Ð¾Ð²ÐºÐ° Ðº Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¾-ÑƒÑ‡Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ð¹ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸"
+                  },
+        "content":  {
+                        "en":  "Prepare a structured set of talking points for a 15-minute parentâ€“teacher conference about a student named [student name / \u0027a student\u0027] in [grade level] who [brief profile, e.g. \u0027is academically capable but struggles with focus and completing assignments on time\u0027].\n\nOrganize into four parts:\n1. Opening (30 sec) â€” friendly greeting, purpose of the meeting\n2. Strengths (3â€“4 min) â€” 3 specific, evidence-based positive observations\n3. Areas to develop (5â€“6 min) â€” 2â€“3 specific concerns, each paired with a concrete support strategy and a question to invite the parent\u0027s perspective\n4. Action plan \u0026 next steps (3â€“4 min) â€” agreed goals, how school and home will collaborate, follow-up date\n\nInclude sample phrases for sensitive or difficult moments.",
+                        "ro":  "PregÄƒteÈ™te un set structurat de puncte de discuÈ›ie pentru o conferinÈ›Äƒ de 15 minute cu pÄƒrinÈ›ii unui elev numit [numele elevului / \u0027un elev\u0027] din clasa [nivel] care [profil scurt, ex. \u0027este capabil academic, dar are dificultÄƒÈ›i de concentrare È™i la predarea la timp a temelor\u0027].\n\nOrganizeazÄƒ Ã®n patru pÄƒrÈ›i:\n1. Deschidere (30 sec) â€” salut prietenos, scopul Ã®ntÃ¢lnirii\n2. Puncte forte (3â€“4 min) â€” 3 observaÈ›ii pozitive specifice, bazate pe dovezi\n3. Zone de dezvoltat (5â€“6 min) â€” 2â€“3 preocupÄƒri specifice, fiecare cu o strategie de sprijin concretÄƒ È™i o Ã®ntrebare pentru a invita perspectiva pÄƒrintelui\n4. Plan de acÈ›iune È™i paÈ™i urmÄƒtori (3â€“4 min) â€” obiective agreate, cum vor colabora È™coala È™i familia, data de follow-up\n\nInclude formulÄƒri exemplu pentru momentele sensibile sau dificile.",
+                        "ru":  "ÐŸÐ¾Ð´Ð³Ð¾Ñ‚Ð¾Ð²ÑŒÑ‚Ðµ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð½Ð°Ð±Ð¾Ñ€ Ñ‚ÐµÐ·Ð¸ÑÐ¾Ð² Ð´Ð»Ñ 15-Ð¼Ð¸Ð½ÑƒÑ‚Ð½Ð¾Ð¹ Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¾-ÑƒÑ‡Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ð¹ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸ Ð¾Ð± ÑƒÑ‡ÐµÐ½Ð¸ÐºÐµ Ð¿Ð¾ Ð¸Ð¼ÐµÐ½Ð¸ [Ð¸Ð¼Ñ ÑƒÑ‡ÐµÐ½Ð¸ÐºÐ° / \u0027ÑƒÑ‡ÐµÐ½Ð¸Ðº\u0027] Ð² [ÐºÐ»Ð°ÑÑ/ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ], ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ [ÐºÑ€Ð°Ñ‚ÐºÐ¸Ð¹ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ, Ð½Ð°Ð¿Ñ€. \u0027Ð°ÐºÐ°Ð´ÐµÐ¼Ð¸Ñ‡ÐµÑÐºÐ¸ ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ñ‹Ð¹, Ð½Ð¾ Ð¸ÑÐ¿Ñ‹Ñ‚Ñ‹Ð²Ð°ÐµÑ‚ Ñ‚Ñ€ÑƒÐ´Ð½Ð¾ÑÑ‚Ð¸ Ñ ÐºÐ¾Ð½Ñ†ÐµÐ½Ñ‚Ñ€Ð°Ñ†Ð¸ÐµÐ¹ Ð¸ ÑÐ²Ð¾ÐµÐ²Ñ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ð¼ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸ÐµÐ¼ Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹\u0027].\n\nÐžÑ€Ð³Ð°Ð½Ð¸Ð·ÑƒÐ¹Ñ‚Ðµ Ð² Ñ‡ÐµÑ‚Ñ‹Ñ€Ðµ Ñ‡Ð°ÑÑ‚Ð¸:\n1. Ð’ÑÑ‚ÑƒÐ¿Ð»ÐµÐ½Ð¸Ðµ (30 ÑÐµÐº) â€” Ð´Ñ€ÑƒÐ¶ÐµÑÐºÐ¾Ðµ Ð¿Ñ€Ð¸Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ðµ, Ñ†ÐµÐ»ÑŒ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸\n2. Ð¡Ð¸Ð»ÑŒÐ½Ñ‹Ðµ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ñ‹ (3â€“4 Ð¼Ð¸Ð½) â€” 3 ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ñ‹Ñ…, Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ… Ð½Ð° Ñ„Ð°ÐºÑ‚Ð°Ñ… Ð¿Ð¾Ð·Ð¸Ñ‚Ð¸Ð²Ð½Ñ‹Ñ… Ð½Ð°Ð±Ð»ÑŽÐ´ÐµÐ½Ð¸Ñ\n3. Ð—Ð¾Ð½Ñ‹ Ñ€Ð°Ð·Ð²Ð¸Ñ‚Ð¸Ñ (5â€“6 Ð¼Ð¸Ð½) â€” 2â€“3 ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ñ‹Ñ… Ð¾Ð¿Ð°ÑÐµÐ½Ð¸Ñ, ÐºÐ°Ð¶Ð´Ð¾Ðµ ÑÐ¾ ÑÑ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸ÐµÐ¹ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¸ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð¼ Ð´Ð»Ñ Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»Ñ\n4. ÐŸÐ»Ð°Ð½ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ð¹ Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ ÑˆÐ°Ð³Ð¸ (3â€“4 Ð¼Ð¸Ð½) â€” ÑÐ¾Ð³Ð»Ð°ÑÐ¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ñ†ÐµÐ»Ð¸, ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑˆÐºÐ¾Ð»Ñ‹ Ð¸ ÑÐµÐ¼ÑŒÐ¸, Ð´Ð°Ñ‚Ð° ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÐµÐ³Ð¾ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð°\n\nÐ’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ðµ Ð¾Ð±Ñ€Ð°Ð·Ñ†Ñ‹ Ñ„Ñ€Ð°Ð· Ð´Ð»Ñ Ñ‡ÑƒÐ²ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ñ… Ð¸Ð»Ð¸ ÑÐ»Ð¾Ð¶Ð½Ñ‹Ñ… Ð¼Ð¾Ð¼ÐµÐ½Ñ‚Ð¾Ð²."
+                    }
+    },
+    {
+        "id":  "c03",
+        "category":  "Communication",
+        "tags":  [
+                     "email",
+                     "parent",
+                     "professional writing",
+                     "progress report"
+                 ],
+        "title":  {
+                      "en":  "Student Progress Email to Parent",
+                      "ro":  "E-mail de progres al elevului cÄƒtre pÄƒrinÈ›i",
+                      "ru":  "Ð­Ð»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ðµ Ð¿Ð¸ÑÑŒÐ¼Ð¾ Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑÐ¼ Ð¾Ð± ÑƒÑÐ¿ÐµÑ…Ð°Ñ… ÑƒÑ‡ÐµÐ½Ð¸ÐºÐ°"
+                  },
+        "content":  {
+                        "en":  "Draft a professional, empathetic email to the parent of a [grade level] student regarding [situation, e.g. \u0027a noticeable improvement in participation this month\u0027 OR \u0027a concerning drop in grades and increased absences\u0027].\n\nThe email should:\n- Have a clear, non-alarming subject line\n- Open with a brief, genuine positive observation about the student\n- State the main point clearly and specifically (with one concrete example or data point)\n- Propose a clear next step or call to action (e.g., a call, a meeting, trying a strategy at home)\n- Close with an open, collaborative tone\n\nLength: 150â€“200 words. Tone: professional but warm and solution-focused.",
+                        "ro":  "RedacteazÄƒ un e-mail profesional È™i empatic pentru pÄƒrintele unui elev din clasa [nivel] privind [situaÈ›ia, ex. \u0027o Ã®mbunÄƒtÄƒÈ›ire vizibilÄƒ a participÄƒrii Ã®n aceastÄƒ lunÄƒ\u0027 SAU \u0027o scÄƒdere Ã®ngrijorÄƒtoare a notelor È™i absenÈ›e frecvente\u0027].\n\nE-mailul trebuie sÄƒ:\n- AibÄƒ o linie de subiect clarÄƒ, care sÄƒ nu alarmeze\n- ÃŽnceapÄƒ cu o observaÈ›ie pozitivÄƒ scurtÄƒ È™i autenticÄƒ despre elev\n- Precizeze punctul principal clar È™i specific (cu un exemplu concret sau date)\n- PropunÄƒ un pas urmÄƒtor clar sau un apel la acÈ›iune (ex. un apel telefonic, o Ã®ntÃ¢lnire, o strategie de aplicat acasÄƒ)\n- Se Ã®ncheie cu un ton deschis È™i colaborativ\n\nLungime: 150â€“200 de cuvinte. Ton: profesional, dar cald È™i orientat spre soluÈ›ii.",
+                        "ru":  "ÐÐ°Ð¿Ð¸ÑˆÐ¸Ñ‚Ðµ Ð¿Ñ€Ð¾Ñ„ÐµÑÑÐ¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ð¾Ðµ, ÑÐ¼Ð¿Ð°Ñ‚Ð¸Ñ‡Ð½Ð¾Ðµ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ðµ Ð¿Ð¸ÑÑŒÐ¼Ð¾ Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŽ ÑƒÑ‡ÐµÐ½Ð¸ÐºÐ° [ÐºÐ»Ð°ÑÑ/ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ] Ð¿Ð¾ Ð¿Ð¾Ð²Ð¾Ð´Ñƒ [ÑÐ¸Ñ‚ÑƒÐ°Ñ†Ð¸Ñ, Ð½Ð°Ð¿Ñ€. \u0027Ð·Ð°Ð¼ÐµÑ‚Ð½Ð¾Ðµ ÑƒÐ»ÑƒÑ‡ÑˆÐµÐ½Ð¸Ðµ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ñ Ð² ÑÑ‚Ð¾Ð¼ Ð¼ÐµÑÑÑ†Ðµ\u0027 Ð˜Ð›Ð˜ \u0027Ñ‚Ñ€ÐµÐ²Ð¾Ð¶Ð½Ð¾Ðµ ÑÐ½Ð¸Ð¶ÐµÐ½Ð¸Ðµ Ð¾Ñ†ÐµÐ½Ð¾Ðº Ð¸ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ð²ÑˆÐ¸ÐµÑÑ Ð¿Ñ€Ð¾Ð¿ÑƒÑÐºÐ¸\u0027].\n\nÐŸÐ¸ÑÑŒÐ¼Ð¾ Ð´Ð¾Ð»Ð¶Ð½Ð¾:\n- Ð˜Ð¼ÐµÑ‚ÑŒ Ñ‡Ñ‘Ñ‚ÐºÑƒÑŽ, Ð½Ðµ Ð²Ñ‹Ð·Ñ‹Ð²Ð°ÑŽÑ‰ÑƒÑŽ Ñ‚Ñ€ÐµÐ²Ð¾Ð³Ð¸ Ñ‚ÐµÐ¼Ñƒ Ð¿Ð¸ÑÑŒÐ¼Ð°\n- ÐÐ°Ñ‡Ð¸Ð½Ð°Ñ‚ÑŒÑÑ Ñ ÐºÑ€Ð°Ñ‚ÐºÐ¾Ð³Ð¾, Ð¸ÑÐºÑ€ÐµÐ½Ð½ÐµÐ³Ð¾ Ð¿Ð¾Ð·Ð¸Ñ‚Ð¸Ð²Ð½Ð¾Ð³Ð¾ Ð½Ð°Ð±Ð»ÑŽÐ´ÐµÐ½Ð¸Ñ Ð¾Ð± ÑƒÑ‡ÐµÐ½Ð¸ÐºÐµ\n- Ð§Ñ‘Ñ‚ÐºÐ¾ Ð¸ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ð¾ Ð¸Ð·Ð»Ð°Ð³Ð°Ñ‚ÑŒ Ð³Ð»Ð°Ð²Ð½Ñ‹Ð¹ Ð¼Ð¾Ð¼ÐµÐ½Ñ‚ (Ñ Ð¾Ð´Ð½Ð¸Ð¼ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¼ Ð¿Ñ€Ð¸Ð¼ÐµÑ€Ð¾Ð¼ Ð¸Ð»Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ð¼Ð¸)\n- ÐŸÑ€ÐµÐ´Ð»Ð°Ð³Ð°Ñ‚ÑŒ Ñ‡Ñ‘Ñ‚ÐºÐ¸Ð¹ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ ÑˆÐ°Ð³ Ð¸Ð»Ð¸ Ð¿Ñ€Ð¸Ð·Ñ‹Ð² Ðº Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸ÑŽ (Ð½Ð°Ð¿Ñ€., Ð·Ð²Ð¾Ð½Ð¾Ðº, Ð²ÑÑ‚Ñ€ÐµÑ‡Ð°, ÑÑ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸Ñ Ð´Ð¾Ð¼Ð°)\n- Ð—Ð°ÐºÐ°Ð½Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒÑÑ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ñ‹Ð¼, ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¼ Ñ‚Ð¾Ð½Ð¾Ð¼\n\nÐžÐ±ÑŠÑ‘Ð¼: 150â€“200 ÑÐ»Ð¾Ð². Ð¢Ð¾Ð½: Ð¿Ñ€Ð¾Ñ„ÐµÑÑÐ¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹, Ð½Ð¾ Ñ‚Ñ‘Ð¿Ð»Ñ‹Ð¹ Ð¸ Ð¾Ñ€Ð¸ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð½Ð° Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ."
+                    }
+    }
+]

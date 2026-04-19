@@ -472,6 +472,7 @@ const CAT_LABELS = {
     "Academic Writing": { en:"Academic Writing",ro:"Scriere academică",ru:"Академ. письмо" },
     "Student Productivity": { en:"Student Productivity", ro:"Productivitate student", ru:"Продуктивность студента" },
     "Teaching Support": { en:"Teaching Support", ro:"Suport didactic", ru:"Педагогическая поддержка" },
+    "University Educators": { en:"University Educators", ro:"Cadre didactice universitare", ru:"Преподаватели вузов" },
 };
 
 /* ─────────────────────────────────────────────────────────────
@@ -733,14 +734,21 @@ async function init() {
     if (state.query) document.getElementById('searchInput').value = state.query;
 
     try {
-        const res = await fetch('./prompts.json');
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        state.prompts = await res.json();
+        const idxRes = await fetch('./prompts/index.json');
+        if (!idxRes.ok) throw new Error(`HTTP ${idxRes.status}`);
+        const slugs = await idxRes.json();
+        const files = await Promise.all(
+            slugs.map(s => fetch(`./prompts/${s}.json`).then(r => {
+                if (!r.ok) throw new Error(`HTTP ${r.status} loading prompts/${s}.json`);
+                return r.json();
+            }))
+        );
+        state.prompts = files.flat();
     } catch (err) {
         document.getElementById('cardsGrid').innerHTML =
             `<div class="empty-state">
-                <p style="font-weight:bold;color:#721c24;margin:0 0 6px">⚠ Could not load prompts.json</p>
-                <p style="margin:0;font-size:0.9em">Make sure prompts.json is in the same folder as index.html.</p>
+                <p style="font-weight:bold;color:#721c24;margin:0 0 6px">⚠ Could not load prompts</p>
+                <p style="margin:0;font-size:0.9em">${err.message}. Make sure the prompts/ folder is present.</p>
              </div>`;
         return;
     }
