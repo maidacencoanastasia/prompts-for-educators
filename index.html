@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Prompts for Educators</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js"></script>
+</head>
+<body class="bg-gray-50 p-8">
+    <div class="max-w-4xl mx-auto">
+        <header class="flex justify-between items-center mb-8">
+            <h1 class="text-2xl font-bold">Prompt Library</h1>
+            <select id="langPicker" class="border p-2 rounded">
+                <option value="en">English</option>
+                <option value="ro">Română</option>
+                <option value="ru">Русский</option>
+            </select>
+        </header>
+
+        <input type="text" id="searchInput" placeholder="Search prompts..." 
+               class="w-full p-4 rounded-lg border shadow-sm mb-6">
+
+        <div id="results" class="grid gap-4"></div>
+    </div>
+
+    <script>
+        let currentLang = 'en';
+        let prompts = []; // This would be fetched from your prompts.json
+
+        // Example Search Logic
+        const fuseOptions = {
+            keys: ['title', `content.${currentLang}`, 'tags'],
+            threshold: 0.3
+        };
+
+        function render(results) {
+            const container = document.getElementById('results');
+            container.innerHTML = results.map(item => `
+                <div class="p-4 bg-white rounded shadow">
+                    <h3 class="font-bold text-blue-600">${item.title}</h3>
+                    <p class="text-gray-700 mt-2">${item.content[currentLang]}</p>
+                    <button onclick="navigator.clipboard.writeText('${item.content[currentLang]}')" 
+                            class="mt-3 text-xs bg-gray-200 px-2 py-1 rounded">Copy</button>
+                </div>
+            `).join('');
+        }
+    </script>
+</body>
+</html>
