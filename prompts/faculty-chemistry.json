@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fct01",
+    "category": "Chemistry",
+    "tags": ["syllabus", "curriculum", "course planning", "AI", "university"],
+    "title": {
+      "en": "Syllabus Generation with AI",
+      "ro": "Generarea Sylabusului cu AI",
+      "ru": "Генерация силлабуса с помощью ИИ"
+    },
+    "content": {
+      "en": "You are a specialist in university curriculum. Help me create a syllabus for the course [COURSE NAME], taught at the undergraduate level, semester [X], [N] hours per week ([M] lecture + [K] seminar).\n\nThe discipline belongs to the field of [FIELD] and is taught to [X]-year students.\n\nGenerate:\n1. Learning objectives (5–7, formulated with Bloom's taxonomy verbs)\n2. Thematic structure (12–14 thematic units with titles)\n3. Distribution of hours per topic\n4. List of specific competencies acquired\n5. Suggestions for evaluation methods\n\nStudents' previous courses include: [list of relevant courses].",
+      "ro": "Ești un specialist în curriculum universitar. Ajută-mă să creez un silabus pentru cursul [DENUMIREA DISCIPLINEI], predat la nivel de licență, semestrul [X], [N] ore pe săptămână ([M] curs + [K] seminar).\n\nDisciplina face parte din domeniul [DOMENIU] și se predă studenților din anul [X] de studiu.\n\nGenerează:\n1. Obiective de învățare (5–7, formulate cu verbe taxonomia Bloom)\n2. Structura tematică (12–14 unități tematice cu titluri)\n3. Distribuirea orelor pe teme\n4. Listă de competențe specifice dobândite\n5. Sugestii de metode de evaluare\n\nDisciplinele anterioare ale studenților includ: [lista disciplinelor relevante].",
+      "ru": "Вы специалист в области университетского учебного плана. Помогите мне создать силлабус для курса [НАЗВАНИЕ ДИСЦИПЛИНЫ], преподаваемого на уровне бакалавриата, семестр [X], [N] часов в неделю ([M] лекции + [K] семинары).\n\nДисциплина относится к области [ОБЛАСТЬ] и преподаётся студентам [X]-го года обучения.\n\nСгенерируйте:\n1. Цели обучения (5–7, сформулированные с глаголами таксономии Блума)\n2. Тематическую структуру (12–14 тематических единиц с названиями)\n3. Распределение часов по темам\n4. Список приобретённых конкретных компетенций\n5. Предложения по методам оценивания\n\nПредыдущие дисциплины студентов включают: [список соответствующих курсов]."
+    }
+  },
+  {
+    "id": "fct02",
+    "category": "Chemistry",
+    "tags": ["AI", "glossary", "terminology", "specialized vocabulary", "students"],
+    "title": {
+      "en": "Technical Glossary Generation",
+      "ro": "Generarea Glosarului Tehnic",
+      "ru": "Генерация технического глоссария"
+    },
+    "content": {
+      "en": "Based on the text/topic [describe topic], create a glossary of 15–20 specialized terms relevant to the field of [X], with clear and concise definitions appropriate for university students. Include the etymology of terms where pedagogically relevant.",
+      "ro": "Pe baza textului/temei [descrieți tema], creează un glosar de 15–20 termeni de specialitate relevanți pentru domeniul [X], cu definiții clare și concise, adecvate studenților universitari. Includeți etimologia termenilor acolo unde este relevantă pedagogic.",
+      "ru": "На основе текста/темы [опишите тему] создайте глоссарий из 15–20 специализированных терминов, актуальных для области [X], с чёткими и краткими определениями, подходящими для студентов университета. Включите этимологию терминов там, где это педагогически значимо."
+    }
+  },
+  {
+    "id": "fct03",
+    "category": "Chemistry",
+    "tags": ["NotebookLM", "hierarchical structure", "concept organization", "visualization"],
+    "title": {
+      "en": "Hierarchical Concept Structure (NotebookLM)",
+      "ro": "Structura Ierarhică a Conceptelor (NotebookLM)",
+      "ru": "Иерархическая структура концепций (NotebookLM)"
+    },
+    "content": {
+      "en": "Generate the hierarchical structure of concepts from the uploaded sources, organized into 3 levels: main concepts → sub-concepts → examples. Format as an indented tree.",
+      "ro": "Generează structura ierarhică a conceptelor din sursele încărcate, organizate pe 3 niveluri: concepte principale → sub-concepte → exemple. Formatează ca arbore indentant.",
+      "ru": "Создайте иерархическую структуру концепций из загруженных источников, организованных на 3 уровнях: основные концепции → подконцепции → примеры. Оформите как дерево с отступами."
+    }
+  }
+]

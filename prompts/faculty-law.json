@@ -1,0 +1,167 @@
+[
+  {
+    "id": "fl01",
+    "category": "Law",
+    "tags": ["Kimi", "PowerPoint", "presentation", "law", "university"],
+    "title": {
+      "en": "Complete Presentation Generation (Kimi.ai)",
+      "ro": "Generarea Completă a Prezentării (Kimi.ai)",
+      "ru": "Полная генерация презентации (Kimi.ai)"
+    },
+    "content": {
+      "en": "Create a 15-slide PowerPoint presentation on the topic \"The Sale-Purchase Contract in Civil Law\" for second-year students, Faculty of Law. Include:\n- Title slide\n- Slide with objectives (3 objectives)\n- 10 content slides with definitions, essential elements, obligations, practical examples\n- Summary slide\n- Slide with assignment\n\nStyle: professional, academic, colors: blue and grey.\nEach slide: maximum 5 lines of text.",
+      "ro": "Creează o prezentare PowerPoint de 15 slide-uri pe tema \"Contractul de vânzare-cumpărare în dreptul civil\" pentru studenți anul 2, Facultatea de Drept. Include:\n- Slide de titlu\n- Slide cu obiective (3 obiective)\n- 10 slide-uri de conținut cu definiții, elemente esențiale, obligații, exemple practice\n- Slide de recapitulare\n- Slide cu sarcina de lucru\n\nStil: profesional, academic, culori: albastru și gri.\nFiecare slide: maximum 5 rânduri de text.",
+      "ru": "Создайте презентацию PowerPoint из 15 слайдов на тему «Договор купли-продажи в гражданском праве» для студентов 2-го курса юридического факультета. Включите:\n- Заглавный слайд\n- Слайд с целями (3 цели)\n- 10 слайдов с содержанием: определения, существенные элементы, обязательства, практические примеры\n- Слайд резюме\n- Слайд с заданием\n\nСтиль: профессиональный, академический, цвета: синий и серый.\nКаждый слайд: максимум 5 строк текста."
+    }
+  },
+  {
+    "id": "fl02",
+    "category": "Law",
+    "tags": ["Gemini", "image generation", "infographic", "law", "educational"],
+    "title": {
+      "en": "Educational Infographic Generation (Gemini)",
+      "ro": "Generarea Infograficii Educaționale (Gemini)",
+      "ru": "Генерация образовательной инфографики (Gemini)"
+    },
+    "content": {
+      "en": "Create a professional infographic illustrating the 3 types of contracts: synallagmatic, unilateral, and aleatory. Style: educational, pastel colors, text in Romanian, simple icons. Format: 16:9, suitable for a PowerPoint slide.",
+      "ro": "Creează o infograf profesională care să ilustreze cele 3 tipuri de contracte: sinalagmatic, unilateral, și aleatoriu. Stil: educațional, culori pastel, text în română, icoane simple. Format: 16:9, potrivit pentru slide PowerPoint.",
+      "ru": "Создайте профессиональную инфографику, иллюстрирующую 3 типа договоров: синаллагматический, односторонний и случайный. Стиль: образовательный, пастельные цвета, текст на румынском языке, простые иконки. Формат: 16:9, подходит для слайда PowerPoint."
+    }
+  },
+  {
+    "id": "fl03",
+    "category": "Law",
+    "tags": ["Gemini", "image generation", "flowchart", "process diagram", "law"],
+    "title": {
+      "en": "Process Flowchart Diagram (Gemini)",
+      "ro": "Diagramă de Flux al Procesului (Gemini)",
+      "ru": "Блок-схема процесса (Gemini)"
+    },
+    "content": {
+      "en": "Generate a flowchart showing the steps of concluding a valid contract: negotiation → offer → acceptance → execution. Use arrows, colored boxes, and labels in Romanian. Style: minimalist, professional.",
+      "ro": "Generează o diagramă de flux (flowchart) care arată pașii încheierii unui contract valabil: negociere → ofertă → acceptare → executare. Folosește săgeți, cutii colorate, și etichete în limba română. Stil: minimalist, profesionist.",
+      "ru": "Создайте блок-схему, показывающую шаги заключения действительного договора: переговоры → предложение → акцепт → исполнение. Используйте стрелки, цветные блоки и подписи на румынском языке. Стиль: минималистичный, профессиональный."
+    }
+  },
+  {
+    "id": "fl04",
+    "category": "Law",
+    "tags": ["Gemini", "image generation", "illustration", "flat design", "law"],
+    "title": {
+      "en": "Professional Scene Illustration (Gemini)",
+      "ro": "Ilustrație Scenă Profesională (Gemini)",
+      "ru": "Иллюстрация профессиональной сцены (Gemini)"
+    },
+    "content": {
+      "en": "Illustrate a scene: two people at a table, signing a contract. Neutral background, flat design style, warm colors. No text on the image. Professional but friendly atmosphere.",
+      "ro": "Ilustrează o scenă: două persoane la o masă, semnând un contract. Fundal neutru, stil flat design, culori calde. Fără text pe imagine. Atmosferă profesională dar prietenoasă.",
+      "ru": "Проиллюстрируйте сцену: двое людей за столом, подписывающих договор. Нейтральный фон, стиль flat design, тёплые цвета. Без текста на изображении. Профессиональная, но дружелюбная атмосфера."
+    }
+  },
+  {
+    "id": "fl05",
+    "category": "Law",
+    "tags": ["Gemini", "image generation", "concept map", "educational visual", "law"],
+    "title": {
+      "en": "Visual Concept Map — Seller's Obligations (Gemini)",
+      "ro": "Hartă Conceptuală Vizuală — Obligațiile Vânzătorului (Gemini)",
+      "ru": "Визуальная концептуальная карта — Обязательства продавца (Gemini)"
+    },
+    "content": {
+      "en": "Create a visual concept map for the theme 'Seller's Obligations'. Central concept in the middle, branches towards: transfer of ownership, warranty against hidden defects, delivery of conforming goods. Style: modern, educational, colors: blue and orange.",
+      "ro": "Creează o hartă conceptuală vizuală pentru tema 'Obligațiile vânzătorului'. Conceptul central în mijloc, ramificații spre: transfer proprietate, garanție vicii ascunse, livrare bun conform. Stil: modern, educational, culori: albastru și portocaliu.",
+      "ru": "Создайте визуальную концептуальную карту по теме «Обязательства продавца». Центральная концепция посередине, ответвления к: переход права собственности, гарантия от скрытых дефектов, поставка соответствующего товара. Стиль: современный, образовательный, цвета: синий и оранжевый."
+    }
+  },
+  {
+    "id": "fl06",
+    "category": "Law",
+    "tags": ["Gemini", "image generation", "icons", "line art", "law"],
+    "title": {
+      "en": "Legal Educational Icons Set (Gemini)",
+      "ro": "Set de Icoane Educaționale Juridice (Gemini)",
+      "ru": "Набор юридических образовательных иконок (Gemini)"
+    },
+    "content": {
+      "en": "A set of 5 simple line-art style icons: 1) scale (justice), 2) signed contract, 3) clock (deadline), 4) money (price), 5) house (real estate). Transparent background, black color, medium line thickness. PNG format.",
+      "ro": "Set de 5 icoane simple în stil line-art: 1) balanță (justiție), 2) contract semnat, 3) ceas (termen), 4) bani (preț), 5) casă (imobil). Fundal transparent, culoare negru, grosime linie medie. Format PNG.",
+      "ru": "Набор из 5 простых иконок в стиле line-art: 1) весы (правосудие), 2) подписанный договор, 3) часы (срок), 4) деньги (цена), 5) дом (недвижимость). Прозрачный фон, чёрный цвет, средняя толщина линий. Формат PNG."
+    }
+  },
+  {
+    "id": "fl07",
+    "category": "Law",
+    "tags": ["NotebookLM", "workflow", "flowchart", "process", "law", "contract"],
+    "title": {
+      "en": "Contract Workflow Structure from Sources (NotebookLM)",
+      "ro": "Structura Workflow Contract din Surse (NotebookLM)",
+      "ru": "Структура рабочего процесса договора из источников (NotebookLM)"
+    },
+    "content": {
+      "en": "Based on the uploaded sources, generate a detailed workflow (flowchart) for the process of concluding a sale-purchase contract. Each stage should contain:\n- Stage name\n- Concrete actions\n- Necessary documents\n- Who performs them (seller/buyer/notary)\n- Estimated duration\n\nFormat as a numbered list with sub-steps.",
+      "ro": "Pe baza surselor încărcate, generează un workflow detaliat (diagrama de flux) al procesului de încheierea unui contract de vânzare-cumpărare. Fiecare etapă să conțină:\n- Numele etapei\n- Acțiunile concrete\n- Documentele necesare\n- Cine le realizează (vânzător/cumpărător/notar)\n- Durata estimată\n\nFormatează ca o listă numerotată cu sub-pași.",
+      "ru": "На основе загруженных источников создайте подробную диаграмму рабочего процесса (блок-схему) для процесса заключения договора купли-продажи. Каждый этап должен содержать:\n- Название этапа\n- Конкретные действия\n- Необходимые документы\n- Кто их выполняет (продавец/покупатель/нотариус)\n- Ориентировочная продолжительность\n\nОформите в виде нумерованного списка с подшагами."
+    }
+  },
+  {
+    "id": "fl08",
+    "category": "Law",
+    "tags": ["law", "case study", "Moldova", "civil code", "university"],
+    "title": {
+      "en": "Law Course — Legal Case Generation",
+      "ro": "Curs Drept — Generarea Cazului Juridic",
+      "ru": "Курс права — Генерация юридического дела"
+    },
+    "content": {
+      "en": "Generate a legal case study for [topic], based on the legislation of the Republic of Moldova, with references to the [Civil/Criminal/etc.] Code. The case should contain: facts, parties involved, analysis questions (3), precise legislative references.",
+      "ro": "Generează un studiu de caz juridic pentru [tema], bazat pe legislația din Republica Moldova, cu referințe la Codul [Civil/Penal/etc.]. Cazul să conțină: fapte, părți implicate, întrebări de analiză (3), referințe legislative precise.",
+      "ru": "Создайте юридический кейс по [тема], основанный на законодательстве Республики Молдова, со ссылками на [Гражданский/Уголовный/и т.д.] кодекс. Дело должно содержать: факты, вовлечённые стороны, вопросы для анализа (3), точные законодательные ссылки."
+    }
+  },
+  {
+    "id": "fl09",
+    "category": "Law",
+    "tags": ["AI", "question bank", "law", "Moodle", "Aiken format", "scenarios"],
+    "title": {
+      "en": "Legal Scenarios for Question Bank (Aiken/Moodle)",
+      "ro": "Scenarii Juridice pentru Banca de Întrebări (Aiken/Moodle)",
+      "ru": "Юридические сценарии для банка вопросов (Aiken/Moodle)"
+    },
+    "content": {
+      "en": "Generate 5 similar legal scenarios on the topic of liability for hidden defects in the sale-purchase contract, with different specific details (different type of good, different defect, different time interval), at the Application difficulty level according to Bloom's taxonomy.\nEach scenario: statement + 4 answer options (1 correct, 3 plausible) + indication of the correct answer.\nOutput format: Aiken Format (compatible with direct import into Moodle).",
+      "ro": "Generați 5 scenarii juridice similare pe tema răspunderii pentru vicii ascunse în contractul de vânzare-cumpărare, cu detalii specifice diferite (alt tip de bun, alt viciu, alt interval de timp), la nivel de dificultate Aplicare conform taxonomiei Bloom.\nFiecare scenariu: enunț + 4 variante de răspuns (1 corect, 3 plauzibili) + indicarea răspunsului corect.\nFormat de output: Format Aiken (compatibil cu importul direct în Moodle).",
+      "ru": "Создайте 5 похожих юридических сценариев по теме ответственности за скрытые дефекты в договоре купли-продажи, с различными конкретными деталями (другой тип товара, другой дефект, другой временной интервал), на уровне сложности «Применение» по таксономии Блума.\nКаждый сценарий: условие + 4 варианта ответа (1 верный, 3 правдоподобных) + указание верного ответа.\nФормат вывода: формат Aiken (совместимый с прямым импортом в Moodle)."
+    }
+  },
+  {
+    "id": "fl10",
+    "category": "Law",
+    "tags": ["law", "civil code", "Moldova", "analysis", "responsibility"],
+    "title": {
+      "en": "Legal Responsibility Analysis — Civil Law (Moldova)",
+      "ro": "Analiza Răspunderii Juridice — Drept Civil (Moldova)",
+      "ru": "Анализ юридической ответственности — Гражданское право (Молдова)"
+    },
+    "content": {
+      "en": "Ionescu sold an apartment to Popa without disclosing the hidden defects of the property. Popa discovers the defects 6 months after signing the contract. Analyze the seller's liability according to the Civil Code of the Republic of Moldova.",
+      "ro": "Ionescu a vândut un apartament lui Popa fără a-i comunica viciile ascunse ale imobilului. Popa descoperă viciile la 6 luni după semnarea contractului. Analizați răspunderea vânzătorului conform Codului Civil al RM.",
+      "ru": "Ионеску продал квартиру Попе, не сообщив о скрытых дефектах имущества. Попа обнаружил дефекты через 6 месяцев после подписания договора. Проанализируйте ответственность продавца согласно Гражданскому кодексу Республики Молдова."
+    }
+  },
+  {
+    "id": "fl11",
+    "category": "Law",
+    "tags": ["NotebookLM", "podcast", "law", "audio", "Moldova", "civil code"],
+    "title": {
+      "en": "Academic Podcast on Legal Contracts (NotebookLM)",
+      "ro": "Podcast Academic despre Contracte Juridice (NotebookLM)",
+      "ru": "Академический подкаст о юридических договорах (NotebookLM)"
+    },
+    "content": {
+      "en": "Generate an Audio Overview for second-year Law students studying special contracts. The tone should be academic and formal, similar to a university lecture. Focus on:\n1. The legal definition and essential elements of the sale-purchase contract\n2. Differences between the sale-purchase of movable and immovable property\n3. Obligations of the parties according to the Civil Code of the Republic of Moldova\n4. Minimum 2 examples of jurisprudence or practical cases\n\nTarget duration: 10–12 minutes. Use precise legal terminology from the uploaded sources, with exact citations to legal articles.",
+      "ro": "Generează un Audio Overview pentru studenții de la Drept, anul 2, care studiază contractele speciale. Tonul să fie academic și formal, similar unei prelegeri universitare. Focalizează-te pe:\n1. Definiția legală și elementele esențiale ale contractului de vânzare-cumpărare\n2. Diferențele dintre vânzarea-cumpărarea de bunuri mobile și imobile\n3. Obligațiile părților conform Codului Civil al Republicii Moldova\n4. Minimum 2 exemple de jurisprudență sau cazuri practice\n\nDurată țintă: 10-12 minute. Folosește terminologia juridică precisă din sursele încărcate, cu citări exacte la articolele de lege.",
+      "ru": "Создайте аудиообзор для студентов 2-го курса юридического факультета, изучающих специальные договоры. Тон должен быть академическим и формальным, как университетская лекция. Сосредоточьтесь на:\n1. Юридическом определении и существенных элементах договора купли-продажи\n2. Различиях между куплей-продажей движимого и недвижимого имущества\n3. Обязательствах сторон согласно Гражданскому кодексу Республики Молдова\n4. Минимум 2 примера судебной практики или практических дел\n\nЦелевая продолжительность: 10–12 минут. Используйте точную юридическую терминологию из загруженных источников с точными ссылками на статьи закона."
+    }
+  }
+]

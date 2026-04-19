@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fis01",
+    "category": "Physical Education",
+    "tags": ["NotebookLM", "course structure", "Moodle", "curriculum", "AI"],
+    "title": {
+      "en": "Course Structure from Materials (NotebookLM)",
+      "ro": "Structura Cursului din Materiale (NotebookLM)",
+      "ru": "Структура курса из материалов (NotebookLM)"
+    },
+    "content": {
+      "en": "Based on the uploaded sources (calendar plan, course description, and lecture materials), generate a complete Moodle course structure for the subject [COURSE NAME], semester [X], [N] weeks.\n\nThe structure should include:\n\n1. SECTION 0 — General information\n   - What informational materials should be included (list)\n   - Suggested personalized welcome text (100–150 words)\n\n2. THEMATIC UNITS (7–10 units based on the calendar plan)\n   For each unit, specify:\n   - Unit title (extracted from calendar plan)\n   - Specific learning objectives (2–3 per unit, operationally formulated)\n   - Necessary resources (type: PDF, video, link, Moodle page)\n   - Recommended activities (forum, assignment, quiz) — justify the choice\n   - Formative evaluation criteria (if applicable)\n   - Estimated student working time (hours)\n\n3. FINAL SECTION — Evaluation\n   - Recommended types of summative evaluation (according to course description)\n   - Exam preparation resources\n\nFormat: structured table for each unit, with pedagogical recommendations.",
+      "ro": "Pe baza surselor încărcate (plan calendaristic, fișa disciplinei și suporturile de curs), generează o structură completă de curs Moodle pentru disciplina [DENUMIREA DISCIPLINEI], semestrul [X], [N] săptămâni.\n\nStructura să includă:\n\n1. SECȚIUNEA 0 — Informații generale\n   - Ce materiale informative trebuie incluse (listă)\n   - Sugestie de text de bun venit personalizat (100-150 cuvinte)\n\n2. UNITĂȚI TEMATICE (7-10 unități bazate pe planul calendaristic)\n   Pentru fiecare unitate, specifică:\n   - Titlul unității (extras din plan calendaristic)\n   - Obiective de învățare specifice (2-3 per unitate, formulate operațional)\n   - Resurse necesare (tipul: PDF, video, link, pagină Moodle)\n   - Activități recomandate (forum, sarcină, quiz) — justifică alegerea\n   - Criterii de evaluare formativă (dacă aplicabil)\n   - Estimare timp de lucru student (ore)\n\n3. SECȚIUNEA FINALĂ — Evaluare\n   - Tipuri de evaluare sumativă recomandate (conform fișei disciplinei)\n   - Resurse de pregătire pentru examen\n\nFormatul: tabel structurat pentru fiecare unitate, cu recomandări pedagogice.",
+      "ru": "На основе загруженных источников (календарный план, описание дисциплины и материалы лекций) создайте полную структуру курса Moodle для дисциплины [НАЗВАНИЕ ДИСЦИПЛИНЫ], семестр [X], [N] недель.\n\nСтруктура должна включать:\n\n1. РАЗДЕЛ 0 — Общая информация\n   - Какие информационные материалы следует включить (список)\n   - Предлагаемый персонализированный приветственный текст (100–150 слов)\n\n2. ТЕМАТИЧЕСКИЕ ЕДИНИЦЫ (7–10 единиц на основе календарного плана)\n   Для каждой единицы укажите:\n   - Название единицы (из календарного плана)\n   - Конкретные учебные цели (2–3 на единицу, операционально сформулированные)\n   - Необходимые ресурсы (тип: PDF, видео, ссылка, страница Moodle)\n   - Рекомендуемые активности (форум, задание, тест) — обоснуйте выбор\n   - Критерии формативного оценивания (если применимо)\n   - Оценочное рабочее время студента (часы)\n\n3. ЗАКЛЮЧИТЕЛЬНЫЙ РАЗДЕЛ — Оценивание\n   - Рекомендуемые виды итоговой оценки (согласно описанию курса)\n   - Ресурсы для подготовки к экзамену\n\nФормат: структурированная таблица для каждой единицы с педагогическими рекомендациями."
+    }
+  },
+  {
+    "id": "fis02",
+    "category": "Physical Education",
+    "tags": ["AI", "differentiation", "materials", "adaptation", "levels"],
+    "title": {
+      "en": "Differentiated Materials — Three Levels",
+      "ro": "Materiale Diferențiate — Trei Niveluri",
+      "ru": "Дифференцированные материалы — три уровня"
+    },
+    "content": {
+      "en": "I have a specialized text on the topic [X]. I need 3 versions of it:\n\n1. INTRODUCTORY VERSION (for students without prior background):\n   - Simple language, analogies from everyday life, no assumptions of prior knowledge\n\n2. STANDARD VERSION (for students with average knowledge):\n   - Moderate technical language, assumes knowledge of basic terms\n\n3. ADVANCED VERSION (for students with in-depth interest):\n   - Full terminology, references to specialist literature, nuances and exceptions\n\nOriginal text: [paste text]",
+      "ro": "Am un text de specialitate pe tema [X]. Am nevoie de 3 versiuni ale acestuia:\n\n1. VERSIUNEA INTRODUCTIVĂ (pentru studenți fără background anterior):\n   - Limbaj simplu, analogii din viața cotidiană, fără presupuneri de cunoaștere anterioară\n\n2. VERSIUNEA STANDARD (pentru studenți cu cunoaștere medie):\n   - Limbaj tehnic moderat, presupune cunoașterea termenilor de bază\n\n3. VERSIUNEA AVANSATĂ (pentru studenți cu interes aprofundat):\n   - Terminologie completă, trimiteri la literatura de specialitate, nuanțe și excepții\n\nTextul original: [copiați textul]",
+      "ru": "У меня есть специализированный текст по теме [X]. Мне нужны 3 его версии:\n\n1. ВВОДНАЯ ВЕРСИЯ (для студентов без предварительной подготовки):\n   - Простой язык, аналогии из повседневной жизни, без предположений о предварительных знаниях\n\n2. СТАНДАРТНАЯ ВЕРСИЯ (для студентов со средними знаниями):\n   - Умеренный технический язык, предполагает знание базовых терминов\n\n3. ПРОДВИНУТАЯ ВЕРСИЯ (для студентов с глубоким интересом):\n   - Полная терминология, ссылки на специальную литературу, нюансы и исключения\n\nОригинальный текст: [вставьте текст]"
+    }
+  },
+  {
+    "id": "fis03",
+    "category": "Physical Education",
+    "tags": ["Gemini", "flowchart", "process diagram", "corporate", "horizontal"],
+    "title": {
+      "en": "Horizontal Process Diagram (Gemini)",
+      "ro": "Diagramă de Proces Orizontală (Gemini)",
+      "ru": "Горизонтальная диаграмма процесса (Gemini)"
+    },
+    "content": {
+      "en": "Generate a horizontal flowchart with 5 stages: rectangular boxes connected by arrows. Colors: gradient from light blue to dark blue. Each box has a small icon above it. Style: corporate, minimalist, white background. No text in boxes. Format 16:9.",
+      "ro": "Generează o diagramă de flux orizontală cu 5 etape: cutii dreptunghiulare conectate prin săgeți. Culorile: gradient de la albastru deschis la albastru închis. Fiecare cutie are o pictogramă mică deasupra. Stil: corporate, minimalist, fundal alb. Fără text în cutii. Format 16:9.",
+      "ru": "Создайте горизонтальную блок-схему с 5 этапами: прямоугольные блоки, соединённые стрелками. Цвета: градиент от светло-синего до тёмно-синего. Над каждым блоком небольшая иконка. Стиль: корпоративный, минималистичный, белый фон. Без текста в блоках. Формат 16:9."
+    }
+  }
+]

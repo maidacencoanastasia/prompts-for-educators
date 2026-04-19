@@ -1,0 +1,77 @@
+[
+  {
+    "id": "fec01",
+    "category": "Economic Sciences",
+    "tags": ["Kimi", "PowerPoint", "marketing", "digital", "university"],
+    "title": {
+      "en": "Digital Marketing Presentation (Kimi.ai)",
+      "ro": "Prezentare Marketing Digital (Kimi.ai)",
+      "ru": "Презентация по цифровому маркетингу (Kimi.ai)"
+    },
+    "content": {
+      "en": "Generate a 20-slide presentation for the \"Digital Marketing\" course, university level. Content: SEO, content marketing, social media marketing, email marketing, Google Analytics. Include process diagrams, comparative tables, and a final case study. Design: modern, clean, with icons.",
+      "ro": "Generează o prezentare de 20 slide-uri pentru cursul \"Marketing Digital\", nivel universitar. Conținut: SEO, content marketing, social media marketing, email marketing, Google Analytics. Include diagrame de proces, tabele comparative și studiu de caz final. Design: modern, curat, cu pictograme.",
+      "ru": "Создайте презентацию из 20 слайдов для курса «Цифровой маркетинг», уровень университета. Содержание: SEO, контент-маркетинг, маркетинг в социальных сетях, email-маркетинг, Google Analytics. Включите схемы процессов, сравнительные таблицы и итоговый кейс. Дизайн: современный, чистый, с иконками."
+    }
+  },
+  {
+    "id": "fec02",
+    "category": "Economic Sciences",
+    "tags": ["economics", "case study", "finance", "Moldova", "SME", "university"],
+    "title": {
+      "en": "Economics — Financial Case Study",
+      "ro": "Economie — Studiu de Caz Financiar",
+      "ru": "Экономика — Финансовый кейс"
+    },
+    "content": {
+      "en": "Create a financial management case study for a small/medium enterprise from the Republic of Moldova, sector [agriculture/IT/retail]. Include: simplified balance sheet, profit and loss statement, 3 decision scenarios, financial analysis questions.",
+      "ro": "Creează un studiu de caz de management financiar pentru o întreprindere mică/medie din Republica Moldova, sector [agricultură/IT/retail]. Includeți: bilanț contabil simplificat, situație de profit și pierdere, 3 scenarii de decizie, întrebări de analiză financiară.",
+      "ru": "Создайте кейс по финансовому менеджменту для малого/среднего предприятия Республики Молдова, сектор [сельское хозяйство/IT/розничная торговля]. Включите: упрощённый баланс, отчёт о прибылях и убытках, 3 сценария принятия решений, вопросы финансового анализа."
+    }
+  },
+  {
+    "id": "fec03",
+    "category": "Economic Sciences",
+    "tags": ["AI", "pre-evaluation", "finance", "student assessment", "economics"],
+    "title": {
+      "en": "AI-Assisted Financial Analysis Pre-Evaluation",
+      "ro": "Pre-evaluare Asistată AI — Analiză Financiară",
+      "ru": "Предварительная оценка финансового анализа с ИИ"
+    },
+    "content": {
+      "en": "I am a lecturer on a Financial Analysis course. A student has analyzed the financial statements of company [X] for 2022–2024. Below is the student's work:\n[PASTE THE TEXT OF THE WORK]\n\nEvaluate the work against these criteria:\n1. Correctness of indicator calculation (liquidity, profitability, solvency)\n2. Economic interpretation of results (not just raw numbers)\n3. Identification of relevant trends over the 3 years\n4. Formulation of justified conclusions\n\nFor each criterion: (a) what the student did well, (b) what is missing or incorrect, (c) a suggestion for improvement.\nDo NOT assign grades — provide qualitative observations.",
+      "ro": "Sunt cadru didactic la un curs de Analiză Financiară. Un student a analizat situațiile financiare ale companiei [X] pentru 2022–2024. Mai jos este lucrarea studentului:\n[LIPIȚI TEXTUL LUCRĂRII]\n\nEvaluați lucrarea față de aceste criterii:\n1. Corectitudinea calculului indicatorilor (lichiditate, rentabilitate, solvabilitate)\n2. Interpretarea economică a rezultatelor (nu doar cifre brute)\n3. Identificarea tendințelor relevante pe cei 3 ani\n4. Formularea concluziilor justificate\n\nPentru fiecare criteriu: (a) ce a realizat bine studentul, (b) ce lipsește sau este incorect, (c) o sugestie de îmbunătățire.\nNu acordați note — oferiți observații calitative.",
+      "ru": "Я преподаватель курса финансового анализа. Студент проанализировал финансовую отчётность компании [X] за 2022–2024 годы. Ниже приведена работа студента:\n[ВСТАВЬТЕ ТЕКСТ РАБОТЫ]\n\nОцените работу по следующим критериям:\n1. Правильность расчёта показателей (ликвидность, рентабельность, платёжеспособность)\n2. Экономическая интерпретация результатов (не просто сырые цифры)\n3. Выявление значимых тенденций за 3 года\n4. Формулировка обоснованных выводов\n\nДля каждого критерия: (a) что студент сделал хорошо, (b) что отсутствует или неверно, (c) предложение по улучшению.\nНЕ ставьте оценки — предоставьте качественные наблюдения."
+    }
+  },
+  {
+    "id": "fec04",
+    "category": "Economic Sciences",
+    "tags": ["NotebookLM", "podcast", "finance", "2008 crisis", "panel discussion"],
+    "title": {
+      "en": "Panel Discussion Podcast — Financial Crisis 2008",
+      "ro": "Podcast Panel Discussion — Criza Financiară 2008",
+      "ru": "Подкаст-дискуссия — Финансовый кризис 2008"
+    },
+    "content": {
+      "en": "Based on the uploaded case study about the 2008 financial crisis, generate a \"panel discussion\" podcast where the two presenters debate:\n1. The main causes of the crisis (deregulation, subprime loans, derivatives)\n2. Measures taken by governments and central banks\n3. Lessons learned and relevance for the Moldovan economy\n\nInclude data and statistics from the document. One presenter should adopt a critical perspective on bailout policies, the other should defend them.\nDuration: 12 minutes.",
+      "ro": "Pe baza studiului de caz încărcat despre criza financiară din 2008, generează un podcast de tip \"panel discussion\" unde cei doi prezentatori dezbat:\n1. Cauzele principale ale crizei (deregulare, credite subprime, derivate)\n2. Măsurile luate de guverne și bănci centrale\n3. Lecții învățate și relevanța pentru economia Moldovei\n\nIncludeți date și statistici din document. Unul dintre prezentatori să adopte o perspectivă critică față de politicile de salvare (bailout), celălalt să le apere.\nDurată: 12 minute.",
+      "ru": "На основе загруженного кейса о финансовом кризисе 2008 года создайте подкаст в формате «дискуссионной панели», где два ведущих обсуждают:\n1. Основные причины кризиса (дерегулирование, субстандартные кредиты, деривативы)\n2. Меры, принятые правительствами и центральными банками\n3. Извлечённые уроки и актуальность для экономики Молдовы\n\nВключите данные и статистику из документа. Один ведущий должен занять критическую позицию по отношению к политике bailout, другой — защищать её.\nПродолжительность: 12 минут."
+    }
+  },
+  {
+    "id": "fec05",
+    "category": "Economic Sciences",
+    "tags": ["NotebookLM", "podcast", "marketing", "digital", "multilingual"],
+    "title": {
+      "en": "Multilingual Professional Podcast — Digital Marketing",
+      "ro": "Podcast Profesional Multilingv — Marketing Digital",
+      "ru": "Многоязычный профессиональный подкаст — Цифровой маркетинг"
+    },
+    "content": {
+      "en": "Generate a podcast in Romanian for the Digital Marketing course, but keep key terms in English (SEO, CTR, conversion rate, A/B testing) as used in the industry. After the first mention of each English term, briefly explain it in Romanian.\n\nDiscussion:\n- Fundamentals of SEO (Search Engine Optimization)\n- Content marketing strategies\n- Data analysis with Google Analytics\n\nTone: professional but accessible. Duration: 10 minutes.",
+      "ro": "Generează podcast în limba română pentru cursul de Marketing Digital, dar păstrează termenii-cheie în engleză (SEO, CTR, conversion rate, A/B testing) așa cum sunt folosiți în industrie. După prima mențiune a fiecărui termen în engleză, explică-l pe scurt în română.\n\nDiscuție:\n- Fundamentele SEO (Search Engine Optimization)\n- Strategii de content marketing\n- Analiza datelor cu Google Analytics\n\nTon: profesional, dar accesibil. Durată: 10 minute.",
+      "ru": "Создайте подкаст на румынском языке для курса «Цифровой маркетинг», но сохраните ключевые термины на английском (SEO, CTR, conversion rate, A/B testing) так, как они используются в индустрии. После первого упоминания каждого английского термина кратко объясните его на румынском языке.\n\nОбсуждение:\n- Основы SEO (поисковая оптимизация)\n- Стратегии контент-маркетинга\n- Анализ данных с Google Analytics\n\nТон: профессиональный, но доступный. Продолжительность: 10 минут."
+    }
+  }
+]

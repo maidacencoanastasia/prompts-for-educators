@@ -1,0 +1,17 @@
+[
+  {
+    "id": "fbs01",
+    "category": "Biology & Sciences",
+    "tags": ["medicine", "clinical case", "biomedical", "diagnosis", "university"],
+    "title": {
+      "en": "Biomedical Sciences — Clinical Case",
+      "ro": "Discipline Biomedicale — Caz Clinic",
+      "ru": "Биомедицинские науки — Клинический случай"
+    },
+    "content": {
+      "en": "Create a clinical case for [medical discipline]: patient with age, sex, initial symptoms, relevant medical history, vital signs, lab results. Questions: differential diagnoses, additional investigations needed, therapeutic plan, prognosis.",
+      "ro": "Creează un caz clinic pentru [disciplina medicală]: pacient cu vârstă, sex, simptome inițiale, istoric medical relevant, semne vitale, rezultate analize. Întrebări: diagnostice diferențiale, investigații suplimentare necesare, plan terapeutic, prognostic.",
+      "ru": "Создайте клинический случай для [медицинская дисциплина]: пациент с возрастом, полом, начальными симптомами, соответствующим анамнезом, жизненными показателями, результатами анализов. Вопросы: дифференциальные диагнозы, необходимые дополнительные исследования, план лечения, прогноз."
+    }
+  }
+]

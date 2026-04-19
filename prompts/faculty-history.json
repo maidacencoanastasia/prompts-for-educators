@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fhp01",
+    "category": "History & Philosophy",
+    "tags": ["Claude", "presentation", "slides", "speaker notes", "course design"],
+    "title": {
+      "en": "Presentation Structure and Content (Claude.ai)",
+      "ro": "Structura și Conținutul Prezentării (Claude.ai)",
+      "ru": "Структура и содержание презентации (Claude.ai)"
+    },
+    "content": {
+      "en": "Create a detailed structure for a 90-minute presentation on the topic [Topic], aimed at [profile, year] students.\n\nFor each slide specify:\n- Slide number\n- Title\n- Content (max. 5 bullet points, max. 6 words each)\n- Speaker notes (what the teacher says — 3–4 sentences)\n- Recommended visual type (diagram, table, image, chart)\n- Estimated duration per slide\n\nInclude slides for: title, objectives, content, interactive breaks, summary, quick quiz, next assignment.",
+      "ro": "Creează structura detaliată pentru o prezentare de 90 de minute pe tema [Tema], destinată studenților [profil, an].\n\nPentru fiecare slide specifică:\n- Numărul slide-ului\n- Titlul\n- Conținut (max. 5 bullet-points, max. 6 cuvinte fiecare)\n- Notele de speaker (ce spune cadrul didactic — 3-4 propoziții)\n- Tipul vizualului recomandat (diagramă, tabel, imagine, grafic)\n- Durata estimată per slide\n\nInclude slide-uri de: titlu, obiective, conținut, pauze interactive, sinteză, quiz rapid, sarcină următoare.",
+      "ru": "Создайте подробную структуру для 90-минутной презентации по теме [Тема], предназначенной для студентов [профиль, курс].\n\nДля каждого слайда укажите:\n- Номер слайда\n- Заголовок\n- Содержание (макс. 5 пунктов, макс. 6 слов каждый)\n- Заметки для спикера (что говорит преподаватель — 3–4 предложения)\n- Рекомендуемый тип визуала (схема, таблица, изображение, диаграмма)\n- Ориентировочная продолжительность слайда\n\nВключите слайды: заглавный, цели, содержание, интерактивные паузы, резюме, быстрый тест, следующее задание."
+    }
+  },
+  {
+    "id": "fhp02",
+    "category": "History & Philosophy",
+    "tags": ["AI", "summarization", "text", "students", "reading"],
+    "title": {
+      "en": "Text Summary for Students",
+      "ro": "Rezumatul Textului pentru Studenți",
+      "ru": "Краткое изложение текста для студентов"
+    },
+    "content": {
+      "en": "Summarize the following text [paste text] in a format accessible to undergraduate students in [field], without losing essential concepts. Structure the summary with: main definition, key concepts (max. 5), concrete examples, practical applications. Maximum 400 words.",
+      "ro": "Rezumă textul următor [copiați textul] într-un format accesibil studenților de licență din [domeniu], fără a pierde conceptele esențiale. Structurează rezumatul cu: definiție principală, concepte-cheie (max. 5), exemple concrete, aplicații practice. Maximum 400 cuvinte.",
+      "ru": "Изложите следующий текст [вставьте текст] в формате, доступном для студентов бакалавриата по [область], не теряя ключевые концепции. Структурируйте резюме: главное определение, ключевые понятия (макс. 5), конкретные примеры, практические применения. Максимум 400 слов."
+    }
+  },
+  {
+    "id": "fhp03",
+    "category": "History & Philosophy",
+    "tags": ["Gemini", "mind map", "comparative", "visualization"],
+    "title": {
+      "en": "Comparative Mind Map (Gemini)",
+      "ro": "Mind Map Comparativ (Gemini)",
+      "ru": "Сравнительная ментальная карта (Gemini)"
+    },
+    "content": {
+      "en": "Generate a comparative mind map: place [Main Topic] in the center, with two main branches — [Perspective A] and [Perspective B] — each with arguments, examples, and limitations extracted from sources.",
+      "ro": "Generează un mind map comparativ: în centru pune [Tema principală], cu două ramuri principale — [Perspectiva A] și [Perspectiva B] — fiecare cu argumente, exemple și limitări extrase din surse.",
+      "ru": "Создайте сравнительную ментальную карту: в центре [Главная тема], с двумя основными ветвями — [Перспектива A] и [Перспектива B] — каждая с аргументами, примерами и ограничениями, извлечёнными из источников."
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fph01",
+    "category": "Philology",
+    "tags": ["AI", "writing", "essay", "linguistics", "pre-evaluation", "foreign language"],
+    "title": {
+      "en": "Linguistic Analysis of Student Essay",
+      "ro": "Analiza Lingvistică a Eseului Studentului",
+      "ru": "Лингвистический анализ эссе студента"
+    },
+    "content": {
+      "en": "Analyze the following essay written by a student with a B2 level of English.\nIdentify and categorize:\n- Recurring grammatical errors (with exact examples from the text)\n- Cohesion and transition issues\n- Vocabulary inappropriate for academic register\n- Argumentative structure (thesis, arguments, conclusion)\nDo NOT correct the text — list the problems with exact quotes from the essay.\n[STUDENT ESSAY TEXT]",
+      "ro": "Analizează eseul următor scris de un student cu nivel B2 de engleză.\nIdentifică și categorisează:\n- Greșeli gramaticale recurente (cu exemple exacte din text)\n- Probleme de coeziune și tranziții\n- Vocabular inadecvat registrului academic\n- Structura argumentativă (teză, argumente, concluzie)\nNu corecta textul — listează problemele cu citări exacte din eseu.\n[TEXT ESEU STUDENT]",
+      "ru": "Проанализируйте следующее эссе, написанное студентом с уровнем английского B2.\nОпределите и классифицируйте:\n- Повторяющиеся грамматические ошибки (с точными примерами из текста)\n- Проблемы с связностью и переходами\n- Словарь, неподходящий для академического регистра\n- Аргументативная структура (тезис, аргументы, заключение)\nНЕ исправляйте текст — перечислите проблемы с точными цитатами из эссе.\n[ТЕКСТ ЭССЕ СТУДЕНТА]"
+    }
+  },
+  {
+    "id": "fph02",
+    "category": "Philology",
+    "tags": ["literature", "analysis", "foreign language", "university", "questions"],
+    "title": {
+      "en": "Literary Analysis Questions — Foreign Language",
+      "ro": "Întrebări de Analiză Literară — Limbi Străine",
+      "ru": "Вопросы литературного анализа — Иностранные языки"
+    },
+    "content": {
+      "en": "Generate 5 literary analysis questions for the text [title of work], university level. Questions should address: themes, symbols, narrative structure, historical context, personal interpretation. Each question should allow diverse, reasoned answers.",
+      "ro": "Generează 5 întrebări de analiză literară pentru textul [titlu operă], nivel universitar. Întrebările să vizeze: teme, simboluri, structură narativă, context istoric, interpretare personală. Fiecare întrebare să permită răspunsuri diverse, argumentate.",
+      "ru": "Создайте 5 вопросов для литературного анализа текста [название произведения], уровень университета. Вопросы должны касаться: тем, символов, нарративной структуры, исторического контекста, личной интерпретации. Каждый вопрос должен допускать разнообразные аргументированные ответы."
+    }
+  },
+  {
+    "id": "fph03",
+    "category": "Philology",
+    "tags": ["NotebookLM", "podcast", "literature", "analysis", "humanities"],
+    "title": {
+      "en": "Literary Analysis Podcast (NotebookLM)",
+      "ro": "Podcast de Analiză Literară (NotebookLM)",
+      "ru": "Подкаст литературного анализа (NotebookLM)"
+    },
+    "content": {
+      "en": "Generate a podcast about the novel [Title] by [Author], for students at the Faculty of Literature. The discussion should include:\n- Historical and biographical context of the author\n- Main theme and secondary themes\n- Symbolism and recurring motifs\n- Narrative techniques (perspective, structure)\n- Importance of the work in the context of Romanian/world literature\n\nThe tone should be academic but engaging — inspire students to read the work, not just study it mechanically. Include relevant quotes from the text.\nDuration: 10–12 minutes.",
+      "ro": "Generează un podcast despre romanul [Titlu] de [Autor], pentru studenți la Facultatea de Litere. Discuția să includă:\n- Context istoric și biografic al autorului\n- Tema principală și temele secundare\n- Simbolismul și motivele recurente\n- Tehnici narative (perspectivă, structură)\n- Importanța operei în contextul literaturii române/universale\n\nTonul să fie academic, dar captivant — inspirați studenții să citească opera, nu doar să o studieze mecanic. Includeți citate relevante din text.\nDurată: 10-12 minute.",
+      "ru": "Создайте подкаст о романе [Название] [Автора] для студентов факультета литературы. Обсуждение должно включать:\n- Исторический и биографический контекст автора\n- Главная тема и второстепенные темы\n- Символика и повторяющиеся мотивы\n- Нарративные техники (перспектива, структура)\n- Значимость произведения в контексте румынской/мировой литературы\n\nТон должен быть академическим, но увлекательным — вдохновите студентов читать произведение, а не просто механически его изучать. Включите соответствующие цитаты из текста.\nПродолжительность: 10–12 минут."
+    }
+  }
+]

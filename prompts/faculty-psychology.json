@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fps01",
+    "category": "Psychology & Pedagogy",
+    "tags": ["psychology", "education", "clinical case", "special needs", "university"],
+    "title": {
+      "en": "Psychology — Clinical Case Study",
+      "ro": "Psihologie — Studiu de Caz Clinic",
+      "ru": "Психология — Клинический кейс"
+    },
+    "content": {
+      "en": "Create a case study in educational psychology: student with [specific difficulty], context [primary/secondary school], behavioral observations, interview data. Questions: differential diagnosis, intervention plan, parental involvement, progress evaluation.",
+      "ro": "Creează un studiu de caz în psihologia educațională: elev cu [dificultate specifică], context [școală primară/secundară], observații comportamentale, date din interviuri. Întrebări: diagnostic diferențial, plan de intervenție, implicarea părinților, evaluarea progresului.",
+      "ru": "Создайте кейс по педагогической психологии: ученик с [конкретная трудность], контекст [начальная/средняя школа], поведенческие наблюдения, данные интервью. Вопросы: дифференциальная диагностика, план вмешательства, участие родителей, оценка прогресса."
+    }
+  },
+  {
+    "id": "fps02",
+    "category": "Psychology & Pedagogy",
+    "tags": ["AI", "rubric", "evaluation", "special needs", "psychopedagogy"],
+    "title": {
+      "en": "Customized Evaluation Rubric — Special Education",
+      "ro": "Rubrică de Evaluare Personalizată — Educație Specială",
+      "ru": "Персонализированная оценочная рубрика — Специальное образование"
+    },
+    "content": {
+      "en": "I am a university professor of psychopedagogy. A student is developing an educational intervention plan for a 4th-grade student with severe dyslexia and comorbid ADHD.\n\nGenerate an evaluation rubric with 5 relevant criteria for this specific type of plan, with 4 quality levels (Excellent, Good, Sufficient, Insufficient) and corresponding descriptors.\n\nMandatory criteria to include:\n- Analysis of the student's individual needs\n- SMART objectives\n- Personalized adaptation strategies\n- Progress monitoring methodology\n- Theoretical and legislative references used",
+      "ro": "Sunt profesor universitar de psihopedagogie. Un student elaborează un plan de intervenție educațională pentru un elev de clasa a IV-a cu dislexie severă și ADHD comorbid.\n\nGenerează o rubrică de evaluare cu 5 criterii relevante pentru acest tip specific de plan, cu 4 nivele de calitate (Excelent, Bun, Suficient, Insuficient) și descriptorii corespunzători.\n\nCriterii obligatorii de inclus:\n- Analiza nevoilor individuale ale elevului\n- Obiectivele SMART\n- Strategiile de adaptare personalizate\n- Metodologia de monitorizare a progresului\n- Referințele teoretice și legislative utilizate",
+      "ru": "Я университетский преподаватель психопедагогики. Студент разрабатывает план образовательного вмешательства для ученика 4-го класса с тяжёлой дислексией и сопутствующим СДВГ.\n\nСоздайте оценочную рубрику с 5 критериями, актуальными для этого конкретного типа плана, с 4 уровнями качества (Отлично, Хорошо, Достаточно, Недостаточно) и соответствующими дескрипторами.\n\nОбязательные критерии:\n- Анализ индивидуальных потребностей ученика\n- Цели SMART\n- Персонализированные стратегии адаптации\n- Методология мониторинга прогресса\n- Используемые теоретические и законодательные ссылки"
+    }
+  },
+  {
+    "id": "fps03",
+    "category": "Psychology & Pedagogy",
+    "tags": ["NotebookLM", "podcast", "psychology", "memory", "conversational", "year 1"],
+    "title": {
+      "en": "Conversational Podcast — Memory for Year 1 Students",
+      "ro": "Podcast Conversațional — Memoria pentru Studenții Anului 1",
+      "ru": "Разговорный подкаст — Память для студентов 1-го курса"
+    },
+    "content": {
+      "en": "Create a podcast for first-year students without a psychology background. Use a friendly and conversational tone, with many analogies from everyday life. Focus on:\n- What working memory is and how it works\n- Why we forget information\n- Practical techniques for improving memory for students\n\nAvoid excessive technical jargon. Where you use specialized terms (e.g. \"chunking\", \"rehearsal\"), explain them immediately in simple terms.\nDuration: 8–10 minutes.",
+      "ro": "Creează un podcast pentru studenți anul 1, fără background în psihologie. Folosește un ton prietenos și conversațional, cu multe analogii din viața de zi cu zi. Concentrează-te pe:\n- Ce este memoria de lucru și cum funcționează\n- De ce uităm informații\n- Tehnici practice de îmbunătățire a memoriei pentru studenți\n\nEvită jargonul tehnic excesiv. Unde folosești termeni de specialitate (ex. \"chunking\", \"rehearsal\"), explică-i imediat în termeni simpli.\nDurată: 8-10 minute.",
+      "ru": "Создайте подкаст для студентов 1-го курса без психологического образования. Используйте дружелюбный и разговорный тон с множеством аналогий из повседневной жизни. Сосредоточьтесь на:\n- Что такое рабочая память и как она работает\n- Почему мы забываем информацию\n- Практические техники улучшения памяти для студентов\n\nИзбегайте чрезмерного технического жаргона. Когда используете специальные термины (напр. «chunking», «rehearsal»), сразу объясняйте их простыми словами.\nПродолжительность: 8–10 минут."
+    }
+  }
+]

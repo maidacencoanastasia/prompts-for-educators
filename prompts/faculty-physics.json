@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fpe01",
+    "category": "Physics & Engineering",
+    "tags": ["learning objectives", "Bloom's taxonomy", "course design", "AI"],
+    "title": {
+      "en": "Learning Objectives Generation",
+      "ro": "Generarea Obiectivelor de Învățare",
+      "ru": "Генерация учебных целей"
+    },
+    "content": {
+      "en": "Generate 6 learning objectives for the unit [UNIT TITLE] from a course on [DISCIPLINE], addressed to students from [FACULTY PROFILE], year [X].\n\nDistribute the objectives across Bloom's taxonomy levels (revised):\n- 2 objectives at knowledge/comprehension level\n- 2 objectives at application/analysis level\n- 2 objectives at evaluation/creation level\n\nFormulate each objective as:\n\"At the end of this unit, the student will be able to [ACTION VERB] + [OBJECT] + [CONDITION/CRITERION]\"",
+      "ro": "Generează 6 obiective de învățare pentru unitatea [TITLUL UNITĂȚII] dintr-un curs de [DISCIPLINA], adresat studenților din [PROFILUL FACULT.], anul [X].\n\nDistribuie obiectivele pe nivelele taxonomiei Bloom (revizuită):\n- 2 obiective la nivel de cunoaștere/înțelegere\n- 2 obiective la nivel de aplicare/analiză\n- 2 obiective la nivel de evaluare/creare\n\nFormulează fiecare obiectiv ca:\n\"La finalul acestei unități, studentul va fi capabil să [VERB DE ACȚIUNE] + [OBIECT] + [CONDIȚIE/CRITERIU]\"",
+      "ru": "Сгенерируйте 6 учебных целей для раздела [НАЗВАНИЕ РАЗДЕЛА] курса по [ДИСЦИПЛИНА], адресованного студентам [ПРОФИЛЬ ФАКУЛЬТЕТА], [X]-го года.\n\nРаспределите цели по уровням таксономии Блума (пересмотренной):\n- 2 цели на уровне знания/понимания\n- 2 цели на уровне применения/анализа\n- 2 цели на уровне оценки/создания\n\nСформулируйте каждую цель как:\n«По окончании этого раздела студент будет способен [ГЛАГОЛ ДЕЙСТВИЯ] + [ОБЪЕКТ] + [УСЛОВИЕ/КРИТЕРИЙ]»"
+    }
+  },
+  {
+    "id": "fpe02",
+    "category": "Physics & Engineering",
+    "tags": ["NotebookLM", "process", "decision points", "pseudocode"],
+    "title": {
+      "en": "Process with Decision Points (NotebookLM)",
+      "ro": "Proces cu Puncte de Decizie (NotebookLM)",
+      "ru": "Процесс с точками принятия решений (NotebookLM)"
+    },
+    "content": {
+      "en": "Create a step-by-step process for [topic] based on uploaded sources. Include: start conditions, sequential steps, decision points (if/then), final results. Format as pseudocode with indentation.",
+      "ro": "Creează un proces pas-cu-pas pentru [tema] bazat pe sursele încărcate. Include: condiții de start, etape secvențiale, puncte de decizie (if/then), rezultate finale. Formatează ca pseudocod cu indentare.",
+      "ru": "Создайте пошаговый процесс для [темы] на основе загруженных источников. Включите: начальные условия, последовательные шаги, точки принятия решений (если/то), конечные результаты. Оформите как псевдокод с отступами."
+    }
+  },
+  {
+    "id": "fpe03",
+    "category": "Physics & Engineering",
+    "tags": ["AI", "mind map", "course content", "concepts", "visualization"],
+    "title": {
+      "en": "Mind Map from Course Content",
+      "ro": "Mind Map din Conținutul Cursului",
+      "ru": "Ментальная карта из содержания курса"
+    },
+    "content": {
+      "en": "Generate a mind map showing the relationships between ALL key concepts from the uploaded sources. Organize them hierarchically: fundamental concepts → derived concepts → practical applications. Highlight cross-connections.",
+      "ro": "Generează un mind map care arată relațiile dintre TOATE conceptele-cheie din sursele încărcate. Organizează-le ierarhic: concepte fundamentale → concepte derivate → aplicații practice. Evidențiază conexiunile transversale.",
+      "ru": "Создайте ментальную карту, показывающую связи между ВСЕМИ ключевыми концепциями из загруженных источников. Организуйте их иерархически: фундаментальные концепции → производные концепции → практические применения. Выделите поперечные связи."
+    }
+  }
+]

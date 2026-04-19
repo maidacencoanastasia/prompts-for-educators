@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fmi01",
+    "category": "Mathematics & Informatics",
+    "tags": ["mathematics", "programming", "problem sets", "exercises", "university"],
+    "title": {
+      "en": "Exact Sciences — Problem Sets Generation",
+      "ro": "Discipline Exacte — Generarea Seturilor de Probleme",
+      "ru": "Точные науки — Генерация наборов задач"
+    },
+    "content": {
+      "en": "Generate 10 problems of [differential calculus/linear algebra/Python programming] with increasing difficulty. For the first 3, provide the step-by-step solution. For the next 4, provide only hints. For the last 3, provide only the problem statement.",
+      "ro": "Generează 10 probleme de [calcul diferențial/algebră liniară/programare Python] cu dificultate crescândă. Pentru primele 3, furnizează soluția pas-cu-pas. Pentru următoarele 4, furnizează doar hint-uri. Pentru ultimele 3, doar enunț.",
+      "ru": "Создайте 10 задач по [дифференциальному исчислению/линейной алгебре/программированию на Python] с нарастающей сложностью. Для первых 3 предоставьте пошаговое решение. Для следующих 4 — только подсказки. Для последних 3 — только условие."
+    }
+  },
+  {
+    "id": "fmi02",
+    "category": "Mathematics & Informatics",
+    "tags": ["NotebookLM", "podcast", "mathematics", "exam preparation", "calculus"],
+    "title": {
+      "en": "Exam Preparation Podcast — Differential Calculus",
+      "ro": "Podcast de Pregătire pentru Examen — Calcul Diferențial",
+      "ru": "Подкаст подготовки к экзамену — Дифференциальное исчисление"
+    },
+    "content": {
+      "en": "Create a review podcast for the Differential Calculus exam. Focus on:\n1. Definition and geometric interpretation of the derivative\n2. Differentiation rules (sum, product, chain rule, quotient)\n3. Practical applications: rates of change, optimization, linear approximation\n4. Common student mistakes\n\nInclude 2–3 examples of step-by-step solved problems, read aloud. The tone should be clear and methodical, like a private tutor.\nDuration: 10 minutes.",
+      "ro": "Creează un podcast de recapitulare pentru examenul de Calcul Diferențial. Concentrează-te pe:\n1. Definiția și interpretarea geometrică a derivatei\n2. Reguli de derivare (sumă, produs, compunere, cât)\n3. Aplicații practice: rate de schimbare, optimizare, aproximare liniară\n4. Greșeli frecvente ale studenților\n\nIncludeți 2-3 exemple de probleme rezolvate pas-cu-pas, citite cu voce tare. Tonul să fie clar și metodic, ca un tutor particular.\nDurată: 10 minute.",
+      "ru": "Создайте обзорный подкаст для экзамена по дифференциальному исчислению. Сосредоточьтесь на:\n1. Определении и геометрической интерпретации производной\n2. Правилах дифференцирования (сумма, произведение, цепное правило, частное)\n3. Практических применениях: скорости изменения, оптимизация, линейное приближение\n4. Типичных ошибках студентов\n\nВключите 2–3 примера задач, решённых пошагово, зачитанных вслух. Тон должен быть чётким и методичным, как у частного репетитора.\nПродолжительность: 10 минут."
+    }
+  }
+]

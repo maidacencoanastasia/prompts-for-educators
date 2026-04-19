@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fjc01",
+    "category": "Journalism",
+    "tags": ["Claude", "slides", "speaker notes", "presentation", "visual"],
+    "title": {
+      "en": "Detailed Slide Content with Speaker Notes (Claude.ai)",
+      "ro": "Conținut Detaliat al Slide-ului cu Note de Vorbitor (Claude.ai)",
+      "ru": "Детальное содержание слайда с заметками спикера (Claude.ai)"
+    },
+    "content": {
+      "en": "For slide [N] with the title [X], generate:\n1. Concise text for the slide (max. 30 words)\n2. Detailed speaker notes (200 words)\n3. A transition question to the next slide\n4. Exact description of the recommended visual (for generation with Gemini)",
+      "ro": "Pentru slide-ul [N] cu titlul [X], generează:\n1. Textul concis pentru slide (max. 30 cuvinte)\n2. Speaker notes detaliate (200 cuvinte)\n3. O întrebare de tranziție către slide-ul următor\n4. Descrierea exactă a vizualului recomandat (pentru generare cu Gemini)",
+      "ru": "Для слайда [N] с заголовком [X] создайте:\n1. Краткий текст для слайда (макс. 30 слов)\n2. Подробные заметки для спикера (200 слов)\n3. Переходный вопрос к следующему слайду\n4. Точное описание рекомендуемого визуала (для генерации в Gemini)"
+    }
+  },
+  {
+    "id": "fjc02",
+    "category": "Journalism",
+    "tags": ["Gemini", "image generation", "presentation", "educational visuals"],
+    "title": {
+      "en": "Image Generation Prompts for Slides (Gemini)",
+      "ro": "Prompturi pentru Generarea Imaginilor la Slide-uri (Gemini)",
+      "ru": "Промпты для генерации изображений к слайдам (Gemini)"
+    },
+    "content": {
+      "en": "For each slide in the presentation that needs an image, generate an optimized prompt for Google Gemini (Imagen) that will produce the appropriate image. Style: educational, professional, pastel colors, minimal text.",
+      "ro": "Pentru fiecare slide din prezentare care necesită o imagine, generează un prompt optimizat pentru Google Gemini (Imagen) care va genera imaginea potrivită. Stilul: educațional, profesional, culori pastel, text minim.",
+      "ru": "Для каждого слайда презентации, которому нужно изображение, создайте оптимизированный промпт для Google Gemini (Imagen), который создаст подходящее изображение. Стиль: образовательный, профессиональный, пастельные цвета, минимум текста."
+    }
+  },
+  {
+    "id": "fjc03",
+    "category": "Journalism",
+    "tags": ["Gemini", "infographic", "table", "visualization", "conversion"],
+    "title": {
+      "en": "Table to Infographic Conversion (Gemini)",
+      "ro": "Conversie Tabel în Infografic (Gemini)",
+      "ru": "Конвертация таблицы в инфографику (Gemini)"
+    },
+    "content": {
+      "en": "Transform the following comparative table into a visual infographic with two columns.\n[PASTE TABLE]",
+      "ro": "Transformă următorul tabel comparativ într-o infografie vizuală cu două coloane.\n[LIPIȚI TABEL]",
+      "ru": "Преобразуйте следующую сравнительную таблицу в визуальную инфографику с двумя столбцами.\n[ВСТАВЬТЕ ТАБЛИЦУ]"
+    }
+  }
+]

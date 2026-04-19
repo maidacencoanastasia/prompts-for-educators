@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fir01",
+    "category": "International Relations",
+    "tags": ["NotebookLM", "unit content", "forum", "quiz", "case study", "Moodle"],
+    "title": {
+      "en": "In-Depth Unit Content Generation (NotebookLM)",
+      "ro": "Generarea Conținutului Aprofundat al Unității (NotebookLM)",
+      "ru": "Углублённая генерация содержания раздела (NotebookLM)"
+    },
+    "content": {
+      "en": "For UNIT [X] — [Unit Title], generate:\n\n1. Introduction text for students (150–200 words):\n   - Why is this topic important?\n   - How does it connect to previous units?\n   - What will they be able to do after completing it?\n\n2. Forum discussion questions (3–5 questions):\n   - Cognitive level: application and analysis (not just recall)\n   - Connected to student context\n\n3. Case study or applied problem:\n   - Realistic, specific to the context of [field/country]\n   - Medium difficulty\n   - 300–500 words + 3 analysis questions\n\n4. Quiz questions (10 questions):\n   - 5 multiple choice\n   - 3 true/false\n   - 2 fill-in (if key terms exist)\n   - With feedback for each incorrect answer",
+      "ro": "Pentru UNITATEA [X] — [Titlul unității], generează:\n\n1. Text de introducere pentru studenți (150-200 cuvinte):\n   - De ce este importantă această temă?\n   - Cum se leagă de unitățile anterioare?\n   - Ce vor putea să facă după parcurgerea ei?\n\n2. Întrebări pentru Forum de discuție (3-5 întrebări):\n   - Nivel cognitiv: aplicare și analiză (nu doar reamintire)\n   - Conectate la contextul studenților\n\n3. Studiu de caz sau problemă aplicativă:\n   - Realist, specific contextului [domeniului/țării]\n   - Dificultate medie\n   - 300-500 cuvinte + 3 întrebări de analiză\n\n4. Întrebări quiz (10 întrebări):\n   - 5 alegere multiplă\n   - 3 adevărat/fals\n   - 2 completare (dacă există termeni-cheie)\n   - Cu feedback pentru fiecare răspuns greșit",
+      "ru": "Для РАЗДЕЛА [X] — [Название раздела] создайте:\n\n1. Вводный текст для студентов (150–200 слов):\n   - Почему эта тема важна?\n   - Как она связана с предыдущими разделами?\n   - Что они смогут делать после её изучения?\n\n2. Вопросы для форума (3–5 вопросов):\n   - Когнитивный уровень: применение и анализ (не просто запоминание)\n   - Связанные с контекстом студентов\n\n3. Кейс или прикладная задача:\n   - Реалистичный, специфичный для контекста [области/страны]\n   - Средняя сложность\n   - 300–500 слов + 3 вопроса для анализа\n\n4. Вопросы викторины (10 вопросов):\n   - 5 с множественным выбором\n   - 3 верно/неверно\n   - 2 заполнить пропуск (если есть ключевые термины)\n   - С обратной связью для каждого неверного ответа"
+    }
+  },
+  {
+    "id": "fir02",
+    "category": "International Relations",
+    "tags": ["AI", "case study", "didactics", "university", "problem-based learning"],
+    "title": {
+      "en": "Case Study Generation for Teaching",
+      "ro": "Generarea Studiului de Caz pentru Predare",
+      "ru": "Генерация учебного кейса"
+    },
+    "content": {
+      "en": "Create a fictional but realistic case study from the field of [X], on the topic [Y], for didactic use at the university level. The case study must:\n- Have a clear and well-defined problem situation\n- Contain sufficient information for analysis, but leave room for interpretation\n- Include 3–5 discussion questions at different cognitive levels\n- Be 300–500 words",
+      "ro": "Creează un studiu de caz fictiv, dar realist, din domeniul [X], pe tema [Y], pentru utilizare didactică la nivel universitar. Studiul de caz trebuie să:\n- Aibă o situație problemă clară și bine definită\n- Conțină informații suficiente pentru analiză, dar să lase loc interpretării\n- Includă 3–5 întrebări de discuție la diferite niveluri cognitive\n- Fie de 300–500 cuvinte",
+      "ru": "Создайте вымышленный, но реалистичный кейс из области [X] по теме [Y] для дидактического использования на университетском уровне. Кейс должен:\n- Содержать чёткую и хорошо определённую проблемную ситуацию\n- Содержать достаточно информации для анализа, но оставлять место для интерпретации\n- Включать 3–5 дискуссионных вопросов на разных когнитивных уровнях\n- Быть объёмом 300–500 слов"
+    }
+  },
+  {
+    "id": "fir03",
+    "category": "International Relations",
+    "tags": ["AI", "quiz", "multiple choice", "Moodle", "question bank", "Bloom"],
+    "title": {
+      "en": "Multiple Choice Questions Generation (Moodle/Aiken)",
+      "ro": "Generarea Întrebărilor cu Alegere Multiplă (Moodle/Aiken)",
+      "ru": "Генерация вопросов с множественным выбором (Moodle/Aiken)"
+    },
+    "content": {
+      "en": "Generate 10 multiple-choice questions on the topic [SPECIFIC SUBJECT] for a university course on [DISCIPLINE], undergraduate level.\n\nEach question must have:\n- A clear and specific statement (not vague)\n- 4 answer choices (A, B, C, D), of which exactly one is correct\n- Plausible distractors (not obviously wrong)\n- Indication of the correct answer: ANSWER: [letter]\n- Short feedback for the correct answer (1–2 sentences)\n\nDistribute the questions as follows:\n- 4 at Knowledge/Comprehension level\n- 4 at Application level\n- 2 at Analysis level\n\nOutput format: Aiken Format (compatible with Moodle import)",
+      "ro": "Generați 10 întrebări de alegere multiplă pe tema [SUBIECTUL SPECIFIC] pentru un curs universitar de [DISCIPLINA], nivel licență.\n\nFiecare întrebare trebuie să aibă:\n- Un enunț clar și specific (nu vag)\n- 4 variante de răspuns (A, B, C, D), dintre care exact una este corectă\n- Distractori plauzibili (nu evident greșiți)\n- Indicarea răspunsului corect: ANSWER: [litera]\n- Feedback scurt pentru răspunsul corect (1-2 propoziții)\n\nDistribuiți întrebările astfel:\n- 4 la nivel de Cunoaștere/Înțelegere\n- 4 la nivel de Aplicare\n- 2 la nivel de Analiză\n\nFormat de output: Format Aiken (compatibil cu importul Moodle)",
+      "ru": "Создайте 10 вопросов с множественным выбором по теме [КОНКРЕТНАЯ ТЕМА] для университетского курса по [ДИСЦИПЛИНА], уровень бакалавриата.\n\nКаждый вопрос должен иметь:\n- Чёткое и конкретное условие (не расплывчатое)\n- 4 варианта ответа (A, B, C, D), из которых ровно один верный\n- Правдоподобные дистракторы (не очевидно неверные)\n- Указание верного ответа: ANSWER: [буква]\n- Краткая обратная связь для верного ответа (1–2 предложения)\n\nРаспределите вопросы следующим образом:\n- 4 на уровне Знания/Понимания\n- 4 на уровне Применения\n- 2 на уровне Анализа\n\nФормат вывода: формат Aiken (совместимый с импортом в Moodle)"
+    }
+  }
+]
