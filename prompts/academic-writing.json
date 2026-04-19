@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "id":  "u03",
         "category":  "Academic Writing",
@@ -11,12 +11,12 @@
         "title":  {
                       "en":  "Academic Essay Planner",
                       "ro":  "Planificator pentru eseu academic",
-                      "ru":  "ÐŸÐ»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ñ‰Ð¸Ðº Ð°ÐºÐ°Ð´ÐµÐ¼Ð¸Ñ‡ÐµÑÐºÐ¾Ð³Ð¾ ÑÑÑÐµ"
+                      "ru":  "Планировщик академического эссе"
                   },
         "content":  {
                         "en":  "Build a full writing plan for an academic essay on [topic], length [word count], for [course].\n\nProvide:\n- Refined thesis statement\n- Proposed outline (introduction, 3-5 body sections, conclusion)\n- Main argument and counterargument for each section\n- Suggested evidence types (study, theory, data, case)\n- Citation reminders for [citation style]\n- Common pitfalls to avoid\n\nKeep the plan formal, evidence-oriented, and ready for drafting.",
-                        "ro":  "ConstruieÈ™te un plan complet de redactare pentru un eseu academic despre [tema], lungime [numÄƒr de cuvinte], la disciplina [disciplina].\n\nInclude:\n- TezÄƒ reformulatÄƒ clar\n- StructurÄƒ propusÄƒ (introducere, 3-5 secÈ›iuni, concluzie)\n- Argument principal È™i contraargument pentru fiecare secÈ›iune\n- Tipuri de dovezi recomandate (studiu, teorie, date, caz)\n- Memento-uri de citare pentru stilul [stil citare]\n- GreÈ™eli frecvente de evitat\n\nPÄƒstreazÄƒ formatul academic, orientat pe dovezi, gata pentru redactare.",
-                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð¿Ð¾Ð»Ð½Ñ‹Ð¹ Ð¿Ð»Ð°Ð½ Ð½Ð°Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ Ð°ÐºÐ°Ð´ÐµÐ¼Ð¸Ñ‡ÐµÑÐºÐ¾Ð³Ð¾ ÑÑÑÐµ Ð¿Ð¾ Ñ‚ÐµÐ¼Ðµ [Ñ‚ÐµÐ¼Ð°], Ð¾Ð±ÑŠÐµÐ¼ [ÐºÐ¾Ð»-Ð²Ð¾ ÑÐ»Ð¾Ð²], Ð´Ð»Ñ ÐºÑƒÑ€ÑÐ° [ÐºÑƒÑ€Ñ].\n\nÐ’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ðµ:\n- Ð£Ñ‚Ð¾Ñ‡Ð½Ñ‘Ð½Ð½Ñ‹Ð¹ Ñ‚ÐµÐ·Ð¸Ñ\n- ÐŸÑ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð½ÑƒÑŽ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ñƒ (Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ, 3-5 Ñ€Ð°Ð·Ð´ÐµÐ»Ð¾Ð², Ð·Ð°ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ)\n- ÐžÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ Ð¸ ÐºÐ¾Ð½Ñ‚Ñ€Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ Ð´Ð»Ñ ÐºÐ°Ð¶Ð´Ð¾Ð³Ð¾ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°\n- Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼Ñ‹Ðµ Ñ‚Ð¸Ð¿Ñ‹ Ð´Ð¾ÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÑŒÑÑ‚Ð² (Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ, Ñ‚ÐµÐ¾Ñ€Ð¸Ñ, Ð´Ð°Ð½Ð½Ñ‹Ðµ, ÐºÐµÐ¹Ñ)\n- ÐÐ°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ñ Ð¿Ð¾ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸ÑŽ ÑÑÑ‹Ð»Ð¾Ðº Ð² ÑÑ‚Ð¸Ð»Ðµ [ÑÑ‚Ð¸Ð»ÑŒ]\n- Ð¢Ð¸Ð¿Ð¸Ñ‡Ð½Ñ‹Ðµ Ð¾ÑˆÐ¸Ð±ÐºÐ¸, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ñ… ÑÐ»ÐµÐ´ÑƒÐµÑ‚ Ð¸Ð·Ð±ÐµÐ³Ð°Ñ‚ÑŒ\n\nÐ¡Ð´ÐµÐ»Ð°Ð¹Ñ‚Ðµ Ð¿Ð»Ð°Ð½ Ð°ÐºÐ°Ð´ÐµÐ¼Ð¸Ñ‡Ð½Ñ‹Ð¼, Ð´Ð¾ÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼ Ð¸ Ð³Ð¾Ñ‚Ð¾Ð²Ñ‹Ð¼ Ðº Ð½Ð°Ð¿Ð¸ÑÐ°Ð½Ð¸ÑŽ Ñ‡ÐµÑ€Ð½Ð¾Ð²Ð¸ÐºÐ°."
+                        "ro":  "Construiește un plan complet de redactare pentru un eseu academic despre [tema], lungime [număr de cuvinte], la disciplina [disciplina].\n\nInclude:\n- Teză reformulată clar\n- Structură propusă (introducere, 3-5 secțiuni, concluzie)\n- Argument principal și contraargument pentru fiecare secțiune\n- Tipuri de dovezi recomandate (studiu, teorie, date, caz)\n- Memento-uri de citare pentru stilul [stil citare]\n- Greșeli frecvente de evitat\n\nPăstrează formatul academic, orientat pe dovezi, gata pentru redactare.",
+                        "ru":  "Составьте полный план написания академического эссе по теме [тема], объем [кол-во слов], для курса [курс].\n\nВключите:\n- Уточнённый тезис\n- Предложенную структуру (введение, 3-5 разделов, заключение)\n- Основной аргумент и контраргумент для каждого раздела\n- Рекомендуемые типы доказательств (исследование, теория, данные, кейс)\n- Напоминания по оформлению ссылок в стиле [стиль]\n- Типичные ошибки, которых следует избегать\n\nСделайте план академичным, доказательным и готовым к написанию черновика."
                     }
     },
     {
@@ -30,13 +30,13 @@
                  ],
         "title":  {
                       "en":  "Literature Review Blueprint",
-                      "ro":  "SchemÄƒ pentru review de literaturÄƒ",
-                      "ru":  "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¾Ð±Ð·Ð¾Ñ€Ð° Ð»Ð¸Ñ‚ÐµÑ€Ð°Ñ‚ÑƒÑ€Ñ‹"
+                      "ro":  "Schemă pentru review de literatură",
+                      "ru":  "Шаблон обзора литературы"
                   },
         "content":  {
                         "en":  "Create a literature review blueprint for my thesis on [research topic].\n\nI need:\n- Research question refinement\n- 5-7 thematic clusters for organizing sources\n- Inclusion/exclusion criteria for articles\n- A comparison matrix template (author, method, sample, findings, limitations)\n- Gap analysis prompts\n- A writing flow from background to synthesis to research gap\n\nFocus on academic rigor and clarity.",
-                        "ro":  "CreeazÄƒ o schemÄƒ de review de literaturÄƒ pentru teza mea pe tema [tema de cercetare].\n\nAm nevoie de:\n- Clarificarea Ã®ntrebÄƒrii de cercetare\n- 5-7 clustere tematice pentru organizarea surselor\n- Criterii de includere/excludere a articolelor\n- Un È™ablon de matrice comparativÄƒ (autor, metodÄƒ, eÈ™antion, rezultate, limite)\n- ÃŽntrebÄƒri pentru analiza lacunelor\n- Flux de scriere de la context la sintezÄƒ È™i gap de cercetare\n\nAccent pe rigoare academicÄƒ È™i claritate.",
-                        "ru":  "Ð¡Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð¾Ð±Ð·Ð¾Ñ€Ð° Ð»Ð¸Ñ‚ÐµÑ€Ð°Ñ‚ÑƒÑ€Ñ‹ Ð´Ð»Ñ Ð¼Ð¾ÐµÐ¹ Ð´Ð¸ÑÑÐµÑ€Ñ‚Ð°Ñ†Ð¸Ð¸ Ð¿Ð¾ Ñ‚ÐµÐ¼Ðµ [Ñ‚ÐµÐ¼Ð° Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ñ].\n\nÐœÐ½Ðµ Ð½ÑƒÐ¶Ð½Ð¾:\n- Ð£Ñ‚Ð¾Ñ‡Ð½ÐµÐ½Ð¸Ðµ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ð³Ð¾ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ°\n- 5-7 Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… ÐºÐ»Ð°ÑÑ‚ÐµÑ€Ð¾Ð² Ð´Ð»Ñ Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¾Ð²\n- ÐšÑ€Ð¸Ñ‚ÐµÑ€Ð¸Ð¸ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ/Ð¸ÑÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ ÑÑ‚Ð°Ñ‚ÐµÐ¹\n- Ð¨Ð°Ð±Ð»Ð¾Ð½ ÑÑ€Ð°Ð²Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ Ð¼Ð°Ñ‚Ñ€Ð¸Ñ†Ñ‹ (Ð°Ð²Ñ‚Ð¾Ñ€, Ð¼ÐµÑ‚Ð¾Ð´, Ð²Ñ‹Ð±Ð¾Ñ€ÐºÐ°, Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹, Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ)\n- Ð’Ð¾Ð¿Ñ€Ð¾ÑÑ‹ Ð´Ð»Ñ Ð°Ð½Ð°Ð»Ð¸Ð·Ð° Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ñ… Ð¿Ñ€Ð¾Ð±ÐµÐ»Ð¾Ð²\n- Ð›Ð¾Ð³Ð¸ÐºÐ° Ð½Ð°Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ: ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚ -\u003e ÑÐ¸Ð½Ñ‚ÐµÐ· -\u003e Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ñ€Ð°Ð·Ñ€Ñ‹Ð²\n\nÐ¡Ñ„Ð¾ÐºÑƒÑÐ¸Ñ€ÑƒÐ¹Ñ‚ÐµÑÑŒ Ð½Ð° Ð°ÐºÐ°Ð´ÐµÐ¼Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ ÑÑ‚Ñ€Ð¾Ð³Ð¾ÑÑ‚Ð¸ Ð¸ ÑÑÐ½Ð¾ÑÑ‚Ð¸."
+                        "ro":  "Creează o schemă de review de literatură pentru teza mea pe tema [tema de cercetare].\n\nAm nevoie de:\n- Clarificarea întrebării de cercetare\n- 5-7 clustere tematice pentru organizarea surselor\n- Criterii de includere/excludere a articolelor\n- Un șablon de matrice comparativă (autor, metodă, eșantion, rezultate, limite)\n- Întrebări pentru analiza lacunelor\n- Flux de scriere de la context la sinteză și gap de cercetare\n\nAccent pe rigoare academică și claritate.",
+                        "ru":  "Составьте шаблон обзора литературы для моей диссертации по теме [тема исследования].\n\nМне нужно:\n- Уточнение исследовательского вопроса\n- 5-7 тематических кластеров для организации источников\n- Критерии включения/исключения статей\n- Шаблон сравнительной матрицы (автор, метод, выборка, результаты, ограничения)\n- Вопросы для анализа исследовательских пробелов\n- Логика написания: контекст -\u003e синтез -\u003e исследовательский разрыв\n\nСфокусируйтесь на академической строгости и ясности."
                     }
     }
 ]

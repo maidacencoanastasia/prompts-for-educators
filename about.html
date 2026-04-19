@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About — Prompt Library for Educators — USM">
+    <title>About — Prompt Library for Educators</title>
+    <style>
+        :root {
+            --p:    #007a33; --p-dk: #003d1a; --p-md: #005a26;
+            --p-lt: #e8f5ee; --p-bd: #b3d4bf;
+            --bg:   #f4f7f5; --surf: #ffffff;
+            --bdr:  #e5e7eb; --t1: #111827; --t2: #4b5563; --t3: #9ca3af;
+            --r: 12px; --rsm: 8px;
+        }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 15px; line-height: 1.6; color: var(--t1); background: var(--bg); }
+
+        /* ── Navbar ── */
+        .navbar { position: sticky; top: 0; z-index: 200; background: var(--p-dk); box-shadow: 0 1px 0 rgba(255,255,255,.07); }
+        .nav-inner { max-width: 1200px; margin: 0 auto; padding: 0 20px; height: 58px; display: flex; align-items: center; gap: 14px; }
+        .nav-brand { display: flex; align-items: center; gap: 9px; text-decoration: none; color: #fff; font-weight: 700; font-size: .96em; letter-spacing: -.01em; flex-shrink: 0; }
+        .nav-brand-icon { width: 30px; height: 30px; background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.15); border-radius: 8px; display: flex; align-items: center; justify-content: center; }
+        .nav-links { display: flex; gap: 2px; flex: 1; }
+        .nav-link { padding: 5px 12px; border-radius: 6px; font-size: .88em; font-weight: 500; color: rgba(255,255,255,.65); cursor: pointer; background: none; border: none; font-family: inherit; transition: all .14s; text-decoration: none; display: inline-block; }
+        .nav-link:hover  { color: #fff; background: rgba(255,255,255,.08); }
+        .nav-link.active { color: #fff; background: rgba(255,255,255,.13); }
+        .lang-grp { display: flex; gap: 4px; flex-shrink: 0; }
+        .lang-btn { padding: 4px 10px; border-radius: 6px; font-size: .79em; font-weight: 700; cursor: pointer; border: 1px solid rgba(255,255,255,.18); color: rgba(255,255,255,.6); background: transparent; transition: all .14s; font-family: inherit; }
+        .lang-btn:hover:not(.active) { border-color: rgba(255,255,255,.45); color: #fff; }
+        .lang-btn.active { background: var(--p); color: #fff; border-color: var(--p); }
+
+        /* ── Hero ── */
+        .hero { background: linear-gradient(140deg, #002a12 0%, #004820 40%, #003d1a 75%, #002a12 100%); padding: 52px 20px 44px; text-align: center; color: #fff; position: relative; overflow: hidden; }
+        .hero::before { content: ''; position: absolute; inset: 0; background-image: radial-gradient(circle at 20% 55%, rgba(0,122,51,.28) 0%, transparent 55%), radial-gradient(circle at 80% 25%, rgba(0,50,20,.45) 0%, transparent 50%); }
+        .hero-inner { position: relative; max-width: 600px; margin: 0 auto; }
+        .hero-eyebrow { display: inline-block; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.14); padding: 4px 14px; border-radius: 20px; font-size: .76em; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: rgba(255,255,255,.8); margin-bottom: 18px; }
+        .hero h1 { font-size: clamp(1.65em, 4vw, 2.3em); font-weight: 800; line-height: 1.18; letter-spacing: -.025em; margin-bottom: 11px; }
+        .hero-sub { font-size: .98em; opacity: .73; }
+
+        /* ── Body ── */
+        .about-body { max-width: 900px; margin: 0 auto; padding: 48px 20px 80px; }
+
+        /* ── Feature grid ── */
+        .feat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; margin-bottom: 52px; }
+        .feat-card { background: var(--surf); border: 1px solid var(--bdr); border-radius: var(--r); padding: 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,.04); transition: box-shadow .2s, transform .15s; }
+        .feat-card:hover { box-shadow: 0 6px 20px rgba(0,0,0,.09); transform: translateY(-2px); }
+        .feat-icon { width: 44px; height: 44px; border-radius: 11px; background: var(--p-lt); display: flex; align-items: center; justify-content: center; font-size: 1.35em; margin-bottom: 13px; }
+        .feat-title { font-weight: 700; font-size: .96em; margin-bottom: 6px; color: var(--t1); }
+        .feat-body { font-size: .86em; color: var(--t2); line-height: 1.6; }
+
+        /* ── Sections ── */
+        .section { margin-bottom: 44px; }
+        .section-title { font-size: 1.1em; font-weight: 700; color: var(--p-dk); margin-bottom: 16px; display: flex; align-items: center; gap: 10px; }
+        .section-title::after { content: ''; flex: 1; height: 1px; background: var(--bdr); }
+        .section-p { font-size: .93em; color: var(--t2); line-height: 1.78; margin-bottom: 12px; }
+
+        /* ── Steps ── */
+        .steps { display: flex; flex-direction: column; gap: 12px; }
+        .step { display: flex; align-items: flex-start; gap: 14px; background: var(--surf); border: 1px solid var(--bdr); border-radius: var(--r); padding: 16px 18px; }
+        .step-num { width: 28px; height: 28px; border-radius: 50%; background: var(--p-dk); color: #fff; font-size: .8em; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+        .step-text { font-size: .92em; color: var(--t1); line-height: 1.6; padding-top: 3px; }
+        .step-text strong { color: var(--p-md); }
+
+        /* ── Cat badges ── */
+        .cat-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+        .cat-chip { display: inline-flex; align-items: center; gap: 6px; padding: 5px 13px; border-radius: 20px; font-size: .83em; font-weight: 600; border: 1px solid; }
+
+        /* ── Credits card ── */
+        .credits-card { background: var(--surf); border: 1px solid var(--bdr); border-left: 4px solid var(--p); border-radius: var(--r); padding: 20px 22px; }
+        .credits-name { font-weight: 700; font-size: 1.02em; margin-bottom: 4px; }
+        .credits-role { font-size: .88em; color: var(--t2); margin-bottom: 12px; }
+        .credits-meta { display: flex; flex-wrap: wrap; gap: 8px; }
+        .credits-tag { padding: 3px 10px; background: var(--p-lt); color: var(--p-md); border-radius: 20px; font-size: .8em; font-weight: 600; }
+
+        /* ── Stats bar ── */
+        .stats-row { display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 28px; }
+        .stat-box { background: var(--surf); border: 1px solid var(--bdr); border-radius: var(--r); padding: 16px 20px; flex: 1; min-width: 120px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,.04); }
+        .stat-num { font-size: 1.6em; font-weight: 800; color: var(--p-dk); line-height: 1; }
+        .stat-lbl { font-size: .82em; color: var(--t2); margin-top: 4px; }
+
+        /* ── Footer ── */
+        .site-footer { text-align: center; padding: 24px 20px; font-size: .84em; color: var(--t3); border-top: 1px solid var(--bdr); }
+
+        ::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-track { background: var(--bg); } ::-webkit-scrollbar-thumb { background: var(--p-bd); border-radius: 3px; } ::-webkit-scrollbar-thumb:hover { background: var(--p); }
+
+        @media (max-width: 480px) {
+            .hero { padding: 36px 14px 30px; }
+            .hero h1 { font-size: 1.55em; }
+            .brand-text { display: none; }
+            .about-body { padding: 28px 14px 60px; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ── Navbar ── -->
+<nav class="navbar">
+    <div class="nav-inner">
+        <a class="nav-brand" href="index.html">
+            <div class="nav-brand-icon">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                    <path d="M2 3h12M2 6h9M2 9h11M2 12h7" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>
+                </svg>
+            </div>
+            <span class="brand-text" id="navBrand">Prompt Library</span>
+        </a>
+        <div class="nav-links">
+            <a class="nav-link" href="index.html" id="navHome">Library</a>
+            <a class="nav-link active" href="about.html" id="navAbout">About</a>
+        </div>
+        <div class="lang-grp" role="group" aria-label="Language selector">
+            <button class="lang-btn active" data-lang="en">EN</button>
+            <button class="lang-btn" data-lang="ro">RO</button>
+            <button class="lang-btn" data-lang="ru">RU</button>
+        </div>
+    </div>
+</nav>
+
+<!-- ── Hero ── -->
+<section class="hero">
+    <div class="hero-inner">
+        <div class="hero-eyebrow">📚 USM · Educator Toolkit</div>
+        <h1 id="heroTitle">About This Library</h1>
+        <p class="hero-sub" id="heroSub">Everything you need to know about the Prompt Library for Educators</p>
+    </div>
+</section>
+
+<!-- ── Body ── -->
+<div class="about-body" id="aboutBody">
+
+    <!-- Stats -->
+    <div class="stats-row" id="statsRow">
+        <div class="stat-box"><div class="stat-num">52</div><div class="stat-lbl" id="stat1Lbl">Prompts</div></div>
+        <div class="stat-box"><div class="stat-num">11</div><div class="stat-lbl" id="stat2Lbl">Categories</div></div>
+        <div class="stat-box"><div class="stat-num">3</div><div class="stat-lbl" id="stat3Lbl">Languages</div></div>
+    </div>
+
+    <!-- Feature cards -->
+    <div class="feat-grid" id="featGrid"></div>
+
+    <!-- What section -->
+    <div class="section">
+        <div class="section-title" id="whatTitle">What Is This?</div>
+        <p class="section-p" id="whatP1"></p>
+        <p class="section-p" id="whatP2"></p>
+    </div>
+
+    <!-- How to use -->
+    <div class="section">
+        <div class="section-title" id="howTitle">How To Use</div>
+        <div class="steps" id="stepsContainer"></div>
+    </div>
+
+    <!-- Categories -->
+    <div class="section">
+        <div class="section-title" id="catsTitle">Categories</div>
+        <p class="section-p" id="catsP"></p>
+        <div class="cat-grid" id="catGrid"></div>
+    </div>
+
+    <!-- Credits -->
+    <div class="section">
+        <div class="section-title" id="creditsTitle">Credits</div>
+        <div class="credits-card">
+            <div class="credits-name" id="creditsName">Maidacenco Anastasia</div>
+            <div class="credits-role" id="creditsRole">Educator · special for USM — State University of Moldova</div>
+            <div class="credits-meta">
+                <span class="credits-tag">USM 2026</span>
+                <span class="credits-tag">Open Source</span>
+                <span class="credits-tag">GitHub Pages</span>
+                <span class="credits-tag">Fuse.js Search</span>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<footer class="site-footer">
+    <span id="footerText">Prompt Library for Educators — USM © 2026 · Maidacenco Anastasia</span>
+</footer>
+
+<script>
+/* ── i18n content ───────────────────────────────────────────── */
+const CONTENT = {
+    en: {
+        navBrand: "Prompt Library", navHome: "Library", navAbout: "About",
+        heroTitle: "About This Library",
+        heroSub: "Everything you need to know about the Prompt Library for Educators",
+        footer: "Prompt Library for Educators — USM © 2026 · Maidacenco Anastasia",
+        stat1: "Prompts", stat2: "Categories", stat3: "Languages",
+        features: [
+            { icon: "🌐", title: "Multilingual", body: "Every prompt is available in English, Romanian, and Russian — switch language at any time." },
+            { icon: "🔍", title: "Smart Search", body: "Powered by Fuse.js fuzzy search across titles, content, and tags for fast discovery." },
+            { icon: "📂", title: "Categorized", body: "11 categories covering assessment, lesson planning, university teaching, and more." },
+            { icon: "📋", title: "One-Click Copy", body: "Copy any prompt to clipboard instantly and paste it directly into your AI tool." },
+            { icon: "🔗", title: "Shareable URLs", body: "Every search query and filter state generates a unique URL you can bookmark or share." },
+            { icon: "🎓", title: "University Focus", body: "20+ prompts specifically designed for university educators, including rubric design and capstone planning." },
+        ],
+        whatTitle: "What Is This?",
+        whatP1: "The Prompt Library for Educators is a curated, open collection of AI prompts built for teachers, lecturers, and university educators. It brings together best practices from higher-education institutions and instructional-design research.",
+        whatP2: "All prompts are carefully written to be immediately useful — paste them into ChatGPT, Claude, Gemini, or any LLM to get high-quality instructional materials, assessments, feedback, and more.",
+        howTitle: "How To Use",
+        steps: [
+            { n: 1, html: "Select your <strong>language</strong> (EN / RO / RU) using the buttons in the top-right corner." },
+            { n: 2, html: "<strong>Search</strong> for a topic using the search bar, or filter by <strong>category</strong> in the sidebar." },
+            { n: 3, html: "Click any card or the <strong>Open ↗</strong> button to view the full prompt in a detail panel." },
+            { n: 4, html: "Click <strong>Copy Prompt</strong> and paste it directly into your preferred AI assistant." },
+            { n: 5, html: "Share the page URL — it encodes your current language, category, and search query." },
+        ],
+        catsTitle: "Categories",
+        catsP: "Prompts are organized into 11 thematic categories to help you find exactly what you need:",
+        creditsTitle: "Credits",
+        creditsName: "Maidacenco Anastasia",
+        creditsRole: "Educator · special for USM — State University of Moldova",
+    },
+    ro: {
+        navBrand: "Prompt Library", navHome: "Bibliotecă", navAbout: "Despre",
+        heroTitle: "Despre această bibliotecă",
+        heroSub: "Tot ce trebuie să știi despre Biblioteca de Prompturi pentru Educatori",
+        footer: "Bibliotecă de Prompturi — USM © 2026 · Maidacenco Anastasia",
+        stat1: "Prompturi", stat2: "Categorii", stat3: "Limbi",
+        features: [
+            { icon: "🌐", title: "Multilingvă", body: "Fiecare prompt este disponibil în engleză, română și rusă — comută limba oricând." },
+            { icon: "🔍", title: "Căutare inteligentă", body: "Bazată pe Fuse.js pentru căutare fuzzy în titluri, conținut și etichete." },
+            { icon: "📂", title: "Categorizată", body: "11 categorii acoperind evaluare, planificarea lecțiilor, predare universitară și altele." },
+            { icon: "📋", title: "Copiere rapidă", body: "Copiază orice prompt în clipboard cu un singur clic și lipește-l direct în AI." },
+            { icon: "🔗", title: "URL-uri partajabile", body: "Fiecare stare de căutare și filtru generează un URL unic pe care îl poți distribui." },
+            { icon: "🎓", title: "Focus universitar", body: "20+ prompturi special concepute pentru cadrele didactice universitare." },
+        ],
+        whatTitle: "Ce este aceasta?",
+        whatP1: "Biblioteca de Prompturi pentru Educatori este o colecție curată de prompturi AI construită pentru profesori, lectori și cadre didactice universitare.",
+        whatP2: "Toate prompturile sunt scrise pentru a fi imediat utile — lipește-le în ChatGPT, Claude, Gemini sau orice LLM pentru materiale didactice, evaluări și feedback de calitate.",
+        howTitle: "Cum se folosește",
+        steps: [
+            { n: 1, html: "Selectează <strong>limba</strong> (EN / RO / RU) din butoanele din colțul din dreapta sus." },
+            { n: 2, html: "<strong>Caută</strong> un subiect în bara de căutare sau filtrează după <strong>categorie</strong>." },
+            { n: 3, html: "Dă clic pe orice card sau pe butonul <strong>Deschide ↗</strong> pentru a vedea promptul complet." },
+            { n: 4, html: "Apasă <strong>Copiază promptul</strong> și lipește-l direct în asistentul tău AI preferat." },
+            { n: 5, html: "Distribuie URL-ul paginii — acesta codifică limba, categoria și căutarea curentă." },
+        ],
+        catsTitle: "Categorii",
+        catsP: "Prompturile sunt organizate în 11 categorii tematice pentru a găsi exact ce ai nevoie:",
+        creditsTitle: "Credite",
+        creditsName: "Maidacenco Anastasia",
+        creditsRole: "Formator · special pentru USM — Universitatea de Stat din Moldova",
+    },
+    ru: {
+        navBrand: "Prompt Library", navHome: "Библиотека", navAbout: "О нас",
+        heroTitle: "Об этой библиотеке",
+        heroSub: "Всё, что нужно знать о Библиотеке промптов для педагогов",
+        footer: "Библиотека промптов — USM © 2026 · Майдаченко Анастасия",
+        stat1: "Промптов", stat2: "Категорий", stat3: "Языка",
+        features: [
+            { icon: "🌐", title: "Многоязычная", body: "Каждый промпт доступен на английском, румынском и русском языках." },
+            { icon: "🔍", title: "Умный поиск", body: "Нечёткий поиск на базе Fuse.js по заголовкам, содержанию и тегам." },
+            { icon: "📂", title: "Категоризация", body: "11 категорий: оценивание, планирование, вузовское преподавание и другие." },
+            { icon: "📋", title: "Быстрое копирование", body: "Скопируйте промпт в буфер одним кликом и вставьте прямо в ИИ." },
+            { icon: "🔗", title: "Ссылки для шаринга", body: "Каждое состояние поиска и фильтра кодируется в URL для публикации." },
+            { icon: "🎓", title: "Фокус на вузе", body: "20+ промптов специально для преподавателей высшей школы." },
+        ],
+        whatTitle: "Что это такое?",
+        whatP1: "Библиотека промптов для педагогов — это кураторская коллекция AI-промптов, созданная для учителей, преподавателей и педагогов высшей школы.",
+        whatP2: "Все промпты написаны так, чтобы быть немедленно полезными — вставьте их в ChatGPT, Claude, Gemini или любой LLM для получения качественных учебных материалов, оценок и обратной связи.",
+        howTitle: "Как пользоваться",
+        steps: [
+            { n: 1, html: "Выберите <strong>язык</strong> (EN / RO / RU) с помощью кнопок в правом верхнем углу." },
+            { n: 2, html: "<strong>Найдите</strong> тему через строку поиска или отфильтруйте по <strong>категории</strong>." },
+            { n: 3, html: "Нажмите на карточку или кнопку <strong>Открыть ↗</strong>, чтобы увидеть полный промпт." },
+            { n: 4, html: "Нажмите <strong>Копировать промпт</strong> и вставьте прямо в ваш AI-ассистент." },
+            { n: 5, html: "Поделитесь URL страницы — он кодирует язык, категорию и запрос поиска." },
+        ],
+        catsTitle: "Категории",
+        catsP: "Промпты организованы по 11 тематическим категориям:",
+        creditsTitle: "Авторы",
+        creditsName: "Мэйдэченко Анастасия",
+        creditsRole: "Педагог · специально для USM — Государственный университет Молдовы",
+    }
+};
+
+const CAT_PAL = {
+    'Assessment':           { bg:'#dbeafe', text:'#1e40af', stripe:'#3b82f6' },
+    'Lesson Planning':      { bg:'#ede9fe', text:'#5b21b6', stripe:'#7c3aed' },
+    'Logopedics':           { bg:'#fce7f3', text:'#9d174d', stripe:'#ec4899' },
+    'Communication':        { bg:'#fef3c7', text:'#78350f', stripe:'#f59e0b' },
+    'Differentiation':      { bg:'#d1fae5', text:'#064e3b', stripe:'#10b981' },
+    'Creativity':           { bg:'#ffedd5', text:'#7c2d12', stripe:'#f97316' },
+    'University':           { bg:'#e0e7ff', text:'#3730a3', stripe:'#6366f1' },
+    'Academic Writing':     { bg:'#ccfbf1', text:'#115e59', stripe:'#14b8a6' },
+    'Student Productivity': { bg:'#ecfccb', text:'#365314', stripe:'#84cc16' },
+    'Teaching Support':     { bg:'#dcfce7', text:'#14532d', stripe:'#16a34a' },
+    'University Educators': { bg:'#e0f2fe', text:'#0c4a6e', stripe:'#0ea5e9' },
+};
+
+const CAT_LABELS = {
+    "Assessment":           { en:"Assessment",           ro:"Evaluare",                ru:"Оценивание"          },
+    "Lesson Planning":      { en:"Lesson Planning",      ro:"Planif. lecției",         ru:"Планир. урока"       },
+    "Logopedics":           { en:"Logopedics",           ro:"Logopedie",               ru:"Логопедия"           },
+    "Communication":        { en:"Communication",        ro:"Comunicare",              ru:"Коммуникация"        },
+    "Differentiation":      { en:"Differentiation",      ro:"Diferențiere",            ru:"Дифференциация"      },
+    "Creativity":           { en:"Creativity",           ro:"Creativitate",            ru:"Творчество"          },
+    "University":           { en:"University",           ro:"Universitar",             ru:"Университет"         },
+    "Academic Writing":     { en:"Academic Writing",     ro:"Scriere academică",       ru:"Акад. письмо"        },
+    "Student Productivity": { en:"Student Productivity", ro:"Productivitate student",  ru:"Продуктивность"      },
+    "Teaching Support":     { en:"Teaching Support",     ro:"Suport didactic",         ru:"Пед. поддержка"      },
+    "University Educators": { en:"University Educators", ro:"Cadre did. universitare", ru:"Преподаватели вузов" },
+};
+
+let lang = localStorage.getItem('pl-lang') || 'en';
+if (!['en','ro','ru'].includes(lang)) lang = 'en';
+
+function esc(s) {
+    return String(s).replace(/[&<>"']/g,
+        m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+}
+
+function render() {
+    const c = CONTENT[lang];
+
+    document.documentElement.lang = lang;
+    document.title = c.heroTitle + ' — USM';
+    document.getElementById('navBrand').textContent  = c.navBrand;
+    document.getElementById('navHome').textContent   = c.navHome;
+    document.getElementById('navAbout').textContent  = c.navAbout;
+    document.getElementById('heroTitle').textContent = c.heroTitle;
+    document.getElementById('heroSub').textContent   = c.heroSub;
+    document.getElementById('footerText').textContent = c.footer;
+    document.getElementById('stat1Lbl').textContent  = c.stat1;
+    document.getElementById('stat2Lbl').textContent  = c.stat2;
+    document.getElementById('stat3Lbl').textContent  = c.stat3;
+    document.getElementById('whatTitle').textContent = c.whatTitle;
+    document.getElementById('whatP1').textContent    = c.whatP1;
+    document.getElementById('whatP2').textContent    = c.whatP2;
+    document.getElementById('howTitle').textContent  = c.howTitle;
+    document.getElementById('catsTitle').textContent = c.catsTitle;
+    document.getElementById('catsP').textContent     = c.catsP;
+    document.getElementById('creditsTitle').textContent = c.creditsTitle;
+    document.getElementById('creditsName').textContent  = c.creditsName;
+    document.getElementById('creditsRole').textContent  = c.creditsRole;
+
+    // Features
+    document.getElementById('featGrid').innerHTML = c.features.map(f =>
+        `<div class="feat-card">
+            <div class="feat-icon">${f.icon}</div>
+            <div class="feat-title">${esc(f.title)}</div>
+            <div class="feat-body">${esc(f.body)}</div>
+        </div>`
+    ).join('');
+
+    // Steps
+    document.getElementById('stepsContainer').innerHTML = c.steps.map(s =>
+        `<div class="step">
+            <span class="step-num">${s.n}</span>
+            <span class="step-text">${s.html}</span>
+        </div>`
+    ).join('');
+
+    // Categories
+    document.getElementById('catGrid').innerHTML = Object.entries(CAT_LABELS).map(([key, labels]) => {
+        const p = CAT_PAL[key] || { bg:'#f3f4f6', text:'#374151', stripe:'#6b7280' };
+        return `<span class="cat-chip" style="background:${p.bg};color:${p.text};border-color:${p.bg}">
+            <span style="width:7px;height:7px;border-radius:50%;background:${p.stripe};display:inline-block"></span>
+            ${esc(labels[lang] || labels.en)}
+        </span>`;
+    }).join('');
+
+    // Lang buttons
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+        const a = btn.dataset.lang === lang;
+        btn.classList.toggle('active', a);
+        btn.setAttribute('aria-pressed', a);
+    });
+
+    localStorage.setItem('pl-lang', lang);
+}
+
+document.querySelectorAll('.lang-btn').forEach(btn => btn.addEventListener('click', () => {
+    if (lang === btn.dataset.lang) return;
+    lang = btn.dataset.lang;
+    render();
+}));
+
+render();
+</script>
+</body>
+</html>
