@@ -1,0 +1,483 @@
+[
+  {
+    "id": "a01",
+    "category": "Assessment",
+    "tags": ["rubric", "presentations", "grading", "criteria"],
+    "title": {
+      "en": "Presentation Rubric Generator",
+      "ro": "Generator de rubrici pentru prezentări",
+      "ru": "Генератор рубрик для презентаций"
+    },
+    "content": {
+      "en": "Create a detailed assessment rubric for evaluating student presentations on [topic] for [grade level] students.\n\nInclude four criteria with these weights:\n- Content accuracy and depth (30%)\n- Organization and logical structure (25%)\n- Delivery, clarity, and confidence (25%)\n- Visual aids and supporting materials (20%)\n\nFor each criterion, provide 4 performance levels — Excellent (4), Proficient (3), Developing (2), Beginning (1) — with specific, observable descriptors for each level. Format the output as a clear, printable table.",
+      "ro": "Creează o rubrică detaliată pentru evaluarea prezentărilor elevilor pe tema [subiect] pentru clasa [nivel].\n\nInclude patru criterii cu următoarele ponderi:\n- Acuratețea și profunzimea conținutului (30%)\n- Organizare și structură logică (25%)\n- Prezentare, claritate și încredere (25%)\n- Materiale vizuale și suport (20%)\n\nPentru fiecare criteriu, oferă 4 niveluri de performanță — Excelent (4), Competent (3), În dezvoltare (2), Incipient (1) — cu descriptori specifici și observabili. Formatează rezultatul ca un tabel clar, gata de tipărit.",
+      "ru": "Создайте подробную рубрику для оценки презентаций учащихся по теме [тема] для [класс/уровень].\n\nВключите четыре критерия со следующими весами:\n- Точность и глубина содержания (30%)\n- Организация и логическая структура (25%)\n- Подача, ясность и уверенность (25%)\n- Наглядные пособия и вспомогательные материалы (20%)\n\nДля каждого критерия укажите 4 уровня — Отлично (4), Хорошо (3), Развивается (2), Начальный (1) — с конкретными наблюдаемыми дескрипторами. Оформите в виде чёткой таблицы."
+    }
+  },
+  {
+    "id": "a02",
+    "category": "Assessment",
+    "tags": ["exit ticket", "formative", "check understanding", "quick"],
+    "title": {
+      "en": "Exit Ticket Question Set",
+      "ro": "Set de întrebări pentru biletul de ieșire",
+      "ru": "Набор вопросов для «билета на выход»"
+    },
+    "content": {
+      "en": "Design 5 exit ticket questions for a lesson on [topic] for [grade level] students. The questions should:\n\n1. One recall question (What did we learn today?)\n2. One comprehension question (Explain in your own words…)\n3. One application question (How would you use this to…?)\n4. One self-assessment prompt (Rate your understanding 1–5 and explain)\n5. One open question (What still confuses you? What do you want to learn next?)\n\nKeep each question to one sentence. The set should take students no more than 5 minutes to complete.",
+      "ro": "Creează 5 întrebări pentru biletul de ieșire după o lecție despre [subiect] pentru clasa [nivel]. Întrebările trebuie să includă:\n\n1. O întrebare de reamintire (Ce am învățat azi?)\n2. O întrebare de înțelegere (Explică cu propriile cuvinte…)\n3. O întrebare de aplicare (Cum ai folosi asta pentru…?)\n4. O autoevaluare (Apreciază-ți înțelegerea de la 1 la 5 și explică)\n5. O întrebare deschisă (Ce te mai încurcă? Ce vrei să înveți mai departe?)\n\nFiecare întrebare să fie o singură propoziție. Completarea să dureze maxim 5 minute.",
+      "ru": "Разработайте 5 вопросов для «билета на выход» после урока по теме [тема] для [класс/уровень]. Вопросы должны включать:\n\n1. Вопрос на воспроизведение (Что мы узнали сегодня?)\n2. Вопрос на понимание (Объясни своими словами…)\n3. Вопрос на применение (Как ты бы использовал это для…?)\n4. Самооценку (Оцени своё понимание от 1 до 5 и объясни)\n5. Открытый вопрос (Что тебя ещё смущает? Что хочешь узнать дальше?)\n\nКаждый вопрос — одно предложение. Выполнение не более 5 минут."
+    }
+  },
+  {
+    "id": "a03",
+    "category": "Assessment",
+    "tags": ["feedback", "constructive", "student", "growth mindset"],
+    "title": {
+      "en": "Constructive Student Feedback Writer",
+      "ro": "Redactor de feedback constructiv pentru elevi",
+      "ru": "Составление конструктивной обратной связи для ученика"
+    },
+    "content": {
+      "en": "Write personalized, constructive written feedback for a student who [describe the situation, e.g. 'submitted a well-structured essay but struggled with citing sources correctly'].\n\nThe feedback should:\n- Start with a genuine, specific strength (not generic praise)\n- Identify one or two clear areas for improvement with concrete suggestions\n- Use growth mindset language (avoid 'you can't', use 'you can improve by…')\n- End with an encouraging, forward-looking sentence\n- Be approximately 80–120 words, suitable for adding to a grade book or portfolio\n\nTone: warm, honest, and professional.",
+      "ro": "Scrie feedback scris personalizat și constructiv pentru un elev care [descrie situația, ex. 'a trimis un eseu bine structurat, dar a întâmpinat dificultăți la citarea surselor corect'].\n\nFeedback-ul trebuie să:\n- Înceapă cu un punct forte specific și autentic (nu laudă generică)\n- Identifice una sau două zone de îmbunătățire cu sugestii concrete\n- Folosească limbajul mentalității de creștere (evită 'nu poți', folosește 'poți îmbunătăți prin…')\n- Se încheie cu o propoziție încurajatoare, orientată spre viitor\n- Aibă aproximativ 80–120 de cuvinte, potrivit pentru catalog sau portofoliu\n\nTon: cald, sincer și profesional.",
+      "ru": "Напишите персонализированную конструктивную обратную связь для ученика, который [опишите ситуацию, напр. 'сдал хорошо структурированное эссе, но испытывал трудности с правильным цитированием источников'].\n\nОбратная связь должна:\n- Начинаться с конкретной, искренней сильной стороны (не общей похвалы)\n- Определять одну-две зоны роста с конкретными предложениями\n- Использовать язык установки на рост (не 'не можешь', а 'можешь улучшить, если…')\n- Заканчиваться ободряющим, перспективным предложением\n- Быть около 80–120 слов, подходить для портфолио или журнала\n\nТон: тёплый, честный, профессиональный."
+    }
+  },
+  {
+    "id": "l01",
+    "category": "Lesson Planning",
+    "tags": ["lesson plan", "objectives", "activities", "45 minutes"],
+    "title": {
+      "en": "Complete Lesson Plan Builder",
+      "ro": "Constructor de plan de lecție complet",
+      "ru": "Конструктор полного плана урока"
+    },
+    "content": {
+      "en": "Create a complete 45-minute lesson plan for teaching [topic] to [grade level / age group] students with [brief class profile, e.g. 'mixed ability, 24 students, some ELL learners'].\n\nInclude:\n- Learning objectives (3 max, using Bloom's action verbs)\n- Materials and resources needed\n- Warm-up / hook activity (5 min)\n- Main instruction with teacher and student actions (25 min)\n- Guided or collaborative practice (10 min)\n- Closure / exit activity (5 min)\n- Differentiation notes for struggling and advanced learners\n- Homework suggestion (optional)\n\nFormat as a structured, easy-to-print lesson plan.",
+      "ro": "Creează un plan de lecție complet de 45 de minute pentru predarea [subiect] la [clasa / grupă de vârstă] cu [profilul clasei, ex. 'capacități mixte, 24 de elevi, unii cu dificultăți de limbă'].\n\nInclude:\n- Obiective de învățare (max. 3, cu verbe Bloom)\n- Materiale și resurse necesare\n- Activitate de încălzire / captare a atenției (5 min)\n- Instruire principală cu acțiunile profesorului și elevilor (25 min)\n- Practică ghidată sau colaborativă (10 min)\n- Încheiere / activitate finală (5 min)\n- Note de diferențiere pentru elevi cu dificultăți și avansați\n- Sugestie temă pentru acasă (opțional)\n\nFormatează ca un plan de lecție structurat, gata de tipărit.",
+      "ru": "Создайте полный план урока на 45 минут для изучения темы [тема] с учащимися [класс / возрастная группа] с профилем класса [краткое описание, напр. 'смешанный уровень, 24 ученика, часть — изучающие язык'].\n\nВключите:\n- Цели обучения (макс. 3, с глаголами Блума)\n- Необходимые материалы и ресурсы\n- Разминка / мотивационная активность (5 мин)\n- Основное обучение с действиями учителя и учеников (25 мин)\n- Управляемая или совместная практика (10 мин)\n- Завершение / финальная активность (5 мин)\n- Заметки о дифференциации для слабых и продвинутых учеников\n- Предложение для домашнего задания (по желанию)\n\nОформите как структурированный план урока."
+    }
+  },
+  {
+    "id": "l02",
+    "category": "Lesson Planning",
+    "tags": ["warm-up", "engagement", "starter", "hook"],
+    "title": {
+      "en": "Warm-Up Activity Designer",
+      "ro": "Designer de activități de încălzire",
+      "ru": "Разработчик разминочных активностей"
+    },
+    "content": {
+      "en": "Generate 3 creative warm-up activities (5–7 minutes each) for a lesson on [topic] for [grade level] students.\n\nFor each activity provide:\n- A catchy name\n- Clear step-by-step instructions\n- What materials or tech are needed (if any)\n- How it connects to the lesson's main topic\n- A variation for online/hybrid classes\n\nThe activities should activate prior knowledge, spark curiosity, or build community — not introduce new content. At least one should be movement-based and one should be discussion-based.",
+      "ro": "Generează 3 activități creative de încălzire (5–7 minute fiecare) pentru o lecție despre [subiect] la clasa [nivel].\n\nPentru fiecare activitate oferă:\n- Un nume atractiv\n- Instrucțiuni clare, pas cu pas\n- Materiale sau tehnologie necesare (dacă e cazul)\n- Cum se leagă de subiectul principal al lecției\n- O variantă pentru clasele online/hibrid\n\nActivitățile trebuie să activeze cunoștințele anterioare, să stârnească curiozitatea sau să construiască comunitate — nu să introducă conținut nou. Cel puțin una să fie bazată pe mișcare și una pe discuție.",
+      "ru": "Создайте 3 творческие разминочные активности (5–7 минут каждая) для урока по теме [тема] для [класс/уровень].\n\nДля каждой активности укажите:\n- Привлекательное название\n- Чёткие пошаговые инструкции\n- Необходимые материалы или технологии (если есть)\n- Как она связана с основной темой урока\n- Вариант для онлайн/гибридных классов\n\nАктивности должны активировать предыдущие знания, пробуждать любопытство или строить сообщество — не вводить новый контент. Хотя бы одна — с движением, одна — на обсуждение."
+    }
+  },
+  {
+    "id": "l03",
+    "category": "Lesson Planning",
+    "tags": ["Bloom's taxonomy", "objectives", "learning goals", "curriculum"],
+    "title": {
+      "en": "Bloom's Taxonomy Objectives Generator",
+      "ro": "Generator de obiective pe taxonomia Bloom",
+      "ru": "Генератор целей по таксономии Блума"
+    },
+    "content": {
+      "en": "Write a complete set of learning objectives for a unit on [topic] for [grade level], covering all six levels of Bloom's Revised Taxonomy.\n\nFor each level, write one clear, measurable objective using an appropriate action verb:\n1. Remember – recall, list, define\n2. Understand – explain, summarize, describe\n3. Apply – use, solve, demonstrate\n4. Analyze – compare, differentiate, examine\n5. Evaluate – justify, critique, assess\n6. Create – design, produce, develop\n\nThen suggest one activity or assessment task that best addresses each objective. Keep the language student-facing ('Students will be able to…').",
+      "ro": "Scrie un set complet de obiective de învățare pentru o unitate despre [subiect] la clasa [nivel], acoperind toate cele șase niveluri ale taxonomiei Bloom revizuite.\n\nPentru fiecare nivel, scrie un obiectiv clar și măsurabil, folosind un verb de acțiune potrivit:\n1. Reamintire – a recunoaște, a enumera, a defini\n2. Înțelegere – a explica, a rezuma, a descrie\n3. Aplicare – a utiliza, a rezolva, a demonstra\n4. Analiză – a compara, a diferenția, a examina\n5. Evaluare – a justifica, a critica, a aprecia\n6. Creare – a proiecta, a produce, a dezvolta\n\nSugereazǎ apoi o activitate sau sarcină de evaluare care să corespundă fiecărui obiectiv. Limbajul să fie orientat spre elev ('Elevii vor fi capabili să…').",
+      "ru": "Напишите полный набор целей обучения для раздела по теме [тема] для [класс/уровень], охватывая все шесть уровней пересмотренной таксономии Блума.\n\nДля каждого уровня напишите одну чёткую, измеримую цель с подходящим глаголом:\n1. Помнить – вспомнить, перечислить, определить\n2. Понимать – объяснить, изложить, описать\n3. Применять – использовать, решить, продемонстрировать\n4. Анализировать – сравнить, различить, исследовать\n5. Оценивать – обосновать, критически оценить, проверить\n6. Создавать – разработать, создать, построить\n\nЗатем предложите одну активность или задание оценивания для каждой цели. Язык — ориентированный на ученика ('Учащиеся смогут…')."
+    }
+  },
+  {
+    "id": "g01",
+    "category": "Logopedics",
+    "tags": ["articulation", "phoneme", "speech therapy", "exercises"],
+    "title": {
+      "en": "Articulation Exercise Creator",
+      "ro": "Creator de exerciții de articulație",
+      "ru": "Создатель упражнений на артикуляцию"
+    },
+    "content": {
+      "en": "Create a set of 10 structured articulation exercises for practicing the [target phoneme, e.g. /r/, /s/, /th/] sound with a child aged [age range].\n\nOrganize the exercises in order of difficulty:\n- Isolation level (2 exercises): the sound alone\n- Syllable level (2 exercises): the sound in CV/VC syllables\n- Word level (3 exercises): initial, medial, and final position\n- Phrase/sentence level (2 exercises): in short, natural sentences\n- Spontaneous level (1 exercise): a guided conversation or storytelling activity\n\nFor each exercise, include example stimuli (words or sentences), visual support ideas, and a tip for the therapist.",
+      "ro": "Creează un set de 10 exerciții structurate de articulație pentru exersarea sunetului [fonem țintă, ex. /r/, /s/, /ce/] cu un copil de [grupă de vârstă].\n\nOrganizează exercițiile în ordinea dificultății:\n- Nivel de izolare (2 exerciții): sunetul singur\n- Nivel de silabă (2 exerciții): sunetul în silabe CV/VC\n- Nivel de cuvânt (3 exerciții): poziție inițială, medială și finală\n- Nivel de frază/propoziție (2 exerciții): în propoziții scurte și naturale\n- Nivel spontan (1 exercițiu): activitate de conversație ghidată sau povestire\n\nPentru fiecare exercițiu, include exemple de stimuli (cuvinte sau propoziții), idei de suport vizual și un sfat pentru terapeut.",
+      "ru": "Создайте набор из 10 структурированных упражнений на артикуляцию для отработки звука [целевая фонема, напр. /р/, /с/, /ш/] с ребёнком [возрастной диапазон].\n\nОрганизуйте упражнения по степени сложности:\n- Уровень изоляции (2 упражнения): звук отдельно\n- Уровень слога (2 упражнения): звук в слогах СГ/ГС\n- Уровень слова (3 упражнения): начальная, средняя и конечная позиция\n- Уровень фразы/предложения (2 упражнения): в коротких, естественных предложениях\n- Спонтанный уровень (1 упражнение): управляемый разговор или рассказ\n\nДля каждого упражнения включите примеры стимулов (слова или предложения), идеи визуальной поддержки и совет для специалиста."
+    }
+  },
+  {
+    "id": "g02",
+    "category": "Logopedics",
+    "tags": ["social story", "AAC", "communication", "autism", "pragmatics"],
+    "title": {
+      "en": "Social Story Generator",
+      "ro": "Generator de povești sociale",
+      "ru": "Генератор социальных историй"
+    },
+    "content": {
+      "en": "Write a social story for a child aged [age] with [communication difficulty, e.g. autism spectrum, pragmatic language disorder] about the situation: [describe the situation, e.g. 'joining a group of children already playing at recess'].\n\nFollow Carol Gray's Social Story guidelines:\n- Use first-person, present tense ('I can…', 'When I feel…')\n- Include descriptive, perspective, and directive sentences in roughly a 3:1 ratio (more descriptive than directive)\n- Keep sentences short and concrete\n- Avoid negative language; frame everything positively\n- Add visual description cues in [brackets] where an illustration would help\n- Length: 6–10 sentences",
+      "ro": "Scrie o poveste socială pentru un copil de [vârstă] cu [dificultate de comunicare, ex. tulburare din spectrul autist, tulburare de limbaj pragmatic] despre situația: [descrie situația, ex. 'alăturarea unui grup de copii care se joacă deja în pauză'].\n\nRespeectă ghidul lui Carol Gray pentru povești sociale:\n- Folosește persoana întâi, prezent ('Eu pot…', 'Când simt…')\n- Include propoziții descriptive, de perspectivă și directive în proporție de aproximativ 3:1\n- Ține propozițiile scurte și concrete\n- Evită limbajul negativ; formulează totul pozitiv\n- Adaugă indicii de descriere vizuală în [paranteze] unde o ilustrație ar ajuta\n- Lungime: 6–10 propoziții",
+      "ru": "Напишите социальную историю для ребёнка [возраст] с [коммуникативной трудностью, напр. расстройство аутистического спектра, прагматическое языковое расстройство] о ситуации: [опишите ситуацию, напр. 'присоединение к группе детей, уже играющих на перемене'].\n\nСледуйте рекомендациям Кэрол Грей по социальным историям:\n- Используйте первое лицо, настоящее время ('Я могу…', 'Когда я чувствую…')\n- Включите описательные, перспективные и директивные предложения в пропорции около 3:1\n- Делайте предложения короткими и конкретными\n- Избегайте негативного языка; формулируйте всё позитивно\n- Добавьте подсказки для визуального описания в [скобках], где иллюстрация помогла бы\n- Длина: 6–10 предложений"
+    }
+  },
+  {
+    "id": "g03",
+    "category": "Logopedics",
+    "tags": ["phonological awareness", "rhyme", "phonics", "early literacy"],
+    "title": {
+      "en": "Phonological Awareness Activity Pack",
+      "ro": "Pachet de activități pentru conștiința fonologică",
+      "ru": "Набор активностей по фонологическому осознанию"
+    },
+    "content": {
+      "en": "Design a set of 5 phonological awareness activities for children aged [age range], targeting the skill of [target skill, e.g. 'rhyme recognition', 'phoneme segmentation', 'blending onset and rime'].\n\nFor each activity:\n- Give it an engaging name\n- List what materials are needed\n- Write clear step-by-step instructions for the therapist or teacher\n- Include 3–5 example word sets or prompts\n- State the difficulty level (introductory / intermediate / advanced)\n- Suggest a game-like variation to increase motivation\n\nActivities should be playful, multisensory, and suitable for small group or 1:1 intervention.",
+      "ro": "Proiectează un set de 5 activități de conștiință fonologică pentru copii de [grupă de vârstă], vizând abilitatea de [abilitate țintă, ex. 'recunoașterea rimei', 'segmentarea fonemelor', 'combinarea debutului și rimei'].\n\nPentru fiecare activitate:\n- Dă-i un nume atractiv\n- Listează materialele necesare\n- Scrie instrucțiuni clare, pas cu pas, pentru terapeut sau profesor\n- Include 3–5 seturi de cuvinte sau solicitări exemplu\n- Indică nivelul de dificultate (introductiv / intermediar / avansat)\n- Sugerează o variație de tip joc pentru a crește motivația\n\nActivitățile trebuie să fie ludice, multisenzoriale și potrivite pentru grup mic sau intervenție 1:1.",
+      "ru": "Разработайте набор из 5 активностей по фонологическому осознанию для детей [возрастной диапазон], направленных на навык [целевой навык, напр. 'распознавание рифмы', 'сегментация фонем', 'слияние начала и рифмы'].\n\nДля каждой активности:\n- Дайте ей привлекательное название\n- Перечислите необходимые материалы\n- Напишите чёткие пошаговые инструкции для специалиста или учителя\n- Включите 3–5 примеров наборов слов или подсказок\n- Укажите уровень сложности (вводный / средний / продвинутый)\n- Предложите игровой вариант для повышения мотивации\n\nАктивности должны быть игровыми, мультисенсорными, подходящими для малой группы или индивидуальной работы."
+    }
+  },
+  {
+    "id": "c01",
+    "category": "Communication",
+    "tags": ["newsletter", "parents", "writing", "school communication"],
+    "title": {
+      "en": "Parent Newsletter Writer",
+      "ro": "Redactor de newsletter pentru părinți",
+      "ru": "Составление родительского информационного письма"
+    },
+    "content": {
+      "en": "Write a friendly, professional parent newsletter for [month/period] for a [grade level] class at [school name or type].\n\nInclude these sections:\n1. Welcome / opening message (2–3 sentences, warm tone)\n2. What we've been learning (brief summary of 2–3 topics covered)\n3. Upcoming events and dates (at least 3 items in a list)\n4. How parents can help at home (2–3 practical, specific tips connected to current learning)\n5. A spotlight moment or class achievement (one genuine positive highlight)\n6. Contact information reminder\n\nTone: warm, inclusive, jargon-free. Length: one A4 page. Add [PHOTO SUGGESTION] where a class photo would fit.",
+      "ro": "Scrie un newsletter prietenos și profesional pentru părinți pentru [lună/perioadă] pentru o clasă de [nivel] la [numele sau tipul școlii].\n\nInclude aceste secțiuni:\n1. Mesaj de bun venit / introducere (2–3 propoziții, ton cald)\n2. Ce am învățat (rezumat scurt a 2–3 subiecte abordate)\n3. Evenimente și date viitoare (cel puțin 3 elemente în listă)\n4. Cum pot ajuta părinții acasă (2–3 sfaturi practice, specifice, legate de învățarea curentă)\n5. Un moment special sau realizare a clasei (un aspect pozitiv autentic)\n6. Reamintirea datelor de contact\n\nTon: cald, incluziv, fără jargon. Lungime: o pagină A4. Adaugă [SUGESTIE FOTO] unde ar putea fi o poză din clasă.",
+      "ru": "Напишите дружелюбное, профессиональное информационное письмо для родителей за [месяц/период] для класса [уровень] в [название или тип школы].\n\nВключите следующие разделы:\n1. Приветствие / вступительное сообщение (2–3 предложения, тёплый тон)\n2. Чему мы учились (краткое резюме 2–3 пройденных тем)\n3. Предстоящие мероприятия и даты (не менее 3 пунктов в виде списка)\n4. Как родители могут помочь дома (2–3 практических, конкретных совета, связанных с текущим обучением)\n5. Особый момент или достижение класса (один подлинный позитивный факт)\n6. Напоминание контактных данных\n\nТон: тёплый, инклюзивный, без жаргона. Объём: одна страница А4. Добавьте [ПРЕДЛОЖЕНИЕ ФОТО] там, где подойдёт фотография."
+    }
+  },
+  {
+    "id": "c02",
+    "category": "Communication",
+    "tags": ["parent-teacher conference", "talking points", "meeting", "progress"],
+    "title": {
+      "en": "Parent–Teacher Conference Prep",
+      "ro": "Pregătire pentru conferința părinți–profesori",
+      "ru": "Подготовка к родительско-учительской конференции"
+    },
+    "content": {
+      "en": "Prepare a structured set of talking points for a 15-minute parent–teacher conference about a student named [student name / 'a student'] in [grade level] who [brief profile, e.g. 'is academically capable but struggles with focus and completing assignments on time'].\n\nOrganize into four parts:\n1. Opening (30 sec) — friendly greeting, purpose of the meeting\n2. Strengths (3–4 min) — 3 specific, evidence-based positive observations\n3. Areas to develop (5–6 min) — 2–3 specific concerns, each paired with a concrete support strategy and a question to invite the parent's perspective\n4. Action plan & next steps (3–4 min) — agreed goals, how school and home will collaborate, follow-up date\n\nInclude sample phrases for sensitive or difficult moments.",
+      "ro": "Pregătește un set structurat de puncte de discuție pentru o conferință de 15 minute cu părinții unui elev numit [numele elevului / 'un elev'] din clasa [nivel] care [profil scurt, ex. 'este capabil academic, dar are dificultăți de concentrare și la predarea la timp a temelor'].\n\nOrganizează în patru părți:\n1. Deschidere (30 sec) — salut prietenos, scopul întâlnirii\n2. Puncte forte (3–4 min) — 3 observații pozitive specifice, bazate pe dovezi\n3. Zone de dezvoltat (5–6 min) — 2–3 preocupări specifice, fiecare cu o strategie de sprijin concretă și o întrebare pentru a invita perspectiva părintelui\n4. Plan de acțiune și pași următori (3–4 min) — obiective agreate, cum vor colabora școala și familia, data de follow-up\n\nInclude formulări exemplu pentru momentele sensibile sau dificile.",
+      "ru": "Подготовьте структурированный набор тезисов для 15-минутной родительско-учительской конференции об ученике по имени [имя ученика / 'ученик'] в [класс/уровень], который [краткий профиль, напр. 'академически способный, но испытывает трудности с концентрацией и своевременным выполнением заданий'].\n\nОрганизуйте в четыре части:\n1. Вступление (30 сек) — дружеское приветствие, цель встречи\n2. Сильные стороны (3–4 мин) — 3 конкретных, основанных на фактах позитивных наблюдения\n3. Зоны развития (5–6 мин) — 2–3 конкретных опасения, каждое со стратегией поддержки и вопросом для родителя\n4. План действий и следующие шаги (3–4 мин) — согласованные цели, сотрудничество школы и семьи, дата следующего контакта\n\nВключите образцы фраз для чувствительных или сложных моментов."
+    }
+  },
+  {
+    "id": "c03",
+    "category": "Communication",
+    "tags": ["email", "parent", "professional writing", "progress report"],
+    "title": {
+      "en": "Student Progress Email to Parent",
+      "ro": "E-mail de progres al elevului către părinți",
+      "ru": "Электронное письмо родителям об успехах ученика"
+    },
+    "content": {
+      "en": "Draft a professional, empathetic email to the parent of a [grade level] student regarding [situation, e.g. 'a noticeable improvement in participation this month' OR 'a concerning drop in grades and increased absences'].\n\nThe email should:\n- Have a clear, non-alarming subject line\n- Open with a brief, genuine positive observation about the student\n- State the main point clearly and specifically (with one concrete example or data point)\n- Propose a clear next step or call to action (e.g., a call, a meeting, trying a strategy at home)\n- Close with an open, collaborative tone\n\nLength: 150–200 words. Tone: professional but warm and solution-focused.",
+      "ro": "Redactează un e-mail profesional și empatic pentru părintele unui elev din clasa [nivel] privind [situația, ex. 'o îmbunătățire vizibilă a participării în această lună' SAU 'o scădere îngrijorătoare a notelor și absențe frecvente'].\n\nE-mailul trebuie să:\n- Aibă o linie de subiect clară, care să nu alarmeze\n- Înceapă cu o observație pozitivă scurtă și autentică despre elev\n- Precizeze punctul principal clar și specific (cu un exemplu concret sau date)\n- Propună un pas următor clar sau un apel la acțiune (ex. un apel telefonic, o întâlnire, o strategie de aplicat acasă)\n- Se încheie cu un ton deschis și colaborativ\n\nLungime: 150–200 de cuvinte. Ton: profesional, dar cald și orientat spre soluții.",
+      "ru": "Напишите профессиональное, эмпатичное электронное письмо родителю ученика [класс/уровень] по поводу [ситуация, напр. 'заметное улучшение участия в этом месяце' ИЛИ 'тревожное снижение оценок и участившиеся пропуски'].\n\nПисьмо должно:\n- Иметь чёткую, не вызывающую тревоги тему письма\n- Начинаться с краткого, искреннего позитивного наблюдения об ученике\n- Чётко и конкретно излагать главный момент (с одним конкретным примером или данными)\n- Предлагать чёткий следующий шаг или призыв к действию (напр., звонок, встреча, стратегия дома)\n- Заканчиваться открытым, сотрудническим тоном\n\nОбъём: 150–200 слов. Тон: профессиональный, но тёплый и ориентированный на решение."
+    }
+  },
+  {
+    "id": "d01",
+    "category": "Differentiation",
+    "tags": ["dyslexia", "accessible text", "reading level", "UDL"],
+    "title": {
+      "en": "Text Simplifier for Accessible Learning",
+      "ro": "Simplificator de text pentru învățare accesibilă",
+      "ru": "Упрощение текста для доступного обучения"
+    },
+    "content": {
+      "en": "Rewrite the following text to make it accessible for students with dyslexia or reading difficulties, at approximately a [target reading level, e.g. Grade 3] reading level:\n\n[PASTE YOUR ORIGINAL TEXT HERE]\n\nApply these adaptations:\n- Shorten sentences to a maximum of 15 words each\n- Replace low-frequency vocabulary with simpler synonyms (keep subject-specific terms but define them)\n- Use active voice throughout\n- Break up long paragraphs into 2–3 sentence chunks\n- Add a bold key term glossary at the end (max 5 terms)\n- Suggest 2 places where a visual (diagram, image) would support comprehension\n\nDo not change the factual content or meaning.",
+      "ro": "Rescrie următorul text pentru a-l face accesibil elevilor cu dislexie sau dificultăți de citire, la aproximativ nivelul de citire [nivel țintă, ex. clasa a 3-a]:\n\n[INSEREAZĂ TEXTUL ORIGINAL AICI]\n\nAplică aceste adaptări:\n- Scurtează propozițiile la maximum 15 cuvinte fiecare\n- Înlocuiește vocabularul rar cu sinonime mai simple (păstrează termenii de specialitate, dar definește-i)\n- Folosește vocea activă pe tot parcursul\n- Împarte paragrafele lungi în segmente de 2–3 propoziții\n- Adaugă un glosar cu termeni cheie în bold la sfârșit (max. 5 termeni)\n- Sugerează 2 locuri unde un element vizual (diagramă, imagine) ar sprijini înțelegerea\n\nNu modifica conținutul factual sau sensul.",
+      "ru": "Перепишите следующий текст, чтобы сделать его доступным для учащихся с дислексией или трудностями чтения, приблизительно на уровне чтения [целевой уровень, напр. 3 класс]:\n\n[ВСТАВЬТЕ ОРИГИНАЛЬНЫЙ ТЕКСТ ЗДЕСЬ]\n\nПрименить следующие адаптации:\n- Сократить предложения до максимум 15 слов каждое\n- Заменить малочастотную лексику более простыми синонимами (сохранить предметные термины, но дать их определение)\n- Использовать активный залог на протяжении всего текста\n- Разбить длинные абзацы на фрагменты по 2–3 предложения\n- Добавить выделенный жирным глоссарий ключевых терминов в конце (макс. 5 терминов)\n- Предложить 2 места, где визуальный элемент (диаграмма, изображение) поддержит понимание\n\nНе изменять фактическое содержание или смысл."
+    }
+  },
+  {
+    "id": "d02",
+    "category": "Differentiation",
+    "tags": ["tiered tasks", "mixed ability", "scaffolding", "differentiated instruction"],
+    "title": {
+      "en": "Tiered Assignment Creator",
+      "ro": "Creator de sarcini pe niveluri",
+      "ru": "Создание многоуровневых заданий"
+    },
+    "content": {
+      "en": "Create three versions of the following assignment on [topic], differentiated by readiness level for [grade level] students:\n\nOriginal task: [DESCRIBE THE ORIGINAL TASK]\n\nProvide:\n- Tier 1 (Support / Below Level): Heavily scaffolded version with sentence starters, word banks, a simplified version of the task, and visual supports\n- Tier 2 (Core / On Level): The standard task with minor scaffolding hints and guiding questions\n- Tier 3 (Extension / Above Level): An enriched version that adds complexity, requires higher-order thinking, or connects to a real-world application\n\nFor each tier, note: the key modification made and why it supports that learner group. All three tiers must assess the same core learning objective.",
+      "ro": "Creează trei versiuni ale următoarei sarcini despre [subiect], diferențiate după nivelul de pregătire al elevilor din clasa [nivel]:\n\nSarcina originală: [DESCRIE SARCINA ORIGINALĂ]\n\nOferă:\n- Nivelul 1 (Suport / Sub nivel): Versiune puternic sprijinită cu exemple de propoziții, bănci de cuvinte, o versiune simplificată a sarcinii și suport vizual\n- Nivelul 2 (Bază / La nivel): Sarcina standard cu indicii de sprijin minore și întrebări ghid\n- Nivelul 3 (Extindere / Deasupra nivelului): O versiune îmbogățită care adaugă complexitate, necesită gândire de ordin superior sau conectează la o aplicare din lumea reală\n\nPentru fiecare nivel, notează: modificarea cheie efectuată și de ce sprijină acel grup de elevi. Toate cele trei niveluri trebuie să evalueze același obiectiv de bază.",
+      "ru": "Создайте три версии следующего задания по теме [тема], дифференцированных по уровню готовности для [класс/уровень]:\n\nИсходное задание: [ОПИШИТЕ ИСХОДНОЕ ЗАДАНИЕ]\n\nПредоставьте:\n- Уровень 1 (Поддержка / Ниже уровня): Сильно подкреплённая версия с опорами-подсказками для предложений, словарными банками, упрощённой версией задания и визуальной поддержкой\n- Уровень 2 (Основной / На уровне): Стандартное задание с небольшими подсказками и направляющими вопросами\n- Уровень 3 (Расширение / Выше уровня): Обогащённая версия, добавляющая сложность, требующая мышления высшего порядка или связи с реальным применением\n\nДля каждого уровня укажите: ключевую внесённую модификацию и почему она поддерживает эту группу учащихся. Все три уровня должны оценивать одну и ту же основную цель обучения."
+    }
+  },
+  {
+    "id": "d03",
+    "category": "Differentiation",
+    "tags": ["ELL", "language support", "scaffolding", "multilingual learners"],
+    "title": {
+      "en": "ELL Scaffolding Strategy Generator",
+      "ro": "Generator de strategii de sprijin pentru elevii cu altă limbă maternă",
+      "ru": "Генератор стратегий поддержки для изучающих язык"
+    },
+    "content": {
+      "en": "Generate a practical scaffolding support plan for English Language Learners (ELL) / multilingual learners studying [topic] in a [grade level] class. The students are at [language proficiency level, e.g. beginner / intermediate / advanced].\n\nInclude:\n1. Pre-teaching vocabulary: 8–10 key terms with student-friendly definitions and a home-language connection tip\n2. Visual scaffolds: 3 specific types of visual aids appropriate for this topic\n3. Modified instructions: how to rewrite or chunk the main task instructions for clarity\n4. Sentence frames: 5 useful sentence starters for discussion or written responses\n5. Peer support strategy: one structured partner or small-group activity that builds both content knowledge and language skills\n6. Assessment adaptation: how to assess content understanding without penalising language proficiency",
+      "ro": "Generează un plan practic de sprijin pentru elevii cu altă limbă maternă (ELL) / elevi multilingvi care studiază [subiect] într-o clasă de [nivel]. Elevii se află la nivelul de competență lingvistică [nivelul, ex. începător / intermediar / avansat].\n\nInclude:\n1. Predarea prealabilă a vocabularului: 8–10 termeni cheie cu definiții accesibile elevilor și un sfat de conectare la limba de acasă\n2. Suporturi vizuale: 3 tipuri specifice de materiale vizuale potrivite pentru acest subiect\n3. Instrucțiuni modificate: cum să rescrii sau să segmentezi instrucțiunile sarcinii principale pentru claritate\n4. Structuri de propoziții: 5 exemple de începuturi de propoziții utile pentru discuții sau răspunsuri scrise\n5. Strategie de suport de la colegi: o activitate structurată în perechi sau grup mic care dezvoltă atât cunoașterea conținutului, cât și abilitățile lingvistice\n6. Adaptare a evaluării: cum să evaluezi înțelegerea conținutului fără a penaliza competența lingvistică",
+      "ru": "Создайте практический план поддержки для изучающих английский язык (ELL) / многоязычных учащихся, изучающих [тема] в классе [уровень]. Учащиеся находятся на уровне языковой компетенции [уровень, напр. начальный / средний / продвинутый].\n\nВключите:\n1. Предварительное обучение лексике: 8–10 ключевых терминов с понятными для учеников определениями и советом по связи с родным языком\n2. Визуальные опоры: 3 конкретных типа наглядных пособий, подходящих для этой темы\n3. Адаптированные инструкции: как переписать или разбить инструкции к основному заданию для ясности\n4. Опоры-конструкции предложений: 5 полезных начал предложений для обсуждения или письменных ответов\n5. Стратегия поддержки сверстников: одна структурированная активность в паре или малой группе\n6. Адаптация оценивания: как оценивать понимание содержания без штрафа за языковые трудности"
+    }
+  },
+  {
+    "id": "cr01",
+    "category": "Creativity",
+    "tags": ["creative writing", "imagination", "prompts", "narrative"],
+    "title": {
+      "en": "Creative Writing Prompt Pack",
+      "ro": "Pachet de prompturi pentru scriere creativă",
+      "ru": "Набор промптов для творческого письма"
+    },
+    "content": {
+      "en": "Generate a creative writing prompt pack with 5 diverse prompts connected to the theme of [theme/topic] for [grade level] students.\n\nFor each prompt include:\n- The prompt itself (2–3 sentences, vivid and open-ended)\n- A genre tag (e.g. mystery, sci-fi, realistic fiction, poetry, personal narrative)\n- A difficulty level (beginner / intermediate / advanced)\n- One 'spark question' to help students who feel stuck\n- A word count target (e.g. 150–200 words)\n\nEnsure the prompts are culturally inclusive, age-appropriate, and encourage original thinking. Include at least one prompt that can be adapted for students who prefer drawing or oral storytelling instead of writing.",
+      "ro": "Generează un pachet de prompturi pentru scriere creativă cu 5 sugestii diverse, conectate la tema [temă/subiect] pentru clasa [nivel].\n\nPentru fiecare prompt include:\n- Promptul propriu-zis (2–3 propoziții, viu și deschis)\n- O etichetă de gen (ex. mister, science-fiction, ficțiune realistă, poezie, narațiune personală)\n- Un nivel de dificultate (începător / intermediar / avansat)\n- O 'întrebare scânteie' pentru elevii care se simt blocați\n- Un target de număr de cuvinte (ex. 150–200 de cuvinte)\n\nAsigură-te că prompturile sunt incluzive cultural, adecvate vârstei și încurajează gândirea originală. Include cel puțin un prompt care poate fi adaptat pentru elevii care preferă desenul sau povestirea orală în loc de scriere.",
+      "ru": "Создайте набор промптов для творческого письма с 5 разнообразными подсказками, связанными с темой [тема/тематика] для [класс/уровень].\n\nДля каждого промпта включите:\n- Сам промпт (2–3 предложения, живой и открытый)\n- Жанровый тег (напр. мистика, научная фантастика, реалистическая проза, поэзия, личное повествование)\n- Уровень сложности (начальный / средний / продвинутый)\n- Один «искровой вопрос» для учеников, которые чувствуют себя заблокированными\n- Целевое количество слов (напр. 150–200 слов)\n\nУбедитесь, что промпты культурно инклюзивны, соответствуют возрасту и поощряют оригинальное мышление. Включите хотя бы один промпт, который можно адаптировать для учеников, предпочитающих рисование или устное рассказывание."
+    }
+  },
+  {
+    "id": "cr02",
+    "category": "Creativity",
+    "tags": ["project-based learning", "PBL", "inquiry", "real-world", "unit"],
+    "title": {
+      "en": "Project-Based Learning Unit Designer",
+      "ro": "Designer de unitate PBL (învățare bazată pe proiect)",
+      "ru": "Конструктор проектного обучения (PBL)"
+    },
+    "content": {
+      "en": "Design a 2-week project-based learning (PBL) unit on [topic] for [grade level] students.\n\nInclude:\n1. Driving Question: one compelling, open-ended question that anchors the whole project\n2. Learning standards / objectives addressed (3–5)\n3. Week 1 overview: daily activities, mini-lessons, research and investigation tasks\n4. Week 2 overview: product development, peer feedback, presentation preparation\n5. Final product options: give students 3 choices of how to present/demonstrate their learning (e.g. poster, video, report, prototype)\n6. Assessment plan: formative checkpoints + final product rubric summary\n7. Cross-curricular connections: link to at least 2 other subjects\n8. Resources and materials list\n\nMake the unit relevant to students' real lives and local context.",
+      "ro": "Proiectează o unitate de învățare bazată pe proiect (PBL) de 2 săptămâni pe tema [subiect] pentru clasa [nivel].\n\nInclude:\n1. Întrebarea motrice: o întrebare convingătoare, deschisă, care ancorează întregul proiect\n2. Standarde / obiective de învățare abordate (3–5)\n3. Prezentare generală a Săptămânii 1: activități zilnice, mini-lecții, sarcini de cercetare și investigare\n4. Prezentare generală a Săptămânii 2: dezvoltarea produsului, feedback între colegi, pregătirea prezentării\n5. Opțiuni pentru produsul final: oferă elevilor 3 modalități de prezentare/demonstrare a învățării (ex. poster, video, referat, prototip)\n6. Planul de evaluare: puncte de control formative + rezumatul rubricii pentru produsul final\n7. Conexiuni inter-disciplinare: legătură cu cel puțin 2 alte discipline\n8. Listă de resurse și materiale\n\nFă unitatea relevantă pentru viața reală a elevilor și contextul local.",
+      "ru": "Разработайте двухнедельный блок проектного обучения (PBL) по теме [тема] для [класс/уровень].\n\nВключите:\n1. Движущий вопрос: один убедительный, открытый вопрос, который является основой всего проекта\n2. Стандарты / цели обучения (3–5)\n3. Обзор 1-й недели: ежедневные активности, мини-уроки, задания по исследованию\n4. Обзор 2-й недели: разработка продукта, взаимная обратная связь, подготовка презентации\n5. Варианты финального продукта: 3 способа представления/демонстрации знаний (напр. плакат, видео, доклад, прототип)\n6. План оценивания: формативные контрольные точки + сводка рубрики финального продукта\n7. Межпредметные связи: с не менее чем 2 другими предметами\n8. Список ресурсов и материалов\n\nСделайте блок актуальным для реальной жизни учеников и местного контекста."
+    }
+  },
+  {
+    "id": "cr03",
+    "category": "Creativity",
+    "tags": ["escape room", "gamification", "review", "engagement", "puzzles"],
+    "title": {
+      "en": "Classroom Escape Room Designer",
+      "ro": "Designer de escape room pentru clasă",
+      "ru": "Конструктор классной комнаты-загадки (escape room)"
+    },
+    "content": {
+      "en": "Create a classroom escape room concept for reviewing [subject/topic] with [grade level] students. The scenario should be narrative-driven and motivating.\n\nProvide:\n1. Scenario setup: a short, engaging story that frames the challenge (2–3 sentences)\n2. 4 puzzle stations: for each station describe\n   - The educational content being reviewed\n   - The puzzle format (cipher, matching, multiple choice lock, QR code, etc.)\n   - The 'clue' or answer that unlocks the next station\n3. Time recommendation and group size\n4. Materials needed (printable / digital)\n5. Differentiation tip: how to make it easier or harder for mixed ability groups\n6. Debrief questions for after the activity (3 questions connecting the game to the learning objectives)\n\nKeep it achievable with standard classroom materials.",
+      "ro": "Creează un concept de escape room pentru clasă pentru recapitularea [disciplinei/subiectului] cu elevii din clasa [nivel]. Scenariul trebuie să fie narativ și motivant.\n\nOferă:\n1. Configurarea scenariului: o poveste scurtă și atractivă care cadru provocarea (2–3 propoziții)\n2. 4 stații cu puzzle: pentru fiecare stație descrie\n   - Conținutul educațional recapitulat\n   - Formatul puzzle-ului (cifru, potrivire, lacăt cu alegere multiplă, cod QR etc.)\n   - 'Indiciul' sau răspunsul care deblochează stația următoare\n3. Recomandare de timp și dimensiunea grupului\n4. Materiale necesare (tipărite / digitale)\n5. Sfat de diferențiere: cum să-l faci mai ușor sau mai greu pentru grupuri cu abilități mixte\n6. Întrebări de debrief după activitate (3 întrebări care leagă jocul de obiectivele de învățare)\n\nPăstrează-l realizabil cu materialele standard din clasă.",
+      "ru": "Создайте концепцию классной «комнаты-загадки» (escape room) для повторения [предмет/тема] с учащимися [класс/уровень]. Сценарий должен быть основан на истории и мотивировать.\n\nПредоставьте:\n1. Настройка сценария: короткая, захватывающая история, которая формирует вызов (2–3 предложения)\n2. 4 станции с головоломками: для каждой станции опишите\n   - Изучаемый образовательный контент\n   - Формат головоломки (шифр, сопоставление, замок с выбором ответа, QR-код и т.д.)\n   - «Подсказку» или ответ, открывающий следующую станцию\n3. Рекомендацию по времени и размеру группы\n4. Необходимые материалы (печатные / цифровые)\n5. Совет по дифференциации: как сделать легче или сложнее для групп со смешанными способностями\n6. Вопросы для дебрифинга после активности (3 вопроса, связывающие игру с целями обучения)\n\nСделайте это достижимым со стандартными классными материалами."
+    }
+  }
+,
+  {
+    "id": "u01",
+    "category": "University",
+    "tags": ["university", "lesson planning", "higher education", "faculty"],
+    "title": {
+      "en": "University Lecture Plan Builder",
+      "ro": "Generator plan de lecție universitară",
+      "ru": "Конструктор плана университетского занятия"
+    },
+    "content": {
+      "en": "Create a detailed 90-minute university lesson plan for the course [course name], topic [topic], and student year [year].\n\nInclude:\n- Learning outcomes aligned with course competencies\n- A 10-minute activation activity\n- A core teaching sequence with timing (concept explanation, examples, guided practice)\n- One collaborative task for small groups\n- A quick formative check at the end\n- Suggested homework or follow-up reading\n\nFormat as a practical plan a lecturer can use immediately.",
+      "ro": "Creează un plan detaliat de 90 de minute pentru un seminar universitar la disciplina [numele cursului], tema [tema], anul [an].\n\nInclude:\n- Rezultate ale învățării aliniate la competențele cursului\n- O activitate de activare de 10 minute\n- O secvență principală cu timp estimat (explicații, exemple, practică ghidată)\n- O sarcină colaborativă pentru grupuri mici\n- O verificare formativă la final\n- Temă sau lectură recomandată\n\nFormatează răspunsul ca un plan practic, utilizabil imediat de un cadru didactic.",
+      "ru": "Составьте подробный план 90-минутного университетского занятия по курсу [название курса], теме [тема] и году обучения [курс/год].\n\nВключите:\n- Результаты обучения, связанные с компетенциями курса\n- 10-минутную активирующую активность\n- Основную учебную последовательность с таймингом (объяснение, примеры, управляемая практика)\n- Одно групповое задание\n- Быструю формативную проверку в конце\n- Домашнее задание или дополнительное чтение\n\nОформите как практический план, который преподаватель может сразу использовать."
+    }
+  },
+  {
+    "id": "u02",
+    "category": "University",
+    "tags": ["electives", "course planning", "curriculum", "degree"],
+    "title": {
+      "en": "Elective Course Selection Advisor",
+      "ro": "Asistent pentru alegerea disciplinelor opționale",
+      "ru": "Помощник по выбору элективов"
+    },
+    "content": {
+      "en": "Help me choose electives for my program [program name], current semester [semester], and career goal [goal].\n\nUse this decision framework:\n- Relevance to career direction\n- Skill gaps I need to close\n- Workload balance with mandatory courses\n- Prerequisites and scheduling constraints\n- Professor/teaching style fit\n\nOutput:\n1) Ranked elective shortlist (top 5)\n2) Why each one fits\n3) A final recommended combination for this semester.",
+      "ro": "Ajută-mă să aleg discipline opționale pentru programul [program], semestrul [semestrul], și obiectivul de carieră [obiectiv].\n\nFolosește acest cadru de decizie:\n- Relevanța pentru direcția profesională\n- Lacunele de competențe pe care trebuie să le acopăr\n- Echilibrul de încărcare cu disciplinele obligatorii\n- Condițiile prerechizite și constrângerile de orar\n- Potrivirea cu stilul profesorului\n\nOutput:\n1) Listă ierarhizată cu cele mai bune 5 opționale\n2) Motivare pentru fiecare\n3) Recomandare finală de combinație pentru semestru.",
+      "ru": "Помогите выбрать элективы для программы [программа], текущего семестра [семестр] и карьерной цели [цель].\n\nИспользуйте такую рамку:\n- Соответствие карьерному направлению\n- Навыковые пробелы, которые нужно закрыть\n- Баланс нагрузки с обязательными дисциплинами\n- Пререквизиты и ограничения расписания\n- Соответствие стилю преподавания\n\nВывод:\n1) Ранжированный шортлист (топ-5)\n2) Почему каждый вариант подходит\n3) Итоговая рекомендуемая комбинация на семестр."
+    }
+  },
+  {
+    "id": "u03",
+    "category": "Academic Writing",
+    "tags": ["academic essay", "thesis", "structure", "arguments"],
+    "title": {
+      "en": "Academic Essay Planner",
+      "ro": "Planificator pentru eseu academic",
+      "ru": "Планировщик академического эссе"
+    },
+    "content": {
+      "en": "Build a full writing plan for an academic essay on [topic], length [word count], for [course].\n\nProvide:\n- Refined thesis statement\n- Proposed outline (introduction, 3-5 body sections, conclusion)\n- Main argument and counterargument for each section\n- Suggested evidence types (study, theory, data, case)\n- Citation reminders for [citation style]\n- Common pitfalls to avoid\n\nKeep the plan formal, evidence-oriented, and ready for drafting.",
+      "ro": "Construiește un plan complet de redactare pentru un eseu academic despre [tema], lungime [număr de cuvinte], la disciplina [disciplina].\n\nInclude:\n- Teză reformulată clar\n- Structură propusă (introducere, 3-5 secțiuni, concluzie)\n- Argument principal și contraargument pentru fiecare secțiune\n- Tipuri de dovezi recomandate (studiu, teorie, date, caz)\n- Memento-uri de citare pentru stilul [stil citare]\n- Greșeli frecvente de evitat\n\nPăstrează formatul academic, orientat pe dovezi, gata pentru redactare.",
+      "ru": "Составьте полный план написания академического эссе по теме [тема], объем [кол-во слов], для курса [курс].\n\nВключите:\n- Уточнённый тезис\n- Предложенную структуру (введение, 3-5 разделов, заключение)\n- Основной аргумент и контраргумент для каждого раздела\n- Рекомендуемые типы доказательств (исследование, теория, данные, кейс)\n- Напоминания по оформлению ссылок в стиле [стиль]\n- Типичные ошибки, которых следует избегать\n\nСделайте план академичным, доказательным и готовым к написанию черновика."
+    }
+  },
+  {
+    "id": "u04",
+    "category": "Academic Writing",
+    "tags": ["literature review", "thesis", "dissertation", "sources"],
+    "title": {
+      "en": "Literature Review Blueprint",
+      "ro": "Schemă pentru review de literatură",
+      "ru": "Шаблон обзора литературы"
+    },
+    "content": {
+      "en": "Create a literature review blueprint for my thesis on [research topic].\n\nI need:\n- Research question refinement\n- 5-7 thematic clusters for organizing sources\n- Inclusion/exclusion criteria for articles\n- A comparison matrix template (author, method, sample, findings, limitations)\n- Gap analysis prompts\n- A writing flow from background to synthesis to research gap\n\nFocus on academic rigor and clarity.",
+      "ro": "Creează o schemă de review de literatură pentru teza mea pe tema [tema de cercetare].\n\nAm nevoie de:\n- Clarificarea întrebării de cercetare\n- 5-7 clustere tematice pentru organizarea surselor\n- Criterii de includere/excludere a articolelor\n- Un șablon de matrice comparativă (autor, metodă, eșantion, rezultate, limite)\n- Întrebări pentru analiza lacunelor\n- Flux de scriere de la context la sinteză și gap de cercetare\n\nAccent pe rigoare academică și claritate.",
+      "ru": "Составьте шаблон обзора литературы для моей диссертации по теме [тема исследования].\n\nМне нужно:\n- Уточнение исследовательского вопроса\n- 5-7 тематических кластеров для организации источников\n- Критерии включения/исключения статей\n- Шаблон сравнительной матрицы (автор, метод, выборка, результаты, ограничения)\n- Вопросы для анализа исследовательских пробелов\n- Логика написания: контекст -> синтез -> исследовательский разрыв\n\nСфокусируйтесь на академической строгости и ясности."
+    }
+  },
+  {
+    "id": "u05",
+    "category": "Student Productivity",
+    "tags": ["time management", "study plan", "exams", "productivity"],
+    "title": {
+      "en": "Semester Study System Generator",
+      "ro": "Generator de sistem de studiu pe semestru",
+      "ru": "Генератор системы учебы на семестр"
+    },
+    "content": {
+      "en": "Design a realistic semester study system for a university student with these courses: [course list], weekly availability [hours], and exam dates [dates].\n\nInclude:\n- Weekly timetable blocks (deep study, revision, admin tasks)\n- Priority rule for difficult courses\n- A 2-week exam sprint strategy\n- A catch-up protocol for missed sessions\n- Progress tracking template (weekly review)\n\nMake it sustainable and suitable for part-time working students.",
+      "ro": "Construiește un sistem realist de studiu pentru un student universitar cu disciplinele [lista], disponibilitate săptămânală [ore], și datele examenelor [date].\n\nInclude:\n- Blocuri săptămânale (studiu profund, recapitulare, sarcini administrative)\n- Regulă de prioritizare pentru materiile dificile\n- Strategie de 2 săptămâni înainte de examene\n- Protocol de recuperare când pierd sesiuni de studiu\n- Șablon de monitorizare a progresului (review săptămânal)\n\nSă fie sustenabil pentru studenți care și lucrează part-time.",
+      "ru": "Составьте реалистичную систему учебы на семестр для студента вуза с предметами [список], доступным временем [часы/неделя] и датами экзаменов [даты].\n\nВключите:\n- Недельные блоки (глубокая учеба, повторение, административные задачи)\n- Правило приоритизации сложных дисциплин\n- Стратегию двухнедельного «экзаменационного спринта»\n- Протокол восстановления пропущенных сессий\n- Шаблон отслеживания прогресса (еженедельный обзор)\n\nСделайте систему устойчивой и подходящей для студентов с подработкой."
+    }
+  },
+  {
+    "id": "u06",
+    "category": "Student Productivity",
+    "tags": ["work-study balance", "routine", "burnout prevention", "planning"],
+    "title": {
+      "en": "Work-Study-Life Balance Planner",
+      "ro": "Planificator echilibru muncă-studiu-viață",
+      "ru": "Планировщик баланса учеба-работа-жизнь"
+    },
+    "content": {
+      "en": "Create a weekly balance plan for a university student who studies [program], works [hours/week], and wants to avoid burnout.\n\nBuild:\n- Core fixed schedule (classes, job, commuting)\n- Protected study windows\n- Recovery blocks (sleep, movement, social time)\n- Minimum viable routine for stressful weeks\n- Warning signs checklist and corrective actions\n\nOutput as a practical weekly template with clear time blocks.",
+      "ro": "Creează un plan săptămânal de echilibru pentru un student care studiază [program], lucrează [ore/săptămână] și vrea să evite burnout-ul.\n\nConstruiește:\n- Program fix de bază (cursuri, job, deplasare)\n- Ferestre protejate pentru studiu\n- Blocuri de recuperare (somn, mișcare, timp social)\n- Rutina minimă pentru săptămâni stresante\n- Checklist cu semne de avertizare și acțiuni corective\n\nOutput-ul să fie un șablon săptămânal practic, cu blocuri clare de timp.",
+      "ru": "Создайте недельный план баланса для студента, который учится на [программа], работает [часов/неделю] и хочет избежать выгорания.\n\nСформируйте:\n- Базовый фиксированный график (пары, работа, дорога)\n- Защищенные учебные окна\n- Блоки восстановления (сон, движение, социальное время)\n- Минимально жизнеспособную рутину на стрессовые недели\n- Чеклист тревожных сигналов и корректирующие действия\n\nОформите как практичный недельный шаблон с четкими временными блоками."
+    }
+  },
+  {
+    "id": "u07",
+    "category": "University",
+    "tags": ["student projects", "collaboration", "teamwork", "innovation"],
+    "title": {
+      "en": "University Collaboration Project Ideas",
+      "ro": "Idei de proiecte colaborative universitare",
+      "ru": "Идеи проектов студенческого сотрудничества"
+    },
+    "content": {
+      "en": "Generate 12 project ideas for university students to collaborate across faculties (e.g., business + IT + design + social sciences).\n\nFor each idea include:\n- Project title\n- Problem being solved\n- Target users\n- Team roles by discipline\n- Expected deliverable in 4-6 weeks\n- Evaluation criteria\n\nPrioritize ideas that are feasible with low budget and have social or campus impact.",
+      "ro": "Generează 12 idei de proiecte pentru colaborare între studenți din facultăți diferite (ex. business + IT + design + științe sociale).\n\nPentru fiecare idee include:\n- Titlul proiectului\n- Problema rezolvată\n- Utilizatorii țintă\n- Roluri pe discipline\n- Livrabilul în 4-6 săptămâni\n- Criterii de evaluare\n\nPrioritizează idei realizabile cu buget redus și impact social sau în campus.",
+      "ru": "Сгенерируйте 12 идей совместных проектов для студентов разных факультетов (например, бизнес + IT + дизайн + социальные науки).\n\nДля каждой идеи укажите:\n- Название проекта\n- Какую проблему решает\n- Целевых пользователей\n- Командные роли по направлениям\n- Ожидаемый результат за 4-6 недель\n- Критерии оценки\n\nПриоритет: идеи с низким бюджетом и социальным/кампусным эффектом."
+    }
+  },
+  {
+    "id": "u08",
+    "category": "University",
+    "tags": ["student finance", "budget", "financial literacy", "university life"],
+    "title": {
+      "en": "Student Budget Strategy Builder",
+      "ro": "Constructor de strategie de buget pentru student",
+      "ru": "Конструктор бюджетной стратегии для студента"
+    },
+    "content": {
+      "en": "Create a monthly budget strategy for a university student with income [income], fixed costs [rent, transport, utilities], and variable costs [food, study materials, social life].\n\nInclude:\n- Budget allocation by category with percentages\n- Cost-cut options that do not harm academic performance\n- Emergency fund mini-plan\n- Weekly spending limits\n- A simple tracking table template\n\nKeep recommendations realistic for student life.",
+      "ro": "Creează o strategie lunară de buget pentru un student cu venit [venit], costuri fixe [chirie, transport, utilități], și costuri variabile [mâncare, materiale, viață socială].\n\nInclude:\n- Alocare pe categorii cu procente\n- Opțiuni de reducere a costurilor fără impact negativ asupra studiului\n- Mini-plan pentru fond de urgență\n- Limite de cheltuieli săptămânale\n- Șablon simplu de monitorizare\n\nRecomandările să fie realiste pentru viața de student.",
+      "ru": "Составьте месячную бюджетную стратегию для студента с доходом [доход], фиксированными расходами [аренда, транспорт, коммунальные] и переменными расходами [еда, учебные материалы, социальная жизнь].\n\nВключите:\n- Распределение бюджета по категориям в процентах\n- Способы экономии без ущерба учебе\n- Мини-план аварийного фонда\n- Недельные лимиты расходов\n- Простой шаблон таблицы учета\n\nРекомендации должны быть реалистичны для студенческой жизни."
+    }
+  },
+  {
+    "id": "t01",
+    "category": "Teaching Support",
+    "tags": ["assignment design", "student ownership", "engagement", "feedback loop"],
+    "title": {
+      "en": "Student Ownership Assignment Ideator",
+      "ro": "Generator de sarcini pentru autonomie studențească",
+      "ru": "Генератор заданий для учебной самостоятельности"
+    },
+    "content": {
+      "en": "Act as an instructional partner for educators.\n\nWorkflow:\n1) Ask for course topic and assignment subject.\n2) Ask for a detailed description of the current assignment.\n3) Summarize the assignment objectives and confirm them.\n4) Generate 5 concise assignment ideas (<=25 words each) that increase student ownership and engagement.\n5) Ask whether to modify, expand, generate 5 more, or finish.\n6) Repeat until the educator is satisfied, then close with appreciation.",
+      "ro": "Acționează ca partener pedagogic pentru cadre didactice.\n\nFlux:\n1) Cere tema cursului și subiectul sarcinii.\n2) Cere o descriere detaliată a sarcinii actuale.\n3) Rezumă obiectivele și confirmă-le.\n4) Generează 5 idei concise (<=25 cuvinte) care cresc autonomia și implicarea studenților.\n5) Întreabă dacă dorește modificări, extindere, încă 5 idei sau finalizare.\n6) Repetă până la satisfacție, apoi încheie cu apreciere.",
+      "ru": "Выступай в роли методического партнера преподавателя.\n\nПроцесс:\n1) Уточни тему курса и тему задания.\n2) Попроси подробное описание текущего задания.\n3) Суммируй и согласуй цели задания.\n4) Сгенерируй 5 кратких идей (<=25 слов), усиливающих самостоятельность и вовлеченность студентов.\n5) Спроси: изменить, расширить, дать еще 5 идей или завершить.\n6) Повторяй цикл до удовлетворения, затем завершай с благодарностью."
+    }
+  },
+  {
+    "id": "t02",
+    "category": "Teaching Support",
+    "tags": ["diagnostic quiz", "multiple choice", "assessment", "retrieval practice"],
+    "title": {
+      "en": "Diagnostic Quiz Creator",
+      "ro": "Creator de quiz diagnostic",
+      "ru": "Конструктор диагностических квизов"
+    },
+    "content": {
+      "en": "Create diagnostic multiple-choice quizzes for teachers.\n\nRules:\n- Ask one question at a time and wait for replies.\n- Gather: learning level, target type (recall/application/mixed), and concepts to test.\n- Produce 4-6 questions, each with 4 plausible options, no 'all of the above'.\n- Provide answer key.\n- Ask for difficulty/targeting feedback and revise iteratively.\n- End positively.",
+      "ro": "Creează quizuri diagnostice cu alegere multiplă pentru profesori.\n\nReguli:\n- Pune o singură întrebare pe rând și așteaptă răspunsul.\n- Colectează: nivelul de studiu, tipul de testare (recall/aplicare/mixt), conceptele evaluate.\n- Generează 4-6 itemi, fiecare cu 4 variante plauzibile, fără 'toate variantele'.\n- Oferă barem de răspuns.\n- Cere feedback despre dificultate și relevanță și revizuiește iterativ.\n- Încheie pozitiv.",
+      "ru": "Создавай диагностические тесты с выбором ответа для преподавателей.\n\nПравила:\n- Задавай по одному вопросу и жди ответ.\n- Собери: уровень обучения, формат проверки (воспроизведение/применение/смешанный), проверяемые концепты.\n- Сформируй 4-6 вопросов, каждый с 4 правдоподобными вариантами, без 'все вышеперечисленное'.\n- Добавь ключ ответов.\n- Запроси обратную связь по сложности/точности и доработай итеративно.\n- Заверши в позитивном тоне."
+    }
+  },
+  {
+    "id": "t03",
+    "category": "Teaching Support",
+    "tags": ["explanations", "analogy", "examples", "instructional design"],
+    "title": {
+      "en": "Concept Explanation and Analogy Designer",
+      "ro": "Designer de explicații și analogii",
+      "ru": "Конструктор объяснений, примеров и аналогий"
+    },
+    "content": {
+      "en": "Help teachers craft simple and accurate explanations.\n\nSequence:\n1) Ask learning level and wait.\n2) Ask topic and prior student knowledge and wait.\n3) Produce: 2 short paragraphs explaining the concept, 2 examples, and 1 analogy.\n4) Avoid jargon and hidden assumptions.\n5) Ask what to revise or expand based on likely misconceptions.",
+      "ro": "Ajută profesorii să creeze explicații simple și corecte.\n\nSecvență:\n1) Întreabă nivelul de studiu și așteaptă.\n2) Întreabă tema și cunoștințele anterioare ale studenților și așteaptă.\n3) Livrează: 2 paragrafe scurte de explicație, 2 exemple și 1 analogie.\n4) Evită jargonul și presupunerile ascunse.\n5) Întreabă ce trebuie revizuit/extins în funcție de posibilele concepții greșite.",
+      "ru": "Помогай преподавателям создавать простые и точные объяснения.\n\nПорядок:\n1) Спроси уровень обучения и дождись ответа.\n2) Спроси тему и предварительные знания студентов и дождись ответа.\n3) Дай: 2 коротких абзаца объяснения, 2 примера и 1 аналогию.\n4) Избегай жаргона и скрытых предположений.\n5) Спроси, что изменить/расширить с учетом типичных заблуждений."
+    }
+  },
+  {
+    "id": "t04",
+    "category": "Teaching Support",
+    "tags": ["student support", "mindset", "intervention", "instructional coaching"],
+    "title": {
+      "en": "Individual Student Challenge Support Coach",
+      "ro": "Coach pentru dificultățile individuale ale studentului",
+      "ru": "Коуч по поддержке студента с трудностями"
+    },
+    "content": {
+      "en": "Assist educators in analyzing a student's learning difficulties before suggesting interventions.\n\nMethod:\n- Ask about educator domain and course context.\n- Ask 1-2 questions at a time about strengths and struggle areas.\n- Before advising, ask if more context should be added.\n- Then propose tailored mindsets, exercises, and reflection questions.\n- Close by checking alignment with the teacher's approach.",
+      "ro": "Asistă cadrul didactic în analiza dificultăților unui student înainte de recomandări.\n\nMetodă:\n- Întreabă domeniul profesorului și contextul cursului.\n- Pune 1-2 întrebări odată despre puncte forte și dificultăți.\n- Înainte de recomandări, întreabă dacă mai există context relevant.\n- Apoi propune mindset-uri, exerciții și întrebări de reflecție personalizate.\n- Închide prin verificarea alinierii cu stilul didactic al profesorului.",
+      "ru": "Помогай преподавателю анализировать трудности конкретного студента до выдачи рекомендаций.\n\nПодход:\n- Уточни предметную область преподавателя и контекст курса.\n- Задавай по 1-2 вопроса о сильных сторонах и зонах затруднений.\n- Перед советами спроси, нужно ли добавить контекст.\n- Затем предложи персонализированные установки, упражнения и вопросы для рефлексии.\n- Заверши проверкой соответствия рекомендаций стилю преподавателя."
+    }
+  },
+  {
+    "id": "t05",
+    "category": "Teaching Support",
+    "tags": ["interactive lecture", "higher education", "formative assessment", "instructional coaching"],
+    "title": {
+      "en": "Interactive Lecture Script Builder",
+      "ro": "Generator de scenariu pentru lecție interactivă",
+      "ru": "Конструктор интерактивной лекции"
+    },
+    "content": {
+      "en": "Guide teachers in producing a full interactive lecture script.\n\nProcess:\n- Ask one question at a time (topic/level, key texts, prior knowledge, student context).\n- Wait after each question.\n- Produce a full narrative lecture with hook, interaction points, formative checks, and annotated teaching notes.\n- Move from familiar to unfamiliar concepts.\n- Iterate until the teacher is satisfied.",
+      "ro": "Ghidează profesorii în elaborarea unui scenariu complet de lecție interactivă.\n\nProces:\n- Pune câte o întrebare (temă/nivel, texte-cheie, cunoștințe anterioare, contextul clasei).\n- Așteaptă după fiecare întrebare.\n- Livrează o lecție narativă completă cu hook, puncte interactive, verificări formative și note didactice adnotate.\n- Pornește de la familiar spre concepte mai abstracte.\n- Revizuiește până când profesorul este mulțumit.",
+      "ru": "Помогай преподавателям создавать полный сценарий интерактивной лекции.\n\nПроцесс:\n- Задавай по одному вопросу (тема/уровень, ключевые тексты, стартовые знания, контекст группы).\n- Жди ответ после каждого шага.\n- Сформируй полную нарративную лекцию: хук, интерактив, формативные проверки, аннотированные методические заметки.\n- Двигайся от знакомого к абстрактному.\n- Дорабатывай, пока преподаватель не подтвердит готовность."
+    }
+  },
+  {
+    "id": "t06",
+    "category": "Teaching Support",
+    "tags": ["lesson planning", "checking understanding", "misconceptions", "teaching strategies"],
+    "title": {
+      "en": "Lesson Plan Coaching Workflow",
+      "ro": "Flux de coaching pentru plan de lecție",
+      "ru": "Коучинг-сценарий по плану урока"
+    },
+    "content": {
+      "en": "Coach teachers through lesson planning with staged questioning.\n\nCollect in order:\n1) Topic and student level\n2) Prior knowledge status\n3) Lesson goal + optional texts/researchers\n\nThen produce a tailored lesson plan including direct instruction, broad checks for understanding, discussion, engaging in-class activity, and assignment, with rationale for each. Ask for misconceptions and revise, then offer goal-attainment advice.",
+      "ro": "Ghidează profesorii în planificarea lecției prin întrebări etapizate.\n\nColectează în ordine:\n1) Tema și nivelul studenților\n2) Stadiul cunoștințelor anterioare\n3) Obiectivul lecției + texte/cercetători (opțional)\n\nApoi oferă un plan personalizat: instruire directă, verificări extinse de înțelegere, discuție, activitate captivantă în clasă și temă, cu justificare pentru fiecare element. Întreabă despre concepții greșite și revizuiește, apoi oferă recomandări pentru atingerea obiectivului.",
+      "ru": "Проводи преподавателя через планирование занятия поэтапными вопросами.\n\nСобери по порядку:\n1) Тему и уровень обучающихся\n2) Статус предварительных знаний\n3) Цель занятия + тексты/исследователи (опционально)\n\nЗатем выдай персонализированный план: прямое объяснение, широкую проверку понимания, обсуждение, вовлекающую активность и задание, с обоснованием каждого элемента. Уточни возможные заблуждения, доработай план и предложи советы по достижению цели."
+    }
+  }
+]
